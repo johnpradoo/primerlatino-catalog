@@ -2151,7 +2151,6 @@
     "language": "🇲🇽 LATINO",
     "codec": "H.264",
     "hash": "76019FEFF37C1C57EB06D431CBB3B910BB3B5157",
-    "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/48Wa6L2QzY47nWqtRCgiqYlecc9.jpg",
     "type": "movie"
     },
@@ -2289,5 +2288,6 @@
     }
   ]
 }
+
 
 
