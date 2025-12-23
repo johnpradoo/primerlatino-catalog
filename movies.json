@@ -13,11 +13,11 @@
     },
     {
       "id": "tt29927663",
-      "t": "El gran diluvio",
-      "q": "1080p | WEB-DL | Dolby Atmos",
-      "l": "🇲🇽 LATINO | 🇯🇵 JAPON",
-      "h": "1C21417AD7A04DBA2478AEC41A9FB2588DC001EC",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg"
+      "title": "El gran diluvio",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇯🇵 JAPON",
+      "hash": "1C21417AD7A04DBA2478AEC41A9FB2588DC001EC",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg"
     },
     {
       "id": "tt4712810",
@@ -2135,4 +2135,5 @@
     }
   ]
 }
+
 
