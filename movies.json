@@ -1826,6 +1826,17 @@
     "type": "movie"
     },
     {
+      "id": "tt1192628",
+      "t": "Rango (2011)",
+      "q": ["4K  BluRay  AAC", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["6DF771D941EB20FC6305F4E9EF1F99609115873D", "4C8C7F5D53036F52CF00EFAC8073633FFD130BBB"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9p73gp8ugku8n1YNhO0dYryF1ll.jpg",
+      "type": "movie"
+    },
+    {
     "id": "tt0454921",
     "title": "En Busca de la Felicidad (2006)",
     "quality": "1080p | BluRayRip | Dolby Atmos",
@@ -1878,6 +1889,138 @@
       "h": ["17E2613618BF76BDF04D17FB79EF38F488D1C31A", "2CEF9861565D395DEC4E3E7AC90C621454F29C0D"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/e7HyYnRLh96X5aXqfl6NeXskLJt.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt14948432",
+      "t": "Código Traje Rojo (2024)",
+      "q": ["4K  WEB-DL  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["6C206582D570DAE7CCBB4F560B80D074CE278991", "040CBEF2CCF3E1202C962123D31E4B70E4F18D07"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b0EJNVPy95JJZhpg9l6a1eIh059.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1446192",
+      "title": "El origen de los guardianes (2012)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "44AAB865FE090B6DE3DDBFA9C38115B6F733C245",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kDVXsTZhssIJeZIMBC33MqmgkrQ.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1430607",
+      "title": "Operación Regalo (2011)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "2FF9071E44D8ADA432549F4339D43F376CE322EE",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aqowdcCdxWESSoABjOaguGu9b85.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0170016",
+      "t": "El Grinch (2000)",
+      "q": ["4K  BluRay  AAC", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["BE5951B3D7CFE39EB6F7D62C16408689F82ABEAF", "8D2E3526816277F79D3F83A0D2DB45F005038FFD"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/fvIWRZqed5zRojNlK9zBePYWzce.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt2709692",
+      "title": "El Grinch (2018)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "865A83F3EB9F019959CC2724B559DCE61D7366F9",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0338348",
+      "t": "El Expreso Polar (2004)",
+      "q": ["4K  BluRay  AAC", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["47FEE471F80A3917F4D1CB992E086BF0B3BFEA84", "E00747F52F80574C839CB0730F6753C7E2CAFDAC"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/jV3VtoGojwLHNvBEZwsqwyIuQgh.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0319343",
+      "title": "Elf, el duende (2003)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "6BBEA9CDB537D3A9503EA4A6348B59F87301F299",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0116705",
+      "title": "El regalo prometido (1996)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "8BC6D39DF89EAE37C94F1037BA224EF8E2F91B0E",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/poTAozwkfk23yFr3vu2FIIeXqVo.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0111070",
+      "title": "Santa Cláusula (1996)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "C11EE403DE1297132059F3788414C1002766B88C",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yCtOqoichqPPeKYlnvoMvAPSW4Z.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0304669",
+      "title": "Santa Cláusula 2 (2002)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "1816F7DA7CA5338767FC110E2F523FD5E303BAF9",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/mrq96F52yJ4L6XDLu5O7QUP7KqR.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0452681",
+      "title": "Santa Cláusula 3: complot en el Polo norte (2006)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "1FDCFBD98DFE23BC1C372DC65F7216E379592D44",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1FeVlc0AwTucjp1Xm5bVKhdhXEe.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0107688",
+      "t": "El Extraño Mundo de Jack (1993)",
+      "q": ["4K  BluRay  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["7C5AF85C7926AF2188E30E649CE4B556D5371926", "E84F80BB5763CA051BA2A8C421F7DBE59ABD8A44"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/sPAPFeEi820pZtm2Y77tv8vQJnM.jpg",
       "type": "movie"
     },
     {
@@ -1999,6 +2142,17 @@
     "hash": "7A91D91C43D5B9B7339D7120E893D37366DF8C70",
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zbzMCGszAiHCwIpTGD7fX79zsDA.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0104431",
+    "title": "Mi pobre angelito 2: Perdido en Nueva York (1992)",
+    "quality": "1080p | Bluray | AAC 5.1",
+    "language": "🇲🇽 LATINO",
+    "codec": "H.264",
+    "hash": "76019FEFF37C1C57EB06D431CBB3B910BB3B5157",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/48Wa6L2QzY47nWqtRCgiqYlecc9.jpg",
     "type": "movie"
     },
     {
