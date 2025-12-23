@@ -2089,6 +2089,17 @@
     "type": "movie"
     },
     {
+    "id": "tt0101272",
+    "title": "Los locos Addams (1991)",
+    "quality": "1080p | Bluray | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "11D28409E84E630AFA6F105F5746CC3B168CBE6B",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/sf0ABx2RewFdLi5QJEdRIfL8cBn.jpg",
+    "type": "movie"
+   },
+    {
       "id": "tt0093437",
       "title": "Jovenes Ocultos (1987)",
       "quality": "4K | BLURAY | AAC 5.1",
