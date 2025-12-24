@@ -13,11 +13,22 @@
     },
     {
       "id": "tt29927663",
-      "title": "El gran diluvio",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇯🇵 JAPON",
-      "hash": "1C21417AD7A04DBA2478AEC41A9FB2588DC001EC",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg"
+      "t": "El gran diluvio",
+      "q": ["1080p | WEB-DL | Dolby Atmos", "4K | Dolby Vision | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇯🇵 JAPON",
+      "h": ["1C21417AD7A04DBA2478AEC41A9FB2588DC001EC", "5D0344FDF104F878A2FB65602F1161AE397EF4A3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg"
+    },
+    {
+      "id": "tt9362736",
+      "t": "Mátate, Amor",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["A84C8B36C5BB1945F86F38FA129DCACB093ADE99", "9001A6FB36A8296599A79EEDBD141C8C21F0EE30"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/u2xyvEmgkXmfMeCQcGf6mERNFfd.jpg",
+      "type": "movie"
     },
     {
       "id": "tt4712810",
@@ -36,7 +47,8 @@
       "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "h": ["3FB2683346C261FD27B049A92FCEA43291CA1BB0", "A30CB955E1F0003690C54BAE154EA29AB919DA3E"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg"
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7FZhpH4YasGdvY4FUGQJhCusLeg.jpg",
+      "type": "movie"
     },
     {
       "id": "tt0790604",
@@ -222,17 +234,6 @@
       "h": ["9051B5D86FED727A715B76634BCBD5B6576D7336", "E1E0C2411EFCF722978EAEF0AF9AB30D62457C7E"],
       "s": "aprobado",
       "p": "https://image.tmdb.org/t/p/w1280/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt9362736",
-      "title": "Mátate, Amor",
-      "quality": "1080p | WEB-DL | CAM-S",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "A84C8B36C5BB1945F86F38FA129DCACB093ADE99",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/u2xyvEmgkXmfMeCQcGf6mERNFfd.jpg",
       "type": "movie"
     },
     {
