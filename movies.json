@@ -1,6 +1,17 @@
 {
   "movies": [
-     {
+    {
+      "id": "tt30274401",
+      "t": "Five Nights at Freddy's 2",
+      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["D43F7BFA1AB0304073F15A85D37D5112A395FC7F", "1A6140069842877DC7CA753A630688EB9426DB14"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/1CfZCb56vWjq37uXtbKNMevMzwG.jpg",
+      "type": "movie"
+    },
+    {
       "id": "tt30472557",
       "t": "Chainsaw Man - La película: Arco de Reze (2025)",
       "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
@@ -29,6 +40,109 @@
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/u2xyvEmgkXmfMeCQcGf6mERNFfd.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt17526714",
+      "t": "La sustancia",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["E47B6BB3833B27961AD9C306222ACD4990B1E883", "F8B087EAB30D2B05BB6E2AF6E300146D288548D5"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w1280/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt15791034",
+      "title": "Barbarian",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "F5A3D6BA1A4FAEA1A6A4E9503FDD18732D0DAE2C",
+      "poster": "https://www.themoviedb.org/t/p/w1280/rHDL6LTRgc9h3oGkeoWVJpnkhTI.jpg"
+    },
+    {
+      "id": "tt26671996",
+      "title": "Encerrado",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "59DFBB8450374B84C5EEBCDF0C392F8952004EDF",
+      "poster": "https://www.themoviedb.org/t/p/w1280/xIyIiJCss0HpychoUKFQYKiZiBH.jpg"
+    },
+    {
+      "id": "tt32237537",
+      "title": "Mis 84 m²",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | kr KOREAN",
+      "hash": "4D13CBCFA6268C98577B7E5E35FEFB46D864285B",
+      "poster": "https://www.themoviedb.org/t/p/w1280/xhsXOE2FWBGOaHUoAnjBUW1Y1Ds.jpg"
+    },
+    {
+      "id": "tt23468450",
+      "title": "Longlegs: Coleccionista De Almas",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "0C3F22F3A2848E7C12A4DAE891BE56015876D7E4",
+      "poster": "https://www.themoviedb.org/t/p/w1280/e4686PPqj8AOdTUnGZpjApT1cDi.jpg"
+    },
+    {
+      "id": "tt5052448",
+      "title": "Déjame salir",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "62EAB5C45D087B01B130DA3397125BBDEA463579",
+      "poster": "https://www.themoviedb.org/t/p/w1280/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg"
+    },
+    {
+      "id": "tt8760708",
+      "title": "M3GAN",
+      "quality": "4k | HDR | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "661C6462E452DE408B93091D4F6FFB75FF6C4D6B",
+      "poster": "https://www.themoviedb.org/t/p/w1280/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg"
+    },
+    {
+      "id": "tt26342662",
+      "title": "M3GAN 2.0",
+      "quality": "4k | HDR | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "E0441F9638CAEE61887B2B38FA0C4CF23C192E2A",
+      "poster": "https://www.themoviedb.org/t/p/w1280/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg"
+    },
+    {
+      "id": "tt1355644",
+      "title": "Pasajeros",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "069DAB17D85BC2F26B5E908629429F150C4E0B67",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg"
+    },
+    {
+      "id": "tt0399201",
+      "title": "La isla",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "E385EFF9F085DAB258C9BDC11D9EC44AC17AC9A7",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/mNmc7H8L2ABfcY2V7BQMpFU0F4r.jpg"
+    },
+    {
+      "id": "tt1911600",
+      "title": "Miss Bala",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "78BEA66F2E010BD8D2B0D5FA2B75D95D872DFA0C",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/b3sSssMYkOoCghxOFxYPm58kdfJ.jpg"
+    },
+    {
+      "id": "tt0878804",
+      "title": "Un sueño posible",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | cn CHINESE",
+      "hash": "087A152DC5E5D46F38DA41F178A84033B12D5E06",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/uDZJph23idOLBmImnuaZBlF3TgP.jpg"
     },
     {
       "id": "tt4712810",
@@ -1512,17 +1626,6 @@
       "hash": "03750E0EA99487082C55AE54A5E30B9AE709F730",
       "status": "aprobado",
       "poster": "https://image.tmdb.org/t/p/w1280/utIg6Vghn65A7rz8tH9ItHUuCzU.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt26342662",
-      "title": "M3GAN 2.0",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "E0441F9638CAEE61887B2B38FA0C4CF23C192E2A",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/6tPr2pXIpqIldCSTKUt6GCSyvnf.jpg",
       "type": "movie"
     },
     {
