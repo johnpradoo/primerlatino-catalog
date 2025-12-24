@@ -4,7 +4,7 @@
       "id": "tt30472557",
       "t": "Chainsaw Man - La película: Arco de Reze (2025)",
       "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
-      "l": " 🇲🇽 LATINO | 🇯🇵 JAPON | 🇺🇸 ENGLISH",
+      "l": "🇲🇽 LATINO | 🇯🇵 JAPON | 🇺🇸 ENGLISH",
       "c": "H.264",
       "h": ["BEC1B136EF1C313A2B61CA5685B4C4F3B697EAA0", "CF37D3D8AFF599C8D15B4392DD6FCAC89FED9EE7"],
       "s": "aprobado",
@@ -37,6 +37,14 @@
       "language": "🇲🇽 LATINO | Us ENGLISH",
       "hash": "1B316D702B9CAC59FD0BD1E2463D846298E01DF0",
       "poster": "https://www.themoviedb.org/t/p/w1280/icToXS9r12hEXERVBYHBR0kKCeO.jpg"
+    },
+    {
+      "id": "tt6208148",
+      "title": "Blanca Nieves (2025)",
+      "quality": "1080p | WEB-DL" | Dolby Atmos"
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "FFAA8F1F53BF0A4B01D743BA3B2C5128C62A41F8",
+      "poster": "https://image.tmdb.org/t/p/w1280/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg"
     },
     {
       "id": "tt0110527",
