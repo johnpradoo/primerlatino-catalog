@@ -14,9 +14,9 @@
     {
       "id": "tt29927663",
       "t": "El gran diluvio",
-      "q": ["1080p | WEB-DL | Dolby Atmos", "4K | Dolby Vision | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇯🇵 JAPON",
-      "h": ["1C21417AD7A04DBA2478AEC41A9FB2588DC001EC", "5D0344FDF104F878A2FB65602F1161AE397EF4A3"],
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇰🇷 COREA",
+      "h": ["A25AAF942351F600FC68AEBCC4A2CB5E186AFC0A", "1C21417AD7A04DBA2478AEC41A9FB2588DC001EC"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg"
     },
     {
@@ -25,7 +25,7 @@
       "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
-      "h": ["A84C8B36C5BB1945F86F38FA129DCACB093ADE99", "9001A6FB36A8296599A79EEDBD141C8C21F0EE30"],
+      "h": ["9001A6FB36A8296599A79EEDBD141C8C21F0EE30", "A84C8B36C5BB1945F86F38FA129DCACB093ADE99"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/u2xyvEmgkXmfMeCQcGf6mERNFfd.jpg",
       "type": "movie"
@@ -2339,6 +2339,7 @@
     }
   ]
 }
+
 
 
 
