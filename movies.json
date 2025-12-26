@@ -1,6 +1,22 @@
 {
   "movies": [
     {
+      "id": "tt1757678",
+      "title": "Avatar: Fuego y Cenizas (2025)",
+      "quality": "4K | HVC1 3840x1600 | MP3 48000Hz",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "386DFDB9126E5997E2EC012493C9C922DB3B2F0A",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg"
+    },
+    {
+      "id": "tt26443597",
+      "title": "Zootopia 2 (2025)",
+      "quality": "1080p | WEB-DLL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "A8AC0478ED9D034636C5756BF175C2EA28048935",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tzmoJwltaH2HYijQbR9ovqKZ2M.jpg"
+    },
+    {
       "id": "tt30274401",
       "t": "Five Nights at Freddy's 2",
       "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
@@ -42,6 +58,22 @@
       "type": "movie"
     },
     {
+      "id": "tt22048412",
+      "t": "MaXXXine (2024)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FD869A42E28119119D0321E2B491DE4B703BFAE8", "DB7CE6241A5F1C355ECACFF8CF6541720EEBC866"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg"
+    },
+    {
+      "id": "tt32395062",
+      "title": "Muzzle: City of Wolves (2025)",
+      "quality": "1080p | WEB-DLL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "7FFFBC8BA72C6302C2716760517B0E02EC654EC9",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yBg2t8vuqrE8nqrxS3VzW3Qvzh3.jpg"
+    },
+    {
       "id": "tt4712810",
       "t": "Los ilusionistas 3: Ahora me ves, ahora no (2025)",
       "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
@@ -62,6 +94,64 @@
       "type": "movie"
     },
     {
+      "id": "tt24950660",
+      "t": "Eternity (2025)",
+      "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["FDE85FD0A1EC9BB0D7944BC909F09851054321DF", "E349F5A3A35C76C7400045FCFCCDF31CA5ED147C"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/5zCTIGICQ9ykuBXDmS4rL1kEK9l.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt35766629",
+      "title": "Adiós, June (2025)",
+      "quality": "1080p | WEB-DLL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "EE69B0C66E6065CE31DFACF713A0C9ACAE1414C8",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/709SO0yKhqqk807Bwt6c32WMZBi.jpg"
+    },
+    {
+      "id": "tt37961727",
+      "title": "La hora de los valientes (2025)",
+      "quality": "1080p | WEB-DLL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "A725E70E92E714BFAF4290B5C383AB395154F616",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dl19vt92LSuIah9M1eQpvZwkVmp.jpg"
+    },
+    {
+      "id": "tt32246771",
+      "title": "Haz Que Regrese",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "9EC95B7378170A4397A7B9A20461A2DFC3D81F99",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "quality": "1080p | WED-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "B1FB5A53C92C954AEBD2A381D759B7A3721979C7",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt31036941",
+      "title": "Jurassic World: El Renacer",
+      "quality": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": ["561AD34E68BF65C7E742FFC9F09F0186F622A983", "C20C4CA8D8B6DDB4EFB897E8DB6D4A4B4ECC420E"],
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
+      "type": "movie"
+    },
+    {
       "id": "tt0790604",
       "title": "Un vecino con pocas luces",
       "quality": "1080p | WEB-DL",
@@ -76,6 +166,14 @@
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "7ED70032EB4868F2D06BE03CD16702A8AB16ABEB",
       "poster": "https://www.themoviedb.org/t/p/w1280/heYt5iHBemRHzeNCjGBy5u1YMlr.jpg"
+    },
+    {
+      "id": "tt16426418",
+      "t": "Desafiantes (2025)",
+      "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["3C9430B30F3288E25828DB0616F9EE101BFD5A8C", "0B034F32557568A3FAA06F608714B0A16F5CB5D3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg"
     },
     {
       "id": "tt1160368",
@@ -212,17 +310,6 @@
       "hash": "5CF67AE53B2ACB1CCE40A10144A77ED63F1CB046",
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rh3HNzV7o8ouH4NnCuL76OFPFBF.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt31036941",
-      "title": "Jurassic World: El Renacer",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "C20C4CA8D8B6DDB4EFB897E8DB6D4A4B4ECC420E",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
       "type": "movie"
     },
     {
@@ -511,6 +598,14 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt11097384",
+      "t": "Spaceman (2024)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["", "4BC4A94F5778E53FA28174E4D2196D058DBC5553"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg"
     },
     {
       "id": "tt33057137",
@@ -1070,6 +1165,14 @@
       "type": "movie"
     },
     {
+      "id": "tt15325794",
+      "t": "Verigo (2022)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["AFAE1D2D9A779605B2814A38287A84BBDCDD1F77", "C047978CAAD7A4474314DF54A277B5563061885E"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/meH8NCaSFW4KHUf3bBPG2ICeplY.jpg"
+    },
+    {
       "id": "tt8115900",
       "t": "Los Tipos Malos (2022)",
       "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
@@ -1154,6 +1257,30 @@
       "status": "aprobado",
       "poster": "https://www.cinecalidad.rs/wp-content/uploads/2025/11/breathe-2024.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt1431045",
+      "title": "Deadpool (2016)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "BC97659ED6C073102223039C691E029DE17BD706",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg"
+    },
+    {
+      "id": "tt5463162",
+      "t": "Deadpool 2 (2018)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["5A373F00427C0A176806DFCDAE4A3B744E79117C", "027F6E00832D3EA9D63CE82F0BB508E0C4F906C3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg"
+    },
+    {
+      "id": "tt6263850",
+      "t": "Deadpool & Wolverine (2024)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos", "1080 | BLURAY REMUX | ATMOS"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["5702B85B8A608FC6CBD4609A137CBDBB743B2083", "539A1E24228E92FDAFE5FAE268A6AAC3FD647567", "5702B85B8A608FC6CBD4609A137CBDBB743B2083"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9TFSqghEHrlBMRR63yTx80Orxva.jpg"
     },
     {
       "id": "tt2798920",
@@ -1672,28 +1799,6 @@
       "type": "movie"
     },
     {
-      "id": "tt31036941",
-      "title": "Jurassic World: El Renacer",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "561AD34E68BF65C7E742FFC9F09F0186F622A983",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt32246771",
-      "title": "Haz Que Regrese",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "9EC95B7378170A4397A7B9A20461A2DFC3D81F99",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt32246771",
       "title": "Haz Que Regrese",
       "quality": "1080p | WED-DL | Dolby Atmos",
@@ -1782,17 +1887,6 @@
       "type": "movie"
     },
     {
-      "id": "tt1312221",
-      "title": "Frankenstein",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "B1FB5A53C92C954AEBD2A381D759B7A3721979C7",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
-      "type": "movie"
-    },
-     {
       "id": "tt0499549",
       "t": "Avatar (2009)",
       "q": ["4K  BluRayRip  AAC 5.1", "1080p  BluRayRip  AAC 5.1"],
@@ -1955,6 +2049,22 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A3yR6Mdz48elRI1pBOzbIbDyCRi.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt3915174",
+      "t": "El gatos con botas: último deseo (2022)",
+      "q": ["4K | BLURAY | DTS", "1080p | WEB-DL | Dolby Atmos", "1080 | BLURAY REMUX | ATMOS"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["5AC5EFF97304CC5D1C4EC6C5BB809EC8DA3C3F23", "BF72678D3BD8516438FB479896A85BF75BEADA5F", "2B161FD420CD9E81C4959FADAD1C9326495F5666"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg"
+    },
+    {
+      "id": "tt0448694",
+      "t": "El gato con botas (2011)",
+      "q": ["4K | BLURAY | DTS", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["CB2C6ADB023A045C718FD93BB288155083DAB120", "C46457F06AA326F4E003894FA4515B4261E2EFD7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/1VmrC82zY4U33l9UHlZTWDB1asN.jpg"
     },
     {
     "id": "tt1001526",
@@ -2222,6 +2332,22 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt0481499",
+      "title": "Los Croods (2013)",
+      "quality": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": ["AAA203BBEFE4D03B7137344795DB611D7BD0516E", "FFFE9DF1A2D7642E68438F9D70F25305145EF9E7"],
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg"
+    },
+    {
+      "id": "tt0481499",
+      "title": "Los Croods 2 (2020)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "85F0C7069CBE8F4DA5E715E848A6122CC928C5C1",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5uMWKEmegf5aTJnp1u98JF4QerP.jpg"
     },
     {
       "id": "tt0116705",
@@ -2505,6 +2631,14 @@
     "status": "aprobado",
     "poster": "https://image.tmdb.org/t/p/w1280/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
     "type": "movie"
+    },
+    {
+      "id": "tt0086250",
+      "t": "Scarface: Caracortada (1983)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["E7105D959E6A12A7F98631F5D3A03E4C85A13995", "80EA64E9490B5BDD79BB9016C69C5D0A077AA0C7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/fPU5BdCeldWO4HB62J1dSxMo3gG.jpg"
     },
     {
     "id": "tt31973693",

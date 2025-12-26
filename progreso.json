@@ -1,18 +1,32 @@
 {
     "progreso": [
+      {
+      "id": "tt2861424",
+      "title": "Rick y Morty (2013)",
+        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
+        "progreso": 80,
+      "descripcion": "Faltan 2 temporadas T7 y T8"
+    },
+    {
+      "id": "tt13443470",
+      "title": "Merlina (2022)",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5DlNYe4e8aVHoKH4XrUuREWMY8s.jpg",
+      "progreso": 50,
+      "descripcion": "Trabajando en la Temporada 1 de Merlina, T2 Live"
+    },
     {
       "id": "tt12637874",
-      "title": "Fallout (2024) : Temporada 2",
+      "title": "Fallout (2024)",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/uNctKf62RRL8RKPTrdyFrcttwT2.jpg",
-      "progreso": 10,
-      "descripcion": "Esperando Capitulo 2 de la temporada 2 de Fallout"
+      "progreso": 20,
+      "descripcion": "Esperando Capitulo 3 de la temporada 2 de Fallout"
     },
     {
       "id": "tt4574334",
-      "title": "Stranger Things : Temporada 5",
+      "title": "Stranger Things",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1sRJ8D1vpXE5WQBGrUBky3uUwvX.jpg",
-      "progreso": 70,
-      "descripcion": "Esperando capitulos de la temporada 5 de Stranger Things"
+      "progreso": 90,
+      "descripcion": "Esperando ultimo capitulo de la temporada 5"
     },
     {
       "id": "tt0121220",
