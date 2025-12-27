@@ -2030,6 +2030,26 @@
       "type": "movie"
     },
     {
+      "id": "tt1985949",
+      "t": "Angry Birds: La película (2016)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["B52FCAF87CBB9C9260F979B4D68CCBA4590FBC72", "9F81E498AA3CEFD862A876AA886021BBA8DD4204"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/cY7nyBe2HHvWHmpafq8hjnrQp4j.jpg"
+    },
+    {
+      "id": "tt6095472",
+      "t": "Angry Birds 2: la película (2019)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["8DA7D03B63B03C8E2F4D45BB4C8087E9A8E544AF", "0BA084511E88670D03107F4272AC077DB201275E"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/stYLlUBaub28HN8SzJRyC1t2vXU.jpg"
+    },
+    {
     "id": "tt3040964",
     "title": "El Libro de la Selva (2016)",
     "quality": "4K | BLURAY | Dolby Atmos",
@@ -2039,6 +2059,16 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/pQGB08Kxyt3TLN4L01E175BRcvu.jpg",
     "type": "movie"
+    },
+    {
+      "id": "tt1772341",
+      "t": "Ralph, el demoledor (2012)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRemux  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["36C031EE5D693947AC785678D3C0DA3178909740", "BFDBE70D583BFF6E43300299C5B4E2C6EB86D289"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3kB1z3uwsYlKAUMO8OuxrFlktvx.jpg"
     },
     {
       "id": "tt0082198",
@@ -2061,6 +2091,36 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A3yR6Mdz48elRI1pBOzbIbDyCRi.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt0372784",
+      "t": "Batman inicia (2005)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["B7E7B99EE61D14B5B19F102AECB7AFDC0276F513", "C4974D206D0B44CD25742DD5F84BD08DBE5B7ADC"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg"
+    },
+    {
+      "id": "tt0468569",
+      "t": "Batman: El caballero de la noche (2008)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["E7D4D6A669459DA1E0A554B2E867D1CB97B6A00D", "BCDA0FDED0410F9E0B1A2DB94EDD731A176DCA3B"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/hZUSv4mCne1DP05ihoVDoh8Dg0W.jpg"
+    },
+    {
+      "id": "tt1345836",
+      "t": "Batman: El caballero de la noche asciende (2012)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["27D69D43FF0699663B816E5EE209C13B1C28680F", "9F91A9F563111081A8879638B7D6B0831AF8204F"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gaivVSK2pOIOAWNGGKyMGpIAC2z.jpg"
     },
     {
       "id": "tt3915174",
@@ -2202,6 +2262,17 @@
       "h": ["60811AE8B3351989597BE46D187BFF9B81AAE378", "01ABFB9BE2A92E3A8C316B8818D94776FD7EFA95"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/pO1SrJgf5BumqcIRkYviSGIFdmX.jpg"
+    },
+    {
+      "id": "tt0462538",
+      "title": "Los Simpsons - La película (2007)",
+      "quality": "1080p | BluRayRip | E-AC3 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "708224E9076029BE733F9FE3A2068F884D0B1291",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",
+      "type": "movie"
     }, 
     {
     "id": "tt0389790",
@@ -2237,14 +2308,11 @@
     },
     {
       "id": "tt0316654",
-      "title": "Spider-Man 2 (2004)",
-      "quality": "4K | BLURAY | AAC 5.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "5F5DAB871F8CDAABCAF757E74A188211D6C8836A",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg",
-      "type": "movie"
+      "t": "Spider-Man 2 (2004)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p | BLURAY | Version Extendida", "1080 | BLURAY | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["5F5DAB871F8CDAABCAF757E74A188211D6C8836A", "9F10DC036A58C047D513CAE901876FFC992687ED", "860C15F8CBF2D59B8187BA72AA0ACF429AAAA81F"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg"
     },
     {
       "id": "tt0413300",
@@ -2406,6 +2474,26 @@
       "type": "movie"
     },
     {
+      "id": "tt0345950",
+      "t": "Bob Esponja, la película (2004)",
+      "q": ["", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["", "421990E0D452A23B1699821CF2D1B02A33CD3557"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/CtISczftMz6g7kyk5uLxBben8b.jpg"
+    },
+    {
+      "id": "tt0377092",
+      "t": "Chicas pesadas (2004)",
+      "q": ["", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["", "1BEA84742A0434D19AF778FBD12B7F47083017CF"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7L7wCakqwuoz6S9zRVaAH0NLJ3H.jpg"
+    },
+    {
       "id": "tt0381707",
       "t": "¿...y dónde están las rubias? (2004)",
       "q": ["4K  Upscaling  HDR", "1080p  WEB-DL  AAC 5.1"],
@@ -2414,6 +2502,16 @@
       "h": ["2749ACB14C3DF55075576A511C0B769B4B998EBA", "637A0E1B8C4CDB5570B0E11C7A77E01282C7A232"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/awJby5DNKNK3WsHMnBLoHHNCnmU.jpg"
+    },
+    {
+      "id": "tt0117705",
+      "t": "Space Jam: El juego del siglo (1996)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["7A9EA5D9AE1C767C34D0CADAD140E4E45904128E", "378671A4AEE91B38B14CADB0380C2EB96E3C49E7"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/6h3FIr5CQFCBV8Xrv7XZLZbIQR0.jpg"
     },
     {
       "id": "tt0109830",
@@ -2479,6 +2577,36 @@
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt0119654",
+      "t": "Hombres de negro (1997)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["2C662FBCB305826B36F1C17DC70FDD5F46A239E4", ""],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/yphbNBQbzDaeW1SwOHtaPwa5ppC.jpg"
+    },
+    {
+      "id": "tt0120912",
+      "t": "Hombres de negro II (2002)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["E037D954D860A5D90BCD317EFEC922E2B9FEA1B8", ""],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xgOgSEFRfVB52yM4Y8cAmqb1cqJ.jpg"
+    },
+    {
+      "id": "tt1409024",
+      "t": "Hombres de negro III (2012)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["3F31FB061B8D9D8A9D8758CAEDE7D4C419CBAEDF", ""],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/rcVJtZCGnp39obbDKYred2mT9sE.jpg"
     },
     {
       "id": "tt0120737",
@@ -2683,7 +2811,7 @@
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
     },
      {
-      "id": "tt0068646",
+      "id": "tt0071562",
       "t": "El Padrino Parte II (1974)",
       "q": ["4K | BlurayRip | HDR", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
