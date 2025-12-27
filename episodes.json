@@ -1,12 +1,15 @@
 {
   "episodes": [
 
-    { "id": "tt10919420:1:1", "title": "El juego del calamar", "season": 1, "episode": 1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
-    { "id": "tt10919420:1:2", "title": "El juego del calamar", "season": 1, "episode": 2, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
-    { "id": "tt10919420:1:3", "title": "El juego del calamar", "season": 1, "episode": 3, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
-    { "id": "tt10919420:1:4", "title": "El juego del calamar", "season": 1, "episode": 4, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
-    { "id": "tt10919420:1:5", "title": "El juego del calamar", "season": 1, "episode": 5, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
-    { "id": "tt10919420:1:6", "title": "El juego del calamar", "season": 1, "episode": 6, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
+    { "id": "tt10919420:1:1", "title": "El juego del calamar", "season": 1, "episode": 1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "1C203E7283DD71CC267B4CCB950AB17CCAD735B4 " },
+    { "id": "tt10919420:1:2", "title": "El juego del calamar", "season": 1, "episode": 2, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "ED5EB46B0A2487761DC24701F591BF24836C46FE " },
+    { "id": "tt10919420:1:3", "title": "El juego del calamar", "season": 1, "episode": 3, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "6947ECBD692A78E900916A56C560C9FC3686ECB0 " },
+    { "id": "tt10919420:1:4", "title": "El juego del calamar", "season": 1, "episode": 4, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "ED115E04BF09F9718D47FF331A94778A3A50E090 " },
+    { "id": "tt10919420:1:5", "title": "El juego del calamar", "season": 1, "episode": 5, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "5B57B84A9E9944D25A0A36A05136F63BAC3BFD6A " },
+    { "id": "tt10919420:1:6", "title": "El juego del calamar", "season": 1, "episode": 6, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "BC6A07F857788A7FAC11B55BF055CA4F44DA866A " },
+    { "id": "tt10919420:1:7", "title": "El juego del calamar", "season": 1, "episode": 7, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "3F81AF950B8B96590DAFCBF79162B3603331092C " },
+    { "id": "tt10919420:1:8", "title": "El juego del calamar", "season": 1, "episode": 8, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "CB1B605A060C52BA00070525FCBCEF18A5859D02 " },
+    { "id": "tt10919420:1:9", "title": "El juego del calamar", "season": 1, "episode": 9, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "B44CE613C9AF6A23EEE1CF9C7E75CCAA88EF4590 " },
 
     { "id": "tt10919420:2:1", "title": "El juego del calamar", "season": 2, "episode": 1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "" },
     { "id": "tt10919420:2:2", "title": "El juego del calamar", "season": 2, "episode": 2, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇰🇷 COREANO", "hash": "F71BC6E2CCD638B395F8BAF37D09DFF2EA3ACF2D" },

@@ -66,12 +66,52 @@
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg"
     },
     {
+      "id": "tt5950044",
+      "t": "Superman (2025)",
+      "q": ["4K REMUX | Dolby Vision | Dolby TrueHD", "4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FC4BD91AFFB2FC558309811150FA80D4782D6997", "9051B5D86FED727A715B76634BCBD5B6576D7336", "E1E0C2411EFCF722978EAEF0AF9AB30D62457C7E"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/waa6v1VKBbOGzWku7OpwmQw2uEf.jpg"
+    },
+    {
+      "id": "tt32246771",
+      "t": "Haz Que Regrese",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["9EC95B7378170A4397A7B9A20461A2DFC3D81F99", "0133B45D50216C8FA98D7DECB261C8DCF003EDC5"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/uAGhwYJ598yFJ7Zk9Ad0589rvQ.jpg"
+    },
+    {
+      "id": "tt6604188",
+      "t": "Tron: Ares (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["A362E898F213FB92C7E871320A6892E09FC9C26F", "C4F5EB8BB88DF4EC58F73622920B7C78E95C4DA9"],
+      "p": "https://image.tmdb.org/t/p/w1280/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
+    },
+    {
+      "id": "tt14999684",
+      "title": "Terror En Shelby Oaks (2025)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "7018C8B3D400BB3FDC80CB46FF15C01031845180",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/w7wsPyClttMEpQhAskpfMiaCSin.jpg"
+    },
+    {
       "id": "tt32395062",
       "title": "Muzzle: City of Wolves (2025)",
       "quality": "1080p | WEB-DLL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "7FFFBC8BA72C6302C2716760517B0E02EC654EC9",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yBg2t8vuqrE8nqrxS3VzW3Qvzh3.jpg"
+    },
+    {
+      "id": "tt27208407",
+      "title": "Please Don't Feed the Children (2025)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "6FB5770EDD77DEBF90403DDE6464293DDCE36A18",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1sD3bzoV2wjDeeHgkocGtCkuQbb.jpg"
     },
     {
       "id": "tt4712810",
@@ -119,17 +159,6 @@
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dl19vt92LSuIah9M1eQpvZwkVmp.jpg"
     },
     {
-      "id": "tt32246771",
-      "title": "Haz Que Regrese",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "9EC95B7378170A4397A7B9A20461A2DFC3D81F99",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt1312221",
       "title": "Frankenstein",
       "quality": "1080p | WED-DL | Dolby Atmos",
@@ -174,6 +203,14 @@
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "h": ["3C9430B30F3288E25828DB0616F9EE101BFD5A8C", "0B034F32557568A3FAA06F608714B0A16F5CB5D3"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg"
+    },
+    {
+      "id": "tt34963797",
+      "title": "Selena y Los Dinos: A Family's Legacy (2025)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "FA152E66943BE885EEB95C9E712EA50D61FEEEBB",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/m1GyfEvcsFrvJq1e9vxpx8vpYWn.jpg"
     },
     {
       "id": "tt1160368",
@@ -269,6 +306,14 @@
     "type": "movie"
     },
     {
+      "id": "tt21267296",
+      "title": "Hell of a Summer",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "DAC76FAAA08E4D47CE0D63C49CC172C699FADBE4",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/gCEJCaIzrU7FiOrv6fMMMnQ163B.jpg"
+    },
+    {
     "id": "tt30292390",
     "title": "Calendario mortal (2025)",
     "quality": "1080p | WEB-DL | Dolby Atmos",
@@ -321,17 +366,6 @@
       "h": ["32FBB0D10B60FA67494666C25135BE6ADE1F165A", "85EB09F3AB090486706E4663043A121EF6DF8961"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kDSdgH26sX3ctZIG1CWM7bgkmZB.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt5950044",
-      "t": "Superman",
-      "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["9051B5D86FED727A715B76634BCBD5B6576D7336", "E1E0C2411EFCF722978EAEF0AF9AB30D62457C7E"],
-      "s": "aprobado",
-      "p": "https://image.tmdb.org/t/p/w1280/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
       "type": "movie"
     },
     {
@@ -442,17 +476,6 @@
       "hash": "B8C0A942E67A57E7F0E40AE228529C42F5EECF11",
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt6604188",
-      "t": "Tron: Ares (2025)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["A362E898F213FB92C7E871320A6892E09FC9C26F", "C4F5EB8BB88DF4EC58F73622920B7C78E95C4DA9"],
-      "s": "aprobado",
-      "p": "https://image.tmdb.org/t/p/w1280/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
       "type": "movie"
     },
     {
@@ -1260,11 +1283,11 @@
     },
     {
       "id": "tt1431045",
-      "title": "Deadpool (2016)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "BC97659ED6C073102223039C691E029DE17BD706",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg"
+      "t": "Deadpool (2016)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["1A9B245B88A12A28C0CD2BD8F3D046EA7D4CA8D9", "BC97659ED6C073102223039C691E029DE17BD706"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg"
     },
     {
       "id": "tt5463162",
@@ -1642,17 +1665,6 @@
       "hash": "167E2D502FDD60CF83EAFE51BC0AB7E1D1F109E9",
       "status": "aprobado",
       "poster": "https://image.tmdb.org/t/p/w1280/y8aNzIRmMxIvcc7bgWwUfqNJcSa.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt5950044",
-      "title": "Superman",
-      "quality": "1080p | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "0761280FC0AD8139100A3E44A50AF0D4D8BCDAAA",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
       "type": "movie"
     },
     {
@@ -2342,7 +2354,7 @@
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg"
     },
     {
-      "id": "tt0481499",
+      "id": "tt2850386",
       "title": "Los Croods 2 (2020)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
