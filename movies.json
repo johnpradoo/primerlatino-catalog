@@ -9,6 +9,14 @@
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg"
     },
     {
+      "id": "tt32820897",
+      "title": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita (2025)",
+      "quality": "1080p | WEB-DLL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "028C53926734544CC2BE13C3008307A07C26E013",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
+    },
+    {
       "id": "tt26443597",
       "title": "Zootopia 2 (2025)",
       "quality": "1080p | WEB-DLL | Dolby Atmos",
@@ -89,6 +97,9 @@
       "h": ["A362E898F213FB92C7E871320A6892E09FC9C26F", "C4F5EB8BB88DF4EC58F73622920B7C78E95C4DA9"],
       "p": "https://image.tmdb.org/t/p/w1280/chpWmskl3aKm1aTZqUHRCtviwPy.jpg"
     },
+
+    ["FIN TOP 10 MOVIES 2025"],
+
     {
       "id": "tt14999684",
       "title": "Terror En Shelby Oaks (2025)",
@@ -2341,11 +2352,8 @@
       "t": "Código Traje Rojo (2024)",
       "q": ["4K  WEB-DL  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
       "h": ["6C206582D570DAE7CCBB4F560B80D074CE278991", "040CBEF2CCF3E1202C962123D31E4B70E4F18D07"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b0EJNVPy95JJZhpg9l6a1eIh059.jpg",
-      "type": "movie"
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b0EJNVPy95JJZhpg9l6a1eIh059.jpg"
     },
     {
       "id": "tt1446192",
@@ -2415,11 +2423,11 @@
     },
     {
       "id": "tt0481499",
-      "title": "Los Croods (2013)",
-      "quality": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": ["AAA203BBEFE4D03B7137344795DB611D7BD0516E", "FFFE9DF1A2D7642E68438F9D70F25305145EF9E7"],
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg"
+      "t": "Los Croods (2013)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["AAA203BBEFE4D03B7137344795DB611D7BD0516E", "FFFE9DF1A2D7642E68438F9D70F25305145EF9E7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg"
     },
     {
       "id": "tt2850386",
