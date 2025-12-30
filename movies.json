@@ -66,14 +66,6 @@
       "type": "movie"
     },
     {
-      "id": "tt22048412",
-      "t": "MaXXXine (2024)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["FD869A42E28119119D0321E2B491DE4B703BFAE8", "DB7CE6241A5F1C355ECACFF8CF6541720EEBC866"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg"
-    },
-    {
       "id": "tt5950044",
       "t": "Superman (2025)",
       "q": ["4K REMUX | Dolby Vision | Dolby TrueHD", "4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
@@ -100,6 +92,22 @@
 
     ["FIN TOP 10 MOVIES 2025"],
 
+    {
+      "id": "tt22048412",
+      "t": "MaXXXine (2024)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FD869A42E28119119D0321E2B491DE4B703BFAE8", "DB7CE6241A5F1C355ECACFF8CF6541720EEBC866"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg"
+    },
+    {
+      "id": "tt13650700",
+      "title": "El gran viaje tu vida (2025)",
+      "quality": "4K WEB-DL | HDR10+ | Dolby Vision",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "9E9AA8BC16CF57765DA33CAB886F5EF6AA59E8A9",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/8x6rIrAdMMzacyeF37sqOeOjfK8.jpg"
+    },
     {
       "id": "tt14999684",
       "title": "Terror En Shelby Oaks (2025)",
@@ -2484,10 +2492,10 @@
     {
       "id": "tt0345950",
       "t": "Bob Esponja, la película (2004)",
-      "q": ["", "1080p  BluRayRip  EAC3 5.1"],
+      "q": ["4K  BluRay  AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
-      "h": ["", "421990E0D452A23B1699821CF2D1B02A33CD3557"],
+      "h": ["6F052F9D855D972334F8FF6B6FC44CDEA0307780", "421990E0D452A23B1699821CF2D1B02A33CD3557"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/CtISczftMz6g7kyk5uLxBben8b.jpg"
     },
@@ -2716,6 +2724,81 @@
       "type": "movie"
     },
     {
+      "id": "tt0078748",
+      "t": "Alien, el octavo pasajero (1979)",
+      "q": ["4K REMUX | HDR10+ | Dolby TrueHD", "1080p | BluRayRemux | AAC 5.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["50D0D1FC015C5AA2401DDD4D405DCACCB75F660B", "4E351351517433A7B9957675F0A70527EFE26BA3", "4A400EF6846787DAE10622900519B338DBC58E2F"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/30nEIxAwxRzcdGclBmuXuJ3eOHt.jpg"
+    },
+    {
+      "id": "tt0090605",
+      "t": "Alien 2: El regreso (1986)",
+      "q": ["4K REMUX | HDR | Dolby TrueHD", "1080p | BluRayRemux | Dolby Digital", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["BB6AFD72E219B2B8180FBCD7F8328AC4BA1D691E", "E1055C3F3BF9C0BBAC28B4029C5BB53F9FB86892", "EFFCE7094A9456DC88B668C00F89CFB1F8B18BA4"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg"
+    },
+    {
+      "id": "tt0103644",
+      "t": "Alien³ (1992)",
+      "q": ["4K | Upscaled | Dolby Digital 5.1", "1080p | BluRayRip | AAC 5.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["D6D0D8B8FDCDB760BF9DF9039D6310F411591FDC", "76EA37609E5448B33A174505FAF408B5FB5D4968", "702895AA848DD57CB919BD33D255321FED596476"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg"
+    },
+    {
+      "id": "tt0118583",
+      "t": "Alien La resurrección (1997)",
+      "q": ["", "1080p | BluRayRemux | Dolby Digital"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["", "BEC5E944D8A1DFAA572714D00A0A5D11933C7BCC"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zHVPGP4dxGoaN8wBxk4wz9TDNAn.jpg"
+    },
+    {
+      "id": "tt1446714",
+      "t": "Prometeo (2012)",
+      "q": ["4K REMUX | HDR | Dolby TrueHD", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["55F6855FC0D7599C21AA181AA16C2EB8782EEB49", "24D3DBA75A2754436443F1193C023FE78A4C0196"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/wGNgPcwLJ0s70qUymBuft6ddqEn.jpg"
+    },
+    {
+      "id": "tt2316204",
+      "t": "Alien: Covenant (2017)",
+      "q": ["4K REMUX | HDR | Dolby Atmos", "1080p | BluRayRemux | Dolby Digital"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["5DCF976C0FB5FD9D99C26F5A40DEB3BA754D10DC", "8F60E39FCB5617251B57C95EA28C2B3ACE70E8CB"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg"
+    },
+    {
+      "id": "tt18412256",
+      "t": "Alien: Romulus (2024)",
+      "q": ["4K WEB-DL | HDR10+ | Dolby Vision", "1080p | BluRayRemux | Dolby Digital", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["EED44B9D3C63856A4F682D5168009BB587CEF2BD", "F23308189668E411D95771DFB08F0C2BCDB96041", "F56F2CD5E5783E1AD1B9F022538B4E70F37CBDF7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xmDypImhT0OOloQIj3JLslUrBw8.jpg"
+    },
+    {
+      "id": "tt0370263",
+      "t": "Alien vs. Depredador (2004)",
+      "q": ["4K | Upscaled | Dolby Digital 5.1", "1080p | BluRayRemux | Dolby Digital"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["CCE474CE23AF5F684F279A38698D8E700FAADDF7", "B2E9F9D921CA016D035657D52F1E45DFB8F68ED3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/2wHDyHrjIXkYjEtUKts6yUld6Ld.jpg"
+    },
+    {
+    "id": "tt0758730",
+    "title": "Aliens vs. Depredador 2 (2007)",
+    "quality": "1080p | BluRayRemux | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "E4CA4A670DBEBF0BC44558E146BA380EDC189A3E",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bhEaLpCwyqEi3dwnvP4oGXavIa6.jpg",
+    "type": "movie"
+    },
+    {
     "id": "tt0099785",
     "title": "Mi pobre angelito (1990)",
     "quality": "1080p | WEB-DL | Dolby Atmos",
@@ -2901,92 +2984,68 @@
     "type": "movie"
     },
     {
-    "id": "tt0232500",
-    "title": "Rápido y furioso (2001)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "8C2EAEE8F5BC9D1B3F18EFA246D587C8169A0686",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/6et0SLxB17fCEjWgGssCzqOsmiJ.jpg",
-    "type": "movie"
+      "id": "tt0232500",
+      "t": "Rápido y furioso (2001)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["8C2EAEE8F5BC9D1B3F18EFA246D587C8169A0686", "B5FACE4842BCDE083931403DDE05432F7F2C1050"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zFR949B0hxdgi0vljf8tCJiZ65z.jpg"
     },
     {
-    "id": "tt0322259",
-    "title": "+Rápido +Furioso (2003)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "9D8EA93317025FBD7F34A2E8E5B6C4C0AAE495FA",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/fZtSG5a6i5Ca39WQylLVmvWI5b.jpg",
-    "type": "movie"
+      "id": "tt0322259",
+      "t": "+Rápido +Furioso (2003)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["9D8EA93317025FBD7F34A2E8E5B6C4C0AAE495FA", "1F9BF7BC1612611403E96BBA1083276D691836E1"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/8o3Py5qAgOUm0seWHmxpLwQmb1L.jpg"
     },
     {
-    "id": "tt0463985",
-    "title": "Rápido y furioso: reto Tokio (2006)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "0E8D6947C2A133AFC4EF0E7C74CD96244E75F20E",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/9OYC68a3NH5ySyTBjLQDzxhApMi.jpg",
-    "type": "movie"
+      "id": "tt0463985",
+      "t": "Rápido y furioso: reto Tokio (2006)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["0E8D6947C2A133AFC4EF0E7C74CD96244E75F20E", "890591AFFFAB325D157224D09BFE8CD2F503A029"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/bDeOdgKaEK1zZxdUefutdppYjZf.jpg"
     },
     {
-    "id": "tt1013752",
-    "title": "Rápidos y furiosos 4 (2009)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "391278A106C41EEFC4AB535D1F611FAA0E43F01B",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/b4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg",
-    "type": "movie"
+      "id": "tt1013752",
+      "t": "Rápidos y furiosos 4 (2009)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["391278A106C41EEFC4AB535D1F611FAA0E43F01B", "AADC69A61222AAEB6FF1C1D0CB69D88114AD5D5E"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/bBioDtcG94rhvWnBE45yPUdgExi.jpg"
     },
     {
-    "id": "tt1596343",
-    "title": "Rápidos y furiosos: 5in control (2011)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "F8E81340ED7C40403CB2AAE49D02B60F84A55650",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
-    "type": "movie"
+      "id": "tt1596343",
+      "t": "Rápidos y furiosos: 5in control (2011)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["F8E81340ED7C40403CB2AAE49D02B60F84A55650", "1D40456CE0EE8EAE3B6FA1AB3B7CBE9FDC484753"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg"
     },
     {
-    "id": "tt1905041",
-    "title": "Rápidos y furiosos 6 (2013)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "1E4141438D986F944AF3F6DEBEE82DA94BC26343",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",
-    "type": "movie"
+      "id": "tt1905041",
+      "t": "Rápidos y furiosos 6 (2013)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["1E4141438D986F944AF3F6DEBEE82DA94BC26343", "E43CDF474F1AA330490AB2B850907D8340C700CE"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/6j1pcFYyMOPR061yf8q7XZneHNl.jpg"
     },
     {
-    "id": "tt2820852",
-    "title": "Rápidos y furiosos 7 (2015)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "B0191295554D1141DFF1DD31822ED3C7A91DA9BF",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
-    "type": "movie"
+      "id": "tt2820852",
+      "t": "Rápidos y furiosos 7 (2015)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["B0191295554D1141DFF1DD31822ED3C7A91DA9BF", "292FDF3EC7C3340FE3D72AD2A356B3E081CF44BC"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/hO02IBZmvbn2RULu4myYVl2NUGj.jpg"
     },
     {
-    "id": "tt4630562",
-    "title": "Rápidos y furiosos 8 (2017)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "F9CC93123BF2CAD1F6FD734F943ADA5DBFE7E28F",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/vXntMTWnh3QRmbY8z53eUlQKmQB.jpg",
-    "type": "movie"
+      "id": "tt4630562",
+      "t": "Rápidos y furiosos 8 (2017)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["F9CC93123BF2CAD1F6FD734F943ADA5DBFE7E28F", "5300DB641729C04E111B1F31936221CC13D89071"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg"
     },
     {
     "id": "tt6806448",
