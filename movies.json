@@ -98,7 +98,7 @@
       "q": ["4K WEB-DL | HDR10+ | Dolby Vision", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["FBADFFE5476DF0674DBEC75E81426895E40B6427", "B0F470D8325979C5BEEB10AB66626419D4C77B60"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7AGofEHVrX3Mpr4JsvdjcDlKMjM.jpg"
+      "p": "https://compucalitv.lol/wp-content/uploads/2025/12/Wicked-Parte-2.webp"
     },
     {
       "id": "tt22048412",
@@ -115,6 +115,22 @@
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "9E9AA8BC16CF57765DA33CAB886F5EF6AA59E8A9",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/8x6rIrAdMMzacyeF37sqOeOjfK8.jpg"
+    },
+    {
+      "id": "tt10799690",
+      "title": "Refugio mortal (2025)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "E98E236B09E920F6B127DBEF9CB72D8BB9DC68C6",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tgSoSwFOa0THezjVHC9gaXqSHf2.jpg"
+    },
+    {
+      "id": "tt32600395",
+      "title": "100 metros (2025)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "81E8F87182D60C6CFBF1535A2D357A7673523B61",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/37Ervtiq5x6ktHQKZm0p2Lnfed.jpg"
     },
     {
       "id": "tt14999684",
@@ -1381,11 +1397,8 @@
       "title": "Hombre lobo",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
       "hash": "4CDDE435D66CDDB9D93C15CCC3DBC27EB2456562",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg",
-      "type": "movie"
+      "poster": "https://image.tmdb.org/t/p/w1280/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg"
     },
     {
       "id": "tt27722618",
@@ -1970,16 +1983,13 @@
     },
     {
     "id": "tt4589218",
-    "title": "Five Nights at Freddy's (2023)",
-    "quality": "4K | WEB-DL | Dolby Atmos",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "3570D9E5FE1306A48954EDE2E2B6FC5A384981EE",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
-    "type": "movie"
+    "t": "Five Nights at Freddy's (2023)",
+    "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+    "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "h": ["3570D9E5FE1306A48954EDE2E2B6FC5A384981EE", "5C829F89827F03DDFCD75EEB3F6A033B57B26DAB"],
+    "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg"
     },
-     {
+    {
       "id": "tt4633694",
       "t": "Spider-Man: Un nuevo universo (2018)",
       "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
