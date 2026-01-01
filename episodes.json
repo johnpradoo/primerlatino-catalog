@@ -316,6 +316,7 @@
     { "id": "tt4574334:5:5", "title": "Stranger Things", "season": 5, "episode": 5, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "E09B06FE8C0140E50124D2217B9FABA2EDB3F8C8" },
     { "id": "tt4574334:5:6", "title": "Stranger Things", "season": 5, "episode": 6, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "BC35114D2708D3FA6B753A393A9132A27427C699" },
     { "id": "tt4574334:5:7", "title": "Stranger Things", "season": 5, "episode": 7, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "6D140D175ECEC362A821EF55B022EE47450CE8D5" },
+    { "id": "tt4574334:5:8", "title": "Stranger Things", "season": 5, "episode": 8, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "F5A937DD867765BE443778F126235CBC837D1A0D" },
     
     { "id": "tt31974367:1:1", "title": "la bestia en mi", "season":1, "episode":1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "8B9F22798173C35917A42A7D4913C2959553A260", "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/fr57huR86UiVWJr6C7S8wRaghZw.jpg" },
     
@@ -1185,7 +1186,7 @@
 
     { "id": "tt12637874:2:1", "t": "Fallout (2024)", "s": 2, "e": 1, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["00AC6EE8EFDEBD3FECC9907292E00B4045DAF96D", "DCCAA615923E400E17DDB5114090D4E4D4A50C87"] },
     { "id": "tt12637874:2:2", "t": "Fallout (2024)", "s": 2, "e": 2, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["9C78F45D553734EF2E2503A637AF6FBB6CCAB90A", "3E6204B371F060F6BC2105D673B8B53B5C19777A"] },
-    { "id": "tt12637874:2:3", "t": "Fallout (2024)", "s": 2, "e": 3, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["", "" ] },
+    { "id": "tt12637874:2:3", "t": "Fallout (2024)", "s": 2, "e": 3, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["85EB76960ACADFCDD47C5778BE377EB3271E1893", "6B1C5E960BE09E270C4F4FC327C0D99AF99C9E8B" ] },
     { "id": "tt12637874:2:4", "t": "Fallout (2024)", "s": 2, "e": 4, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["", "" ] },
     { "id": "tt12637874:2:5", "t": "Fallout (2024)", "s": 2, "e": 5, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["", "" ] },
     { "id": "tt12637874:2:6", "t": "Fallout (2024)", "s": 2, "e": 6, "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"], "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH", "c": "H.264", "h": ["", "" ] },
