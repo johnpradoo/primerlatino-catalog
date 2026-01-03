@@ -26,7 +26,7 @@
     },
     {
       "id": "tt30274401",
-      "t": "Five Nights at Freddy's 2",
+      "t": "Five Nights at Freddy's 2 (2025)",
       "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
@@ -48,7 +48,7 @@
     },
     {
       "id": "tt29927663",
-      "t": "El gran diluvio",
+      "t": "El gran diluvio (2025)",
       "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇰🇷 COREA",
       "h": ["A25AAF942351F600FC68AEBCC4A2CB5E186AFC0A", "1C21417AD7A04DBA2478AEC41A9FB2588DC001EC"],
@@ -56,7 +56,7 @@
     },
     {
       "id": "tt9362736",
-      "t": "Mátate, Amor",
+      "t": "Mátate, Amor (2025)",
       "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
@@ -75,7 +75,7 @@
     },
     {
       "id": "tt32246771",
-      "t": "Haz Que Regrese",
+      "t": "Haz Que Regrese (2025)",
       "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "h": ["9EC95B7378170A4397A7B9A20461A2DFC3D81F99", "0133B45D50216C8FA98D7DECB261C8DCF003EDC5"],
@@ -91,7 +91,17 @@
     },
 
     ["FIN TOP 10 MOVIES 2025"],
-
+    {
+      "id": "tt1262426",
+      "title": "Wicked: Part I (2024)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "0AB30D3B153C538B063A05ED1AD36739DD71CBDB",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+      "type": "movie"
+    },
     {
       "id": "tt19847976",
       "t": "Wicked: Por Siempre (2025)",
@@ -202,7 +212,7 @@
     },
     {
       "id": "tt1312221",
-      "title": "Frankenstein",
+      "title": "Frankenstein (2025",
       "quality": "1080p | WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -213,7 +223,7 @@
     },
     {
       "id": "tt31036941",
-      "title": "Jurassic World: El Renacer",
+      "title": "Jurassic World: El Renacer (2025)",
       "quality": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -224,7 +234,7 @@
     },
     {
       "id": "tt0790604",
-      "title": "Un vecino con pocas luces",
+      "title": "Un vecino con pocas luces (2006)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "1B316D702B9CAC59FD0BD1E2463D846298E01DF0",
@@ -232,7 +242,7 @@
     },
     {
       "id": "tt0110527",
-      "title": "Milagro en la ciudad",
+      "title": "Milagro en la ciudad (1994)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "7ED70032EB4868F2D06BE03CD16702A8AB16ABEB",
@@ -256,7 +266,7 @@
     },
     {
       "id": "tt1160368",
-      "title": "12 trampas",
+      "title": "12 trampas (2009)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "9B77C9D8847F786BAA70B1B1A168FA5B621777FD",
@@ -264,7 +274,7 @@
     },
     {
       "id": "tt0818165",
-      "title": "The Alphabet Killer",
+      "title": "The Alphabet Killer (2008)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO",
       "hash": "EBAA9344725A8F23C1657FEBEC493E7B10637566",
@@ -283,7 +293,7 @@
     },
     {
     "id": "tt11214558",
-    "title": "La Máquina: The Smashing Machine",
+    "title": "La Máquina: The Smashing Machine (2025)",
     "quality": "4k | HDR | Dolby Atmos",
     "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
     "codec": "H.264",
@@ -327,7 +337,7 @@
     },
     {
     "id": "tt27674700",
-    "title": "Rosario",
+    "title": "Rosario (2025)",
     "quality": "1080p | WEB-DL | Dolby Atmos",
     "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
     "codec": "H.264",
@@ -349,7 +359,7 @@
     },
     {
       "id": "tt21267296",
-      "title": "Hell of a Summer",
+      "title": "Hell of a Summer (2023)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "DAC76FAAA08E4D47CE0D63C49CC172C699FADBE4",
@@ -401,7 +411,7 @@
     },
     {
       "id": "tt33088452",
-      "t": "A pesar de ti",
+      "t": "A pesar de ti (2025)",
       "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
@@ -412,7 +422,7 @@
     },
     {
       "id": "tt28554021",
-      "title": "Shaman",
+      "title": "Shaman (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -423,7 +433,7 @@
     },
     {
       "id": "tt15042300",
-      "title": "Indomables",
+      "title": "Indomables (2024)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -544,7 +554,7 @@
     },
     {
       "id": "tt31137117",
-      "title": "The Carman Family Deaths",
+      "title": "The Carman Family Deaths (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -610,7 +620,7 @@
     },
     {
       "id": "tt38774646",
-      "title": "31 minutos Calurosa Navidad",
+      "title": "31 minutos Calurosa Navidad (2025)",
       "quality": "1080p WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -621,7 +631,7 @@
     },
     {
       "id": "tt12300742",
-      "title": "Bugonia",
+      "title": "Bugonia (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -632,7 +642,7 @@
     },
     {
       "id": "tt27543578",
-      "title": "Cuando el cielo se equivoca",
+      "title": "Cuando el cielo se equivoca (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -674,7 +684,7 @@
     },
     {
       "id": "tt33057137",
-      "title": "Prisoner of War",
+      "title": "Prisoner of War (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -685,7 +695,7 @@
     },
     {
       "id": "tt24850708",
-      "title": "Tierra de Fugitivos",
+      "title": "Tierra de Fugitivos (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -706,19 +716,8 @@
       "type": "movie"
     },
     {
-      "id": "tt1262426",
-      "title": "Wicked: Part I",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "0AB30D3B153C538B063A05ED1AD36739DD71CBDB",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt30144839",
-      "title": "Una batalla tras otra",
+      "title": "Una batalla tras otra (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -762,7 +761,7 @@
     },
     {
       "id": "tt26304178",
-      "title": "O'Dessa",
+      "title": "O'Dessa (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -783,7 +782,7 @@
     },
     {
       "id": "tt34276058",
-      "title": "Plan familiar 2",
+      "title": "Plan familiar 2 (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -817,7 +816,7 @@
     },
     {
       "id": "tt28283547",
-      "title": "Las Ratas: Una historia de the Witcher",
+      "title": "Las Ratas: Una historia de the Witcher (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos | 🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -828,7 +827,7 @@
     },
     {
       "id": "tt32159989",
-      "title": "Cacería De Brujas",
+      "title": "Cacería De Brujas (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos | 🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -839,7 +838,7 @@
     },
     {
       "id": "tt33502160",
-      "title": "La mano que mece la cuna",
+      "title": "La mano que mece la cuna (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos | 🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -850,7 +849,7 @@
     },
     {
       "id": "tt28671344",
-      "title": "Los extraños: capítulo 2",
+      "title": "Los extraños: capítulo 2 (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -872,7 +871,7 @@
     },
     {
       "id": "tt31434639",
-      "title": "Warfare: Tiempo de guerra",
+      "title": "Warfare: Tiempo de guerra (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -883,7 +882,7 @@
     },
     {
       "id": "tt34992378",
-      "title": "Una Navidad EXtra",
+      "title": "Una Navidad EXtra (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -905,7 +904,7 @@
     },
     {
       "id": "tt31425731",
-      "title": "Un dia fuera de control",
+      "title": "Un dia fuera de control (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -916,7 +915,7 @@
     },
     {
       "id": "tt4900148",
-      "title": "Elio",
+      "title": "Elio (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -927,7 +926,7 @@
     },
     {
       "id": "tt9603208",
-      "title": "Misión imposible: Sentencia Final",
+      "title": "Misión imposible: Sentencia Final (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -938,7 +937,7 @@
     },
     {
       "id": "tt32843349",
-      "title": "Lo siento, cariño",
+      "title": "Lo siento, cariño (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -949,7 +948,7 @@
     },
     {
       "id": "tt32549601",
-      "title": "Caramelo",
+      "title": "Caramelo (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -960,7 +959,7 @@
     },
     {
       "id": "tt33549478",
-      "title": "El mapa que me lleva a ti",
+      "title": "El mapa que me lleva a ti (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -982,7 +981,7 @@
     },
     {
       "id": "tt21103218",
-      "title": "A través del fuego",
+      "title": "A través del fuego (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -993,7 +992,7 @@
     },
     {
       "id": "tt10548174",
-      "title": "Exterminio: La evolución",
+      "title": "Exterminio: La evolución (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1004,7 +1003,7 @@
     },
     {
       "id": "tt3566834",
-      "title": "Una Película de Minecraft",
+      "title": "Una Película de Minecraft (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1015,7 +1014,7 @@
     },
     {
       "id": "tt30955489",
-      "title": "Until Dawn: Noche de terror",
+      "title": "Until Dawn: Noche de terror (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1026,7 +1025,7 @@
     },
     {
       "id": "tt17526714",
-      "t": "La sustancia",
+      "t": "La sustancia (2024)",
       "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
@@ -1037,7 +1036,7 @@
     },
     {
       "id": "tt15791034",
-      "title": "Barbarian",
+      "title": "Barbarian (2022)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "F5A3D6BA1A4FAEA1A6A4E9503FDD18732D0DAE2C",
@@ -1045,7 +1044,7 @@
     },
     {
       "id": "tt26671996",
-      "title": "Encerrado",
+      "title": "Encerrado (2025)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "59DFBB8450374B84C5EEBCDF0C392F8952004EDF",
@@ -1053,7 +1052,7 @@
     },
     {
       "id": "tt32237537",
-      "title": "Mis 84 m²",
+      "title": "Mis 84 m² (2025)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | kr KOREAN",
       "hash": "4D13CBCFA6268C98577B7E5E35FEFB46D864285B",
@@ -1061,7 +1060,7 @@
     },
     {
       "id": "tt23468450",
-      "title": "Longlegs: Coleccionista De Almas",
+      "title": "Longlegs: Coleccionista De Almas (2024)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "0C3F22F3A2848E7C12A4DAE891BE56015876D7E4",
@@ -1069,7 +1068,7 @@
     },
     {
       "id": "tt5052448",
-      "title": "Déjame salir",
+      "title": "Déjame salir (2017)",
       "quality": "1080p | WEB-DL",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "62EAB5C45D087B01B130DA3397125BBDEA463579",
@@ -1077,7 +1076,7 @@
     },
     {
       "id": "tt8760708",
-      "title": "M3GAN",
+      "title": "M3GAN (2022)",
       "quality": "4k | HDR | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "661C6462E452DE408B93091D4F6FFB75FF6C4D6B",
@@ -1085,7 +1084,7 @@
     },
     {
       "id": "tt1355644",
-      "title": "Pasajeros",
+      "title": "Pasajeros (2016)",
       "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "069DAB17D85BC2F26B5E908629429F150C4E0B67",
@@ -1094,7 +1093,7 @@
     },
     {
       "id": "tt0399201",
-      "title": "La isla",
+      "title": "La isla (2005)",
       "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "E385EFF9F085DAB258C9BDC11D9EC44AC17AC9A7",
@@ -1103,7 +1102,7 @@
     },
     {
       "id": "tt1911600",
-      "title": "Miss Bala",
+      "title": "Miss Bala (2011)",
       "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "78BEA66F2E010BD8D2B0D5FA2B75D95D872DFA0C",
@@ -1112,7 +1111,7 @@
     },
     {
       "id": "tt0878804",
-      "title": "Un sueño posible",
+      "title": "Un sueño posible (2009)",
       "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | cn CHINESE",
       "hash": "087A152DC5E5D46F38DA41F178A84033B12D5E06",
@@ -1121,7 +1120,7 @@
     },
     {
       "id": "tt20969586",
-      "title": "Thunderbolts*",
+      "title": "Thunderbolts* (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1132,7 +1131,7 @@
     },
     {
       "id": "tt7349950",
-      "title": "It: Capítulo dos",
+      "title": "It: Capítulo dos (2019)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1143,7 +1142,7 @@
     },
     {
       "id": "tt0816692",
-      "title": "Interestelar",
+      "title": "Interestelar (2014)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1154,7 +1153,7 @@
     },
     {
       "id": "tt9682428",
-      "title": "Aguas Siniestras",
+      "title": "Aguas Siniestras (2024)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1165,7 +1164,7 @@
     },
     {
       "id": "tt28278085",
-      "title": "Atena",
+      "title": "Atena (2023)",
       "quality": "1080p WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1176,29 +1175,15 @@
     },
     {
       "id": "tt1396484",
-      "title": "It (Eso)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "031B1C17F7302C31A1990F2E1B88ABB50896C875",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1396484",
-      "title": "It (Eso)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "C465B235D1097926A9EC4ECF8A2B66F597A72352",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg",
-      "type": "movie"
+      "t": "It (Eso) (2017)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["C465B235D1097926A9EC4ECF8A2B66F597A72352", "031B1C17F7302C31A1990F2E1B88ABB50896C875"],
+      "p": "https://image.tmdb.org/t/p/w1280/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg"
     },
     {
       "id": "tt17676734",
-      "title": "Americana",
+      "title": "Americana (2023)",
       "quality": "1080p | FullHD | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1209,7 +1194,7 @@
     },
     {
       "id": "tt27075958",
-      "title": "La fuente de la juventud",
+      "title": "La fuente de la juventud (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1248,7 +1233,7 @@
     },
     {
       "id": "tt1160419",
-      "title": "Duna",
+      "title": "Duna (2021)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1259,7 +1244,7 @@
     },
     {
       "id": "tt15239678",
-      "title": "Duna: Parte Dos",
+      "title": "Duna: Parte Dos (2024)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1281,7 +1266,7 @@
     },
     {
       "id": "tt32299316",
-      "title": "Animales Peligrosos",
+      "title": "Animales Peligrosos (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1292,7 +1277,7 @@
     },
     {
       "id": "tt15514498",
-      "title": "La conductora",
+      "title": "La conductora (2025)",
       "quality": "1080p WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1303,7 +1288,7 @@
     },
     {
       "id": "tt11540468",
-      "title": "Respira",
+      "title": "Respira (2024)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1382,7 +1367,7 @@
     },
     {
       "id": "tt4216984",
-      "title": "Hombre lobo",
+      "title": "Hombre lobo (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "4CDDE435D66CDDB9D93C15CCC3DBC27EB2456562",
@@ -1445,7 +1430,7 @@
     },
     {
       "id": "tt23149780",
-      "title": "Eden",
+      "title": "Eden (2024)",
       "quality": "1080p WEB-DL",
       "language": "🇲🇽 LATINO",
       "codec": "H.265",
@@ -1456,7 +1441,7 @@
     },
     {
       "id": "tt32643830",
-      "title": "The Elixir",
+      "title": "The Elixir (2025)",
       "quality": "2160p 4K HDR",
       "language": "🇲🇽 LATINO",
       "codec": "H.265",
@@ -1467,7 +1452,7 @@
     },
     {
       "id": "tt18392014",
-      "title": "Juego sucio",
+      "title": "Juego sucio (2025)",
       "quality": "1080p WEB-DL",
       "language": "🇲🇽 LATINO",
       "codec": "H.265",
@@ -1489,7 +1474,7 @@
     },
     {
       "id": "tt20990442",
-      "title": "Him: el elegido",
+      "title": "Him: el elegido (2025)",
       "quality": "1080p | Dolby Atmos",
       "language": "🇲🇽 LATINO",
       "codec": "H.265",
@@ -1500,7 +1485,7 @@
     },
     {
       "id": "tt10374610",
-      "title": "Camina o muere",
+      "title": "Camina o muere (2025)",
       "quality": "4K HDR WEB-DL",
       "language": "🇲🇽 LATINO",
       "codec": "H.265",
@@ -1511,7 +1496,7 @@
     },
     {
       "id": "tt27953589",
-      "title": "Hedda",
+      "title": "Hedd (2025)",
       "quality": "1080p WEB-DL",
       "language": "🇲🇽 LATINO",
       "codec": "H.265",
@@ -1532,7 +1517,7 @@
     },
     {
       "id": "tt31956415",
-      "title": "Otro viernes loco",
+      "title": "Otro viernes loco (2025)",
       "quality": "4K Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO",
       "codec": "H.264",
@@ -1543,7 +1528,7 @@
     },
     {
       "id": "tt32149847",
-      "title": "Drop: Amenaza anónima",
+      "title": "Drop: Amenaza anónima (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1554,29 +1539,17 @@
     },
     {
       "id": "tt22898462",
-      "title": "El conjuro 4: últimos ritos",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "A4C3532B769779E4A69875B3F34637D99A52DF04",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGk1jVipkVlBKnvwO80wNoJJHpE.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt22898462",
-      "title": "El conjuro 4: últimos ritos",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "901752BF52DC0777A7967DC1B047529E6C631EC3",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdqg6VaShd08PVcPwyMZNzEo3h5.jpg",
-      "type": "movie"
+      "t": "El conjuro 4: últimos ritos (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["A4C3532B769779E4A69875B3F34637D99A52DF04", "901752BF52DC0777A7967DC1B047529E6C631EC3"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGk1jVipkVlBKnvwO80wNoJJHpE.jpg"
     },
     {
       "id": "tt8350360",
-      "title": "Annabelle 3: Viene a casa",
+      "title": "Annabelle 3: Viene a casa (2019)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1587,18 +1560,17 @@
     },
     {
       "id": "tt10676052",
-      "title": "Los 4 fantásticos: primeros pasos",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "C06CC01EEF27452E57F4997FC3A430C1BDC26899",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg",
-      "type": "movie"
+      "t": "Los 4 fantásticos: primeros pasos (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["BB4E8B9209B42EE0E4B4904FC923614FDC1A6F85", "C06CC01EEF27452E57F4997FC3A430C1BDC26899"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg"
     },
     {
       "id": "tt6320628",
-      "title": "Spider-Man: Lejos de casa",
+      "title": "Spider-Man: Lejos de casa (2019)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1609,26 +1581,15 @@
     },
     {
       "id": "tt2911666",
-      "title": "John Wick (Otro día para matar)",
+      "title": "John Wick (Otro día para matar) (2014)",
       "quality": "4K | BLURAY REMUX | Dolby Atmos 7.1",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "D61EBB2918595CC92CC8B13CBBF63A720652DAAC",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg"
     },
     {
-      "id": "tt10676052",
-      "title": "Los 4 fantásticos: primeros pasos",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "C06CC01EEF27452E57F4997FC3A430C1BDC26899",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4MxrDfr58wfZn9q37NcWhyuIXZg.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt28996126",
-      "title": "Nadie 2",
+      "title": "Nadie 2 (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1639,7 +1600,7 @@
     },
     {
       "id": "tt31184028",
-      "title": "Together: Juntos Hasta La Muerte",
+      "title": "Together: Juntos Hasta La Muerte (2025)",
       "quality": "1080p | WEB-DLL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1650,7 +1611,7 @@
     },
     {
       "id": "tt32376165",
-      "title": "Una casa de dinamita",
+      "title": "Una casa de dinamita (2025)",
       "quality": "1080p | WEB-DLL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1661,7 +1622,7 @@
     },
     {
       "id": "tt7130300",
-      "title": "La mujer del camarote 10",
+      "title": "La mujer del camarote 10 (2025)",
       "quality": "1080p | WEB-DLL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -1673,7 +1634,7 @@
     {
       "id": "tt16311594",
       "title": "F1 (2025)",
-      "quality": "4K",
+      "quality": "4K | HDR | Dolby Atmos 7.1",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
       "hash": "C4DDD231B67A5CD24CAAA07A94EA3D77597D07E3",
@@ -1683,62 +1644,27 @@
     },
     {
       "id": "tt29644189",
-      "title": "El Teléfono Negro 2",
-      "quality": "4K | HDR | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "939FD490D6CF922BE4AF53A8B0B0EE32BD9200F3",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/y8aNzIRmMxIvcc7bgWwUfqNJcSa.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt29644189",
-      "title": "El Teléfono Negro 2",
-      "quality": "1080p | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "167E2D502FDD60CF83EAFE51BC0AB7E1D1F109E9",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/y8aNzIRmMxIvcc7bgWwUfqNJcSa.jpg",
-      "type": "movie"
+      "t": "El Teléfono Negro 2 (2025)",
+      "q": ["4K | HDR | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["939FD490D6CF922BE4AF53A8B0B0EE32BD9200F3", "167E2D502FDD60CF83EAFE51BC0AB7E1D1F109E9"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/y8aNzIRmMxIvcc7bgWwUfqNJcSa.jpg"
     },
     {
       "id": "tt9619824",
-      "title": "Destino Final: Lazos De Sangre",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "624E1BD76EED3684E3BF4F71D237EAD7C7544BE1",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/eMrXZnGTPy52zgplp7PbZWll8W7.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt9619824",
-      "title": "Destino Final: Lazos De Sangre",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "39DDA4CC91EDE82C935AAD4D5E1321E540B075F9",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/eMrXZnGTPy52zgplp7PbZWll8W7.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt13433802",
-      "title": "Un Lugar En Silencio: Día Uno",
-      "quality": "4K | HDR | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "E08F9F31E22B282D36F576C7CFCDF107A725A4A0",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg",
-      "type": "movie"
+      "t": "Destino Final: Lazos De Sangre",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["624E1BD76EED3684E3BF4F71D237EAD7C7544BE1", "39DDA4CC91EDE82C935AAD4D5E1321E540B075F9"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/eMrXZnGTPy52zgplp7PbZWll8W7.jpg"
     },
     {
       "id": "tt31909270",
-      "title": "Match: la reina de las apps de citas",
+      "title": "Match: la reina de las apps de citas (2025)",
       "quality": "1080p | WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1749,7 +1675,7 @@
     },
     {
       "id": "tt33549478",
-      "title": "El mapa que me lleva a ti",
+      "title": "El mapa que me lleva a ti (2025)",
       "quality": "1080p | WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1771,69 +1697,33 @@
     },
     {
       "id": "tt26581740",
-      "title": "La Hora De La Desaparición",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "D1726EEE72216813E7271C636ACEBC30B41BE5CE",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/6Gw2eH2SkANYXC7mDjtYMppOXiL.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt26581740",
-      "title": "La Hora De La Desaparición",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "78473E6CE58E6349AB86A4969DD0B9DAA739EB4D",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/6Gw2eH2SkANYXC7mDjtYMppOXiL.jpg",
-      "type": "movie"
+      "t": "La Hora De La Desaparición (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["D1726EEE72216813E7271C636ACEBC30B41BE5CE", "78473E6CE58E6349AB86A4969DD0B9DAA739EB4D"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/6Gw2eH2SkANYXC7mDjtYMppOXiL.jpg"
     },
     {
       "id": "tt4045450",
-      "title": "Sé lo que hicieron el verano pasado",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "C2BFD61A8AB06594E47669D3EEF642A26BD918BF",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/kUv6my6UG81NyXOpTjsJjK4JvSA.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt4045450",
-      "title": "Sé lo que hicieron el verano pasado",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "CE6B65A7118CE35B1947B823F5FC6D8F142E527A",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/kUv6my6UG81NyXOpTjsJjK4JvSA.jpg",
-      "type": "movie"
+      "t": "Sé lo que hicieron el verano pasado (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["CE6B65A7118CE35B1947B823F5FC6D8F142E527A", "C2BFD61A8AB06594E47669D3EEF642A26BD918BF"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/kUv6my6UG81NyXOpTjsJjK4JvSA.jpg"
     },
     {
       "id": "tt31868189",
-      "title": "Happy Gilmore 2",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "3210A329B5B6F518A04B9156C0B23504812E0969",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/utIg6Vghn65A7rz8tH9ItHUuCzU.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt31868189",
-      "title": "Happy Gilmore 2",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "03750E0EA99487082C55AE54A5E30B9AE709F730",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/utIg6Vghn65A7rz8tH9ItHUuCzU.jpg",
-      "type": "movie"
+      "t": "Happy Gilmore 2 (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["3210A329B5B6F518A04B9156C0B23504812E0969", "03750E0EA99487082C55AE54A5E30B9AE709F730"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/utIg6Vghn65A7rz8tH9ItHUuCzU.jpg"
     },
     {
       "id": "tt26342662",
@@ -1847,37 +1737,14 @@
       "type": "movie"
     },
     {
-      "id": "tt32246771",
-      "title": "Haz Que Regrese",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "0133B45D50216C8FA98D7DECB261C8DCF003EDC5",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/cl3VbcYxzWnDPetd7SbdhSxwWoL.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt13654226",
-      "title": "El abismo secreto",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "91991C9E487293530BD4C354558DCD317B500251",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt13654226",
-      "title": "El abismo secreto",
-      "quality": "1080p | WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "CA5D01A56A68B90596058C48106F374E4620ECAF",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg",
-      "type": "movie"
+      "t": "El abismo secreto (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["91991C9E487293530BD4C354558DCD317B500251", "CA5D01A56A68B90596058C48106F374E4620ECAF"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/3s0jkMh0YUhIeIeioH3kt2X4st4.jpg"
     },
     {
       "id": "tt26743210",
@@ -1892,7 +1759,7 @@
     },
     {
       "id": "tt26584495",
-      "title": "Compañera Perfecta",
+      "title": "Compañera Perfecta (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1903,7 +1770,7 @@
     },
     {
       "id": "tt6644200",
-      "title": "Un lugar en silencio",
+      "title": "Un lugar en silencio (2018)",
       "quality": "4K | HDR | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1914,7 +1781,7 @@
     },
     {
       "id": "tt8332922",
-      "title": "Un lugar en silencio: Parte II",
+      "title": "Un lugar en silencio: Parte II (2020)",
       "quality": "1080p | FULL-HD | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1925,7 +1792,7 @@
     },
     {
       "id": "tt13433802",
-      "title": "Un Lugar En Silencio: Día Uno",
+      "title": "Un Lugar En Silencio: Día Uno (2024)",
       "quality": "4K | HDR | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1946,7 +1813,7 @@
     },
     {
       "id": "tt1630029",
-      "title": "Avatar: El Camino Del Agua",
+      "title": "Avatar: El Camino Del Agua (2022)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
@@ -1964,17 +1831,6 @@
       "hash": "3479D3B6312CE615C20AFD90F99400966D1F6FCDD",
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1790809",
-      "title": "Piratas del caribe : La venganza de Salazar",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language":"🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec":"H.264",
-      "hash": "6336F7EA1792F9137D991598786EFDC42D00071F",
-      "status":"aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/AookkwjZfWdigGtaEwy5IfOnBku.jpg",
       "type": "movie"
     },
     {
@@ -2208,7 +2064,7 @@
       "q": ["4K  WEB-DL  Dolby Atmos", "1080p  WEB-DL  AAC 5.1"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
-      "h": ["AA8A5D2579BE8198D74AC209BACC541DBD99D902", "CE075661EC48154ABAF6D06283B9D6BDC8E05E20"],
+      "h": ["EA31C51F41C1AD40F4BCF2F61A4882680882176B", "CE075661EC48154ABAF6D06283B9D6BDC8E05E20"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qvUdIdhAcu3wk9ZybJcbTztas4I.jpg"
     },
@@ -2782,7 +2638,7 @@
       "t": "Alien: Covenant (2017)",
       "q": ["4K REMUX | HDR | Dolby Atmos", "1080p | BluRayRemux | Dolby Digital"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["5DCF976C0FB5FD9D99C26F5A40DEB3BA754D10DC", "8F60E39FCB5617251B57C95EA28C2B3ACE70E8CB"],
+      "h": ["9370EEEBCEC36FC821E521241F658089964F03C4", "8F60E39FCB5617251B57C95EA28C2B3ACE70E8CB"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg"
     },
     {
@@ -3098,7 +2954,7 @@
       "id": "tt0241527",
       "t": "Harry Potter y la piedra filosofal (2001)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["7C529F729FAC87398FFF107BEC053C07FE3CC641", "10E2684B85F0B0153791DEA2DDC08FD3E4DD646C"],
       "p": "https://image.tmdb.org/t/p/w1280/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"
     },
@@ -3106,7 +2962,7 @@
       "id": "tt0295297",
       "t": "Harry Potter y la cámara secreta (2002)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["987AC1D23AB8976A89D00B13638AA98E74C0B211", "890DBEC8D6E03C039BA7DF37C81B3348F934C223"],
       "p": "https://www.themoviedb.org/t/p/w1280/3nvGqfZE3yrsqehpF107byUdUSq.jpg"
     },
@@ -3114,7 +2970,7 @@
       "id": "tt0304141",
       "t": "Harry Potter y el prisionero de Azkaban (2004)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["C8FF813D9B9948177B96AEF713D98A8CC7E42A79", "415CF40942993F3DAF5BC4367A925BB98AD21C51"],
       "p": "https://www.themoviedb.org/t/p/w1280/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg"
     },
@@ -3122,7 +2978,7 @@
       "id": "tt0330373",
       "t": "Harry Potter y el cáliz de fuego (2005)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["74527393AC59DC6CF2A4569D60D1F9B137439BE6", "ED9805A64D9D58D7C35B2B8AB2A16C0DCF73C9C3"],
       "p": "https://www.themoviedb.org/t/p/w1280/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg"
     },
@@ -3130,7 +2986,7 @@
       "id": "tt0373889",
       "t": "Harry Potter y la Orden del Fénix (2007)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["7940984EAC02CC0409F1D6AAEE0FA67DA56CBB96", "E0019F734263E5F5E9F5C41A641E871AF2296CE2"],
       "p": "https://www.themoviedb.org/t/p/w1280/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg"
     },
@@ -3138,7 +2994,7 @@
       "id": "tt0417741",
       "t": "Harry Potter y el misterio del príncipe (2009)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["18951AE300A04D33EEDC1E5657AE42CF14D2021D", "1CC5529E9030CDFEACD62CD895EA9AED0D95B33D"],
       "p": "https://www.themoviedb.org/t/p/w1280/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg"
     },
@@ -3146,7 +3002,7 @@
       "id": "tt0926084",
       "t": "Harry Potter y las Reliquias de la Muerte: Parte 1 (2010)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["C6C14EAFD75D61A2FA7F61AA7F1B72F5A5B41036", "9F7370E84C227A45707A9AD48645DF708802495A"],
       "p": "https://www.themoviedb.org/t/p/w1280/w6wsYKdXERaXRdByPsI2O9rn20b.jpg"
     },
@@ -3154,9 +3010,131 @@
       "id": "tt1201607",
       "t": "Harry Potter y las Reliquias de la Muerte: Parte 2 (2011)",
       "q": ["4K | BLURAY | AAC 5.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["C4B3D830EA7558EEE01977C381B5068F8346670A", "76588C711F9109DDFA61E275BBF27E9B590F3EC9"],
       "p": "https://www.themoviedb.org/t/p/w1280/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg"
+    },
+    {
+      "id": "tt3420504",
+      "t": "Finch (2021)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FDDEEAEBB7E71CC7D5C38E8F32B45E09A14FC53D", "EDC0DA4AB6798A18A32042AAD4D09A77FF479EC0"],
+      "p": "https://www.themoviedb.org/t/p/w1280/eEJtzD1F05xDipFEDY98CTH5yZn.jpg"
+    },
+    {
+      "id": "tt0452608",
+      "t": "Death Race: La carrera de la muerte (2008)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["", "17A22B3EFC5B2F4F630580223C3496D88765C2E3"],
+      "p": "https://www.themoviedb.org/t/p/w1280/bPvd43SWgCh6AED73XRsFoBVPwi.jpg"
+    },
+    {
+      "id": "tt0325980",
+      "t": "Piratas del Caribe: La maldición de la Perla Negra (2003)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["52C4433E238EAF6DA234C086FA2FA9290E35B7BA", "3B75B5B73D1C5810A3D20345E72C8A930BB35E02"],
+      "p": "https://www.themoviedb.org/t/p/w1280/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg"
+    },
+    {
+      "id": "tt0383574",
+      "t": "Piratas del Caribe: El cofre de la muerte (2006)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["55497B200E26330DF9C695BC9D65DA5E5DD4DB52", "EF634DFC7609961944CB224331A1A341B07F06C8"],
+      "p": "https://www.themoviedb.org/t/p/w1280/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg"
+    },
+    {
+      "id": "tt0449088",
+      "t": "Piratas del Caribe: En el fin del mundo (2007)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["ACA4865F091EF876A39B27665C3C9FAD2C29C2DC", "A5EDBFDE2185EB27706AD249767FFC0A07DED370"],
+      "p": "https://www.themoviedb.org/t/p/w1280/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg"
+    },
+    {
+      "id": "tt1298650",
+      "t": "Piratas del Caribe: En mareas misteriosas (2011)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["668FAF7C05FA09A326B14E9A07C081F2B477ECF4", "82E48BD4D26C76A3F599130C0D09CD0BEB98F859"],
+      "p": "https://www.themoviedb.org/t/p/w1280/2oOARbiV871kCC27FyKBmYwOM3G.jpg"
+    },
+    {
+      "id": "tt1790809",
+      "t": "Piratas del caribe : La venganza de Salazar (2017)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["6336F7EA1792F9137D991598786EFDC42D00071F", "93BEBDE96CA33BBA2900301C426806A95BEFD1C8"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/AookkwjZfWdigGtaEwy5IfOnBku.jpg"
+    },
+    {
+    "id": "tt0265086",
+    "title": "La caída del halcón negro (2001)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "FAF1D66420653E79D78505D94D0D0F6E33510AFE",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt2283362",
+    "title": "Jumanji: Bienvenidos a la jungla (2017)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "A0F22BD73493942C4BBBB36FDCFE851BD42F9ED9",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0111257",
+    "title": "Máxima velocidad (1994)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "E1C2E63D45CDEC21889845CB844974D46BECDB3C",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/24xjQmn6N0JiJ7Tgpmtir8VELSw.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0056172",
+    "title": "Lawrence de Arabia (1962)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "9B6A62B9EBC3C5280560B5B0C51B8FD116EAAE33",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0482571",
+    "title": "El truco final (El prestigio) (2006)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "ECAB7B9A4830ED73B0339ABF662F82147EDFCBB1",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt1130884",
+    "title": "La isla siniestra (2010)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "73E9670556B399A54A153C6087B4AF62322C027A",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/Ap0iZ0CRNCsrK6kUfWLA6HJwu2K.jpg",
+    "type": "movie"
     }
   ]
 }
