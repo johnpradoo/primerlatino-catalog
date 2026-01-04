@@ -1581,11 +1581,53 @@
     },
     {
       "id": "tt2911666",
-      "title": "John Wick (Otro día para matar) (2014)",
-      "quality": "4K | BLURAY REMUX | Dolby Atmos 7.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "D61EBB2918595CC92CC8B13CBBF63A720652DAAC",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg"
+      "t": "John Wick (Otro día para matar) (2014)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["D61EBB2918595CC92CC8B13CBBF63A720652DAAC", "53750E1CD801EEDDABA0679303CF59BE00A10336"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg"
+    },
+    {
+      "id": "tt4425200",
+      "t": "John Wick 2: Un nuevo día para matar (2017)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["7249CCB99A7AEE142ECC0A722B296CDC09376849", "E5EC721F219F77B05034C0A91DCF0EBE76B28113", "3DC146258EFA83EFE9B3BC08568100840A7F811A"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3jApZTvbOs7giIM01ddPpFWQagR.jpg"
+    },
+    {
+      "id": "tt6146586",
+      "t": "John Wick 3: Parabellum (2019)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["540D0A3D58FAE11CE344DB1BDFE6E3D75CED1277", "46812FC999E1052D0A1AA2E3FCD9F58ABDADF0FB", "31F108EBB55CAD2ED3AF3495044FA18BCD36232B"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/moq22aADkAzAhsFKRq5hXFUM4Xp.jpg"
+    },
+    {
+      "id": "tt10366206",
+      "t": "John Wick 4 (2023)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | DD 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["B93666BA200C3351F2FA36F8BCE4C72FBC4AEA97", "C7C2B1A606F9DC07436302FB75A80F8FBDE7A42D"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg"
+    },
+    {
+      "id": "tt7181546",
+      "t": "Bailarina (2025)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["8BA866CE9E3D5159AB2E803AB5AFC2FBB281D4D8", "A6F8296A1093FBA53386F56D5D646A5DBD041967", "947C5A02B484A5FADE044D68866042826267F6F1"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/llpNGX1H5sQdGRHeteyFXELuoMz.jpg"
     },
     {
       "id": "tt28996126",
@@ -1842,6 +1884,16 @@
     "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg"
     },
     {
+      "id": "tt6751668",
+      "t": "Parásitos (2019)",
+      "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["20A9A15B7F27BCA8D3174193997AC45744A90D08", "5E6C8F6802119B7C86CF86DDD5DCB58787935E1D"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg"
+    },
+    {
       "id": "tt4633694",
       "t": "Spider-Man: Un nuevo universo (2018)",
       "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
@@ -1862,6 +1914,16 @@
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/iacLPcp2o2pClRToPjNAZjGhxAK.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt1877830",
+      "t": "Batman (2022)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["3E89697625AD0A989FFE2ABB631DF6B0E0F6D4BA", "A42C0CD232D79197C417812226B8860CFC21B4BF", "2379E5802CBE6F84841053F8E3AE5640F52818A4"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg"
     },
     {
       "id": "tt4729430",
@@ -1980,6 +2042,14 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A3yR6Mdz48elRI1pBOzbIbDyCRi.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt1375666",
+      "t": "El origen (2010)",
+      "q": ["4K REMUX | HDR | Dolby Atmos 7.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["3E979C3E183261623F9F390B8355CA109DCF0825", "71E315044F21B18DCF380AEA4F03A70E2A5E0210", "5D1EF7452CCFBD46F5E8265EAB372A083F3BF0CA"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg"
     },
     {
       "id": "tt0372784",
@@ -2183,6 +2253,22 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qF6JFr6IdfNep0x6yw3i7S8avAb.jpg",
     "type": "movie"
+    },
+    {
+      "id": "tt0317705",
+      "t": "Los Increíbles (2004)",
+      "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | BluRayRip |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["9A87A1C93D43EBC23F892D57ABEA474416075EAF", "1343E76A875180F41D89CE7BF3247081D3FE2FCD"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/al1jusd4T7JPatZlj4BuYkDDOzr.jpg"
+    },
+     {
+      "id": "tt3606756",
+      "t": "Los Increíbles 2 (2018)",
+      "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | BluRayRip |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["C860CA3851388FC1F7ACEDB906503CCF1B3CB3E8", "FFACCF6813D5412140128918F70A06BFB84A68F2"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7uintpyNlSF32hj5Bua85VuAp2R.jpg"
     },
     {
       "id": "tt0145487",
@@ -2496,14 +2582,33 @@
     },
     {
       "id": "tt0120737",
-      "title": "El señor de los anillos: La comunidad del anillo (2001)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "3CABFBCE2E0E6C1BF53110BDAC960F6D188EF4CA",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
-      "type": "movie"
+      "t": "El señor de los anillos: La comunidad del anillo (2001))",
+      "q": ["4K REMUX | HDR | Version Cine", "4K WEB-DL | HDR10+ | Version Extendida ", "1080p | BluRayRip | AAC 5.1 | Version Extendida", "1080p | BluRayRip | AAC 5.1 | Version Cine"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["A31C39C9FA65D2AFA06A0553D09AA07C821DB359", "63EEF840B54FA72DC410F103138FD88965350E8C", "4681F90BB7F4B8A2CEEF88AD35F6A65A34F839B8", "15C0DCAF7BA8AB29A18254C1546B668099672616"],
+      "s": "aprobado",
+      "p": "https://image.tmdb.org/t/p/w1280/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg"
+    },
+    {
+      "id": "tt0167261",
+      "t": "El señor de los anillos: Las dos torres (2002)",
+      "q": ["4K WEB-DL | HDR10+ | Version Extendida ", "1080p | BluRayRip | AAC 5.1 | Version Cine", "1080p | BluRayRip | AAC 5.1 | Version Extendida"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["4DC396DA54D5347A6C68FAF91B6806C8D18FC88A", "80FFD1B8BB6A6F2ABA8FB80C48F86199DB048D51", "658099260D80C6739C6E93AC4EFCE2B78C12BA1D"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/y9hs6YgoaWCd9U8Abf5qpSmDql0.jpg"
+    },
+    {
+      "id": "tt0167260",
+      "t": "El señor de los anillos: El retorno del rey (2003)",
+      "q": ["", "1080p | BluRayRip | AAC 5.1 | Version Cine", "1080p | BluRayRip | AAC 5.1 | Version Extendida"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["", "D9414B7E076CFD0E79CABB1F2B963D550090A41B", "C5F27A325801534CA97FC29D34BB3F09D1EC5120"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg"
     },
     {
     "id": "tt0283426",
@@ -2515,6 +2620,46 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg",
     "type": "movie"
+    },
+    {
+      "id": "tt0137523",
+      "t": "El club de la pelea (1999)",
+      "q": ["4K | Upscaled | AAC 5.1", "1080p | BluRayRemux |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["6D2CA694DE35DBC80907BDDA0E171C2D2FFD51CD", "6210F1575C7FB9E05E40CE2FE31042C15BB87F19"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg"
+    },
+    {
+      "id": "tt0114369",
+      "t": "Seven (1995)",
+      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["5F1B932B478832D39E0750439F68BB6FDA28ABE1", "9BF0710A04890C8F98E7B0B1A1DA2EAC8732A5AF", "9D9E746E8F20FD62895CB05BF6FC673E908D83A8"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kB4HTWPNqDuYFxnSOUV1XXZoDe7.jpg"
+    },
+    {
+      "id": "tt0110912",
+      "t": "Tiempos violentos (1994)",
+      "q": ["1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["A3D91DE22D7CB8A77812E1117C3F6B2248D94154", "20B2DF839FFF3F84EF57EE6F02506058D8979188"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/vruZ74rfN7LhykfkAJz21cVpN8M.jpg"
+    },
+    {
+      "id": "tt0111161",
+      "t": "Sueño de fuga (1994)",
+      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["32770C6DD35A4DD71DEB80D5DEFF7A4E084EEDAB", "8F19010C25EA5D01F00A17E39ACF7596322C9DF2", "F24107F8FEE4DD7E299C3ACC0D1B865DEF08D3E5"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/l6V3TEoJlGh3ztAFxK2hemHfDJ2.jpg"
     },
     {
     "id": "tt0101272",
@@ -2592,6 +2737,22 @@
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt0083658",
+      "t": "Blade Runner (1982)",
+      "q": ["4K | BluRayRemux | DTS 7.1", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["9EC5C40406CBD35318D75E5AF680367558CC3C3F", "C9212E82F5F8AE83B4C9A196B0B7C71F8CF3C6AA"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/c9DfUXPaOueCxP6tdC7hVRN6izr.jpg"
+    },
+    {
+      "id": "tt1856101",
+      "t": "Blade Runner 2049 (2017)",
+      "q": ["4K REMUX | HDR10+ | TrueHD 7.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["0B4515C945E366D2C6F89222DD338873EDFA2548", "8F6668E1010C1440C2BC0206B8C7D1B21BE67104", "590BD30C640A52C10B970612BFEEA636F0E362AC"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
     },
     {
       "id": "tt0078748",
