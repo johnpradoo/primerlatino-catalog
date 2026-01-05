@@ -91,6 +91,17 @@
     },
 
     ["FIN TOP 10 MOVIES 2025"],
+
+    ["2025 MOVIES"],
+   
+    {
+      "id": "tt19847976",
+      "t": "Wicked: Por Siempre (2025)",
+      "q": ["4K WEB-DL | HDR10+ | Dolby Vision", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FBADFFE5476DF0674DBEC75E81426895E40B6427", "B0F470D8325979C5BEEB10AB66626419D4C77B60"],
+      "p": "https://www.themoviedb.org/t/p/w1280/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg"
+    },
     {
       "id": "tt1262426",
       "title": "Wicked: Part I (2024)",
@@ -101,22 +112,6 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
       "type": "movie"
-    },
-    {
-      "id": "tt19847976",
-      "t": "Wicked: Por Siempre (2025)",
-      "q": ["4K WEB-DL | HDR10+ | Dolby Vision", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["FBADFFE5476DF0674DBEC75E81426895E40B6427", "B0F470D8325979C5BEEB10AB66626419D4C77B60"],
-      "p": "https://www.themoviedb.org/t/p/w1280/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg"
-    },
-    {
-      "id": "tt22048412",
-      "t": "MaXXXine (2024)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["FD869A42E28119119D0321E2B491DE4B703BFAE8", "DB7CE6241A5F1C355ECACFF8CF6541720EEBC866"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg"
     },
     {
       "id": "tt13650700",
@@ -212,7 +207,7 @@
     },
     {
       "id": "tt1312221",
-      "title": "Frankenstein (2025",
+      "title": "Frankenstein (2025)",
       "quality": "1080p | WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
@@ -233,22 +228,6 @@
       "type": "movie"
     },
     {
-      "id": "tt0790604",
-      "title": "Un vecino con pocas luces (2006)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "1B316D702B9CAC59FD0BD1E2463D846298E01DF0",
-      "poster": "https://www.themoviedb.org/t/p/w1280/icToXS9r12hEXERVBYHBR0kKCeO.jpg"
-    },
-    {
-      "id": "tt0110527",
-      "title": "Milagro en la ciudad (1994)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "7ED70032EB4868F2D06BE03CD16702A8AB16ABEB",
-      "poster": "https://www.themoviedb.org/t/p/w1280/heYt5iHBemRHzeNCjGBy5u1YMlr.jpg"
-    },
-    {
       "id": "tt16426418",
       "t": "Desafiantes (2025)",
       "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
@@ -263,22 +242,6 @@
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "FA152E66943BE885EEB95C9E712EA50D61FEEEBB",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/m1GyfEvcsFrvJq1e9vxpx8vpYWn.jpg"
-    },
-    {
-      "id": "tt1160368",
-      "title": "12 trampas (2009)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "9B77C9D8847F786BAA70B1B1A168FA5B621777FD",
-      "poster": "https://www.themoviedb.org/t/p/w1280/gybSP8ZNUCoVPFD7d5t0U69zOu2.jpg"
-    },
-    {
-      "id": "tt0818165",
-      "title": "The Alphabet Killer (2008)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO",
-      "hash": "EBAA9344725A8F23C1657FEBEC493E7B10637566",
-      "poster": "https://www.themoviedb.org/t/p/w1280/8RS1hnl4JI9ArfRSNroYBw8yHce.jpg"
     },
     {
       "id": "tt31844586",
@@ -358,14 +321,6 @@
     "type": "movie"
     },
     {
-      "id": "tt21267296",
-      "title": "Hell of a Summer (2023)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "DAC76FAAA08E4D47CE0D63C49CC172C699FADBE4",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/gCEJCaIzrU7FiOrv6fMMMnQ163B.jpg"
-    },
-    {
     "id": "tt30292390",
     "title": "Calendario mortal (2025)",
     "quality": "1080p | WEB-DL | Dolby Atmos",
@@ -375,6 +330,16 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg",
     "type": "movie"
+    },
+    {
+      "id": "tt10676052",
+      "t": "Los 4 fantásticos: primeros pasos (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["BB4E8B9209B42EE0E4B4904FC923614FDC1A6F85", "C06CC01EEF27452E57F4997FC3A430C1BDC26899"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg"
     },
     {
     "id": "tt11655566",
@@ -410,6 +375,17 @@
       "type": "movie"
     },
     {
+    "id": "tt31973693",
+    "title": "Los Roses (2025)",
+    "quality": "4k | WEB-DL | Dolby Atmos",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "6782629E4A28BF1CD65D6F3AB125F3208B70F659",
+    "status": "aprobado",
+    "poster": "https://image.tmdb.org/t/p/w1280/1oOOmn5kGLvIB3CK5vVFFwjAkRA.jpg",
+    "type": "movie"
+    },
+    {
       "id": "tt33088452",
       "t": "A pesar de ti (2025)",
       "q": ["4K Dolby Vision Dolby Atmos", "1080p WEB-DL Dolby Atmos"],
@@ -429,28 +405,6 @@
       "hash": "4AE0726076F6D1D7BF3D62A5857CC32FDE96B859",
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ltLqm9f9Ma3iCFmfXNHenzPEqda.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt15042300",
-      "title": "Indomables (2024)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "96D1E65193F1069F48A901753551B7B502278AAC",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/l36KTC7nvXeXI1YooMiIcsb1Ou3.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0093493",
-      "title": "Me enamoré de un maniquí (Mannequin) (1987)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "34EA8EE4442989F7D696A48C010392374CEEC445",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/jkizahsN5NUsjoRd2enHm8awhyz.jpg",
       "type": "movie"
     },
     {
@@ -675,14 +629,6 @@
       "type": "movie"
     },
     {
-      "id": "tt11097384",
-      "t": "Spaceman (2024)",
-      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["", "4BC4A94F5778E53FA28174E4D2196D058DBC5553"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg"
-    },
-    {
       "id": "tt33057137",
       "title": "Prisoner of War (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
@@ -789,17 +735,6 @@
       "hash": "1E7FA396A32C8AE8DE1B5C2C13EE42FBCBED3947",
       "status": "aprobado",
       "poster": "https://image.tmdb.org/t/p/w1280/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1663662",
-      "title": "Pacific Rim (2013)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "A1F642C4DE941C8894A20D8168601F825A84FB94",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
       "type": "movie"
     },
     {
@@ -1024,25 +959,6 @@
       "type": "movie"
     },
     {
-      "id": "tt17526714",
-      "t": "La sustancia (2024)",
-      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["E47B6BB3833B27961AD9C306222ACD4990B1E883", "F8B087EAB30D2B05BB6E2AF6E300146D288548D5"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w1280/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt15791034",
-      "title": "Barbarian (2022)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "F5A3D6BA1A4FAEA1A6A4E9503FDD18732D0DAE2C",
-      "poster": "https://www.themoviedb.org/t/p/w1280/rHDL6LTRgc9h3oGkeoWVJpnkhTI.jpg"
-    },
-    {
       "id": "tt26671996",
       "title": "Encerrado (2025)",
       "quality": "1080p | WEB-DL",
@@ -1059,66 +975,6 @@
       "poster": "https://www.themoviedb.org/t/p/w1280/xhsXOE2FWBGOaHUoAnjBUW1Y1Ds.jpg"
     },
     {
-      "id": "tt23468450",
-      "title": "Longlegs: Coleccionista De Almas (2024)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "0C3F22F3A2848E7C12A4DAE891BE56015876D7E4",
-      "poster": "https://www.themoviedb.org/t/p/w1280/e4686PPqj8AOdTUnGZpjApT1cDi.jpg"
-    },
-    {
-      "id": "tt5052448",
-      "title": "Déjame salir (2017)",
-      "quality": "1080p | WEB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "62EAB5C45D087B01B130DA3397125BBDEA463579",
-      "poster": "https://www.themoviedb.org/t/p/w1280/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg"
-    },
-    {
-      "id": "tt8760708",
-      "title": "M3GAN (2022)",
-      "quality": "4k | HDR | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "661C6462E452DE408B93091D4F6FFB75FF6C4D6B",
-      "poster": "https://www.themoviedb.org/t/p/w1280/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg"
-    },
-    {
-      "id": "tt1355644",
-      "title": "Pasajeros (2016)",
-      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "069DAB17D85BC2F26B5E908629429F150C4E0B67",
-      "codec": "H.264",
-      "poster": "https://www.themoviedb.org/t/p/w1280/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg"
-    },
-    {
-      "id": "tt0399201",
-      "title": "La isla (2005)",
-      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "E385EFF9F085DAB258C9BDC11D9EC44AC17AC9A7",
-      "codec": "H.264",
-      "poster": "https://www.themoviedb.org/t/p/w1280/mNmc7H8L2ABfcY2V7BQMpFU0F4r.jpg"
-    },
-    {
-      "id": "tt1911600",
-      "title": "Miss Bala (2011)",
-      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "78BEA66F2E010BD8D2B0D5FA2B75D95D872DFA0C",
-      "codec": "H.264",
-      "poster": "https://www.themoviedb.org/t/p/w1280/b3sSssMYkOoCghxOFxYPm58kdfJ.jpg"
-    },
-    {
-      "id": "tt0878804",
-      "title": "Un sueño posible (2009)",
-      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | cn CHINESE",
-      "hash": "087A152DC5E5D46F38DA41F178A84033B12D5E06",
-      "codec": "H.264",
-      "poster": "https://www.themoviedb.org/t/p/w1280/uDZJph23idOLBmImnuaZBlF3TgP.jpg"
-    },
-    {
       "id": "tt20969586",
       "title": "Thunderbolts* (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
@@ -1130,69 +986,6 @@
       "type": "movie"
     },
     {
-      "id": "tt7349950",
-      "title": "It: Capítulo dos (2019)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "8014C8C8DA291E7E42D6DE1A16067F42B5535179",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0816692",
-      "title": "Interestelar (2014)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "EDC74AE0675EA4F67DE0B11F0EBE7E0D362E6F07",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/fbUwSqYIP0isCiJXey3staY3DNn.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt9682428",
-      "title": "Aguas Siniestras (2024)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "A21ECC1F11516C4F2517FA145361B009581B2F51",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/73wQy0eqijesk0y0wbLUiw5wVZN.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt28278085",
-      "title": "Atena (2023)",
-      "quality": "1080p WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "EA58471C59619245410762341443A3698CFD38E1",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kP4380IsiyoQ1EIuJxR1AEIIDPX.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1396484",
-      "t": "It (Eso) (2017)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["C465B235D1097926A9EC4ECF8A2B66F597A72352", "031B1C17F7302C31A1990F2E1B88ABB50896C875"],
-      "p": "https://image.tmdb.org/t/p/w1280/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg"
-    },
-    {
-      "id": "tt17676734",
-      "title": "Americana (2023)",
-      "quality": "1080p | FullHD | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "49AEA9019F00E9D4AE351FE4593A5B608693303F",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt27075958",
       "title": "La fuente de la juventud (2025)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
@@ -1201,75 +994,6 @@
       "hash": "1CD6D15A56AF95124764754C987D9A5F2CA8BFCE",
       "status": "aprobado",
       "poster": "https://image.tmdb.org/t/p/w1280/9bhDUyOCrcwPLKbPyHM4uKOa65T.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt15325794",
-      "t": "Verigo (2022)",
-      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["AFAE1D2D9A779605B2814A38287A84BBDCDD1F77", "C047978CAAD7A4474314DF54A277B5563061885E"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/meH8NCaSFW4KHUf3bBPG2ICeplY.jpg"
-    },
-    {
-      "id": "tt8115900",
-      "t": "Los Tipos Malos (2022)",
-      "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["6AFA8ADC84C0771EE3E26B23D3367D734073CFA1", "4A714E1D70F0C8CBC7198324B7939A736FC4D7AE"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/czxHSOXyKd6zEvIOvUTxAwqOjcK.jpg"
-    },
-    {
-      "id": "tt30017619",
-      "t": "Los Tipos Malos 2 (2025)",
-      "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["96A4314C52D8272069C58A95E8B657602EC7C3D3", "AD33B5534D24B48271742A6F2F5F21CBB4546A38"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg"
-    },
-    {
-      "id": "tt1160419",
-      "title": "Duna (2021)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "1B4BB824271CD0FE222708648DEE8F0938586BDD",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/70LHeeN5Nw9sdeQXiqvUeaVZVDr.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt29623480",
-      "t": "Robot salvaje (2024)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["020594D032294E23D3E6507D29EFB78C090F5B8B", "124F59EF86B7291C2EED23071D80A597B242978A"],
-      "p": "https://image.tmdb.org/t/p/w1280/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg"
-    },
-    {
-      "id": "tt15239678",
-      "title": "Duna: Parte Dos (2024)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "2B7063641D134DC6FB507A923F0A6896392C2971",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt6710474",
-      "title": "Todo En Todas Partes Al Mismo Tiempo (2022)",
-      "quality": "4K | WEB-RIP | AAC 5.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "C6FFE6FF81F55B84DB0B32CA597FD9AE007F4CFE",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
       "type": "movie"
     },
     {
@@ -1292,52 +1016,6 @@
       "hash": "972E3FC5648A3D3D00E51EF3B7435F4407898D77",
       "status": "aprobado",
       "poster": "https://image.tmdb.org/t/p/w1280/lP9fc95i1FNpmFbXW0mCfcSD15y.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt11540468",
-      "title": "Respira (2024)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "06AE4C53E46A78840C9C10A0FCE96B14F1C5D896",
-      "status": "aprobado",
-      "poster": "https://www.cinecalidad.rs/wp-content/uploads/2025/11/breathe-2024.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1431045",
-      "t": "Deadpool (2016)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["1A9B245B88A12A28C0CD2BD8F3D046EA7D4CA8D9", "BC97659ED6C073102223039C691E029DE17BD706"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg"
-    },
-    {
-      "id": "tt5463162",
-      "t": "Deadpool 2 (2018)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["5A373F00427C0A176806DFCDAE4A3B744E79117C", "027F6E00832D3EA9D63CE82F0BB508E0C4F906C3"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg"
-    },
-    {
-      "id": "tt6263850",
-      "t": "Deadpool & Wolverine (2024)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos", "1080 | BLURAY REMUX | ATMOS"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["5702B85B8A608FC6CBD4609A137CBDBB743B2083", "539A1E24228E92FDAFE5FAE268A6AAC3FD647567", "5702B85B8A608FC6CBD4609A137CBDBB743B2083"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9TFSqghEHrlBMRR63yTx80Orxva.jpg"
-    },
-    {
-      "id": "tt2798920",
-      "title": "Aniquilación (2018)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "A17190D64E6401A449B687D48FABF393091EC4D7",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvqp1enRqGmzFXV8jXixmICMYVw.jpg",
       "type": "movie"
     },
     {
@@ -1381,72 +1059,7 @@
       "hash": "4CDDE435D66CDDB9D93C15CCC3DBC27EB2456562",
       "poster": "https://image.tmdb.org/t/p/w1280/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg"
     },
-    {
-      "id": "tt27722618",
-      "title": "La chica zurda (2025)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "BDEC4385257EE6428A10BEDD76D50D89A6AEFE34",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/hfuxIKRCNsecLmoDdO0HJ1YUvv1.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0371746",
-      "t": "Iron Man (2008)",
-      "q": ["4K  WEB-DL  AAC", "1080p  WEB-DL  Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["259ABC5594229DA47BE6A390D0F0DE9B57376B95", "67BDD8D51994B64C71FE203A3B87A8ACC7518F53"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/veJTO75R5aapilhmlcFuqoGCPe3.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1228705",
-      "t": "Iron Man 2 (2010)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["7FE5DE5E333AD4E5B83788A4700F0B62B6B2C827", "44B1A20682B106A71E16D0F8420D6CC498186EEE"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1300854",
-      "t": "Iron Man 3 (2013)",
-      "q": ["4K  BluRay  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["079E605324E5F715EA7E3532FCDDBA84EFFD3666", "DC1D51E39E3A5647C34583A35D7B4F9FDE99DC47"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt15398776",
-      "t": "Oppenheimer (2023)",
-      "q": ["4K  BluRayRemux  Dolby Vision", "1080p  BluRayRemux  Dolby Digital "],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["B12E2AD004742AE1348E4E22EEBE8FCAC07C88D7", "FBEE9007C15574CE15E21D89B370550269F0AF2E"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt23149780",
-      "title": "Eden (2024)",
-      "quality": "1080p WEB-DL",
-      "language": "🇲🇽 LATINO",
-      "codec": "H.265",
-      "hash": "613FAB233015D8DD23980DE4AD0EFE27EA066107",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
-      "type": "movie"
-    },
+    
     {
       "id": "tt32643830",
       "title": "The Elixir (2025)",
@@ -1471,25 +1084,13 @@
     },
     {
       "id": "tt20990442",
-      "title": "Him: el elegido",
-      "quality": "4K Dolby Vision Dolby Atmos",
-      "language": "🇲🇽 LATINO",
-      "codec": "H.264",
-      "hash": "09ECAD1CB57CC330919A0137BF6F82B126A55D41",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt20990442",
-      "title": "Him: el elegido (2025)",
-      "quality": "1080p | Dolby Atmos",
-      "language": "🇲🇽 LATINO",
-      "codec": "H.265",
-      "hash": "266F4D591A86CA429517E27A0E56863F76AEF7AA",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3T4yN4GgmwdQom1kCiO8v1fwsHC.jpg",
-      "type": "movie"
+      "t": "Him: el elegido (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["09ECAD1CB57CC330919A0137BF6F82B126A55D41", "266F4D591A86CA429517E27A0E56863F76AEF7AA"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg"
     },
     {
       "id": "tt10374610",
@@ -1514,27 +1115,6 @@
       "type": "movie"
     },
     {
-      "id": "tt0322330",
-      "t": "Un viernes de locos (2003)",
-      "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["767750641489B0282CF7F738AA533550DACA69BC", "184F448755C4FE3ACA351029DB94C8C0AC6001A4"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/dNFuggPMT5cMylm28n7Lqc9261V.jpg"
-    },
-    {
-      "id": "tt31956415",
-      "title": "Otro viernes loco (2025)",
-      "quality": "4K Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO",
-      "codec": "H.264",
-      "hash": "CB7C1EE5F68AB9F67C7E6FA60FAABDAF2498182B",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XFHVy03Rkr7ITaznFTeVp8dMwL.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt32149847",
       "title": "Drop: Amenaza anónima (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
@@ -1554,78 +1134,6 @@
       "h": ["A4C3532B769779E4A69875B3F34637D99A52DF04", "901752BF52DC0777A7967DC1B047529E6C631EC3"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mGk1jVipkVlBKnvwO80wNoJJHpE.jpg"
-    },
-    {
-      "id": "tt8350360",
-      "title": "Annabelle 3: Viene a casa (2019)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "B595992A9480EA67E9FF24C641A930622C5B121D",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/zxwPksbRKGaAi06rapPfFTVsMHv.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt10676052",
-      "t": "Los 4 fantásticos: primeros pasos (2025)",
-      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["BB4E8B9209B42EE0E4B4904FC923614FDC1A6F85", "C06CC01EEF27452E57F4997FC3A430C1BDC26899"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg"
-    },
-    {
-      "id": "tt6320628",
-      "title": "Spider-Man: Lejos de casa (2019)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "721E96EAF9349A1547AD23CA27A06F9A20130CDF",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt2911666",
-      "t": "John Wick (Otro día para matar) (2014)",
-      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["D61EBB2918595CC92CC8B13CBBF63A720652DAAC", "53750E1CD801EEDDABA0679303CF59BE00A10336"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg"
-    },
-    {
-      "id": "tt4425200",
-      "t": "John Wick 2: Un nuevo día para matar (2017)",
-      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["7249CCB99A7AEE142ECC0A722B296CDC09376849", "E5EC721F219F77B05034C0A91DCF0EBE76B28113", "3DC146258EFA83EFE9B3BC08568100840A7F811A"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3jApZTvbOs7giIM01ddPpFWQagR.jpg"
-    },
-    {
-      "id": "tt6146586",
-      "t": "John Wick 3: Parabellum (2019)",
-      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["540D0A3D58FAE11CE344DB1BDFE6E3D75CED1277", "46812FC999E1052D0A1AA2E3FCD9F58ABDADF0FB", "31F108EBB55CAD2ED3AF3495044FA18BCD36232B"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/moq22aADkAzAhsFKRq5hXFUM4Xp.jpg"
-    },
-    {
-      "id": "tt10366206",
-      "t": "John Wick 4 (2023)",
-      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | DD 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["B93666BA200C3351F2FA36F8BCE4C72FBC4AEA97", "C7C2B1A606F9DC07436302FB75A80F8FBDE7A42D"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg"
     },
     {
       "id": "tt7181546",
@@ -1704,7 +1212,7 @@
     },
     {
       "id": "tt9619824",
-      "t": "Destino Final: Lazos De Sangre",
+      "t": "Destino Final: Lazos De Sangre (2025)",
       "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WED-DL | Dolby Atmos"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
@@ -1819,6 +1327,347 @@
       "type": "movie"
     },
     {
+      "id": "tt14445366",
+      "title": "La chica perdida (2025)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "3479D3B6312CE615C20AFD90F99400966D1F6FCDD",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
+      "type": "movie"
+    },
+
+    ["2024 MOVIES"],
+
+    {
+      "id": "tt22048412",
+      "t": "MaXXXine (2024)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FD869A42E28119119D0321E2B491DE4B703BFAE8", "DB7CE6241A5F1C355ECACFF8CF6541720EEBC866"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg"
+    },
+    {
+      "id": "tt17526714",
+      "t": "La sustancia (2024)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["E47B6BB3833B27961AD9C306222ACD4990B1E883", "F8B087EAB30D2B05BB6E2AF6E300146D288548D5"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w1280/w1PiIqM89r4AM7CiMEP4VLCEFUn.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt11097384",
+      "t": "Spaceman (2024)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["", "4BC4A94F5778E53FA28174E4D2196D058DBC5553"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kyYNMXbXzuAw1LpnvzheqTKNaoL.jpg"
+    },
+    {
+      "id": "tt15042300",
+      "title": "Indomables (2024)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "96D1E65193F1069F48A901753551B7B502278AAC",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/l36KTC7nvXeXI1YooMiIcsb1Ou3.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt23468450",
+      "title": "Longlegs: Coleccionista De Almas (2024)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "0C3F22F3A2848E7C12A4DAE891BE56015876D7E4",
+      "poster": "https://www.themoviedb.org/t/p/w1280/e4686PPqj8AOdTUnGZpjApT1cDi.jpg"
+    },
+    {
+      "id": "tt9682428",
+      "title": "Aguas Siniestras (2024)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "A21ECC1F11516C4F2517FA145361B009581B2F51",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/73wQy0eqijesk0y0wbLUiw5wVZN.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt29623480",
+      "t": "Robot salvaje (2024)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["020594D032294E23D3E6507D29EFB78C090F5B8B", "124F59EF86B7291C2EED23071D80A597B242978A"],
+      "p": "https://image.tmdb.org/t/p/w1280/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg"
+    },
+    {
+      "id": "tt14948432",
+      "t": "Código Traje Rojo (2024)",
+      "q": ["4K  WEB-DL  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["6C206582D570DAE7CCBB4F560B80D074CE278991", "040CBEF2CCF3E1202C962123D31E4B70E4F18D07"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b0EJNVPy95JJZhpg9l6a1eIh059.jpg"
+    },
+    {
+      "id": "tt11540468",
+      "title": "Respira (2024)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "06AE4C53E46A78840C9C10A0FCE96B14F1C5D896",
+      "status": "aprobado",
+      "poster": "https://www.cinecalidad.rs/wp-content/uploads/2025/11/breathe-2024.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt23149780",
+      "title": "Eden (2024)",
+      "quality": "1080p WEB-DL",
+      "language": "🇲🇽 LATINO",
+      "codec": "H.265",
+      "hash": "613FAB233015D8DD23980DE4AD0EFE27EA066107",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
+      "type": "movie"
+    },
+
+    ["2023 MOVIES"],
+
+    {
+      "id": "tt21267296",
+      "title": "Hell of a Summer (2023)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "DAC76FAAA08E4D47CE0D63C49CC172C699FADBE4",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/gCEJCaIzrU7FiOrv6fMMMnQ163B.jpg"
+    },
+    {
+      "id": "tt28278085",
+      "title": "Atena (2023)",
+      "quality": "1080p WED-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "EA58471C59619245410762341443A3698CFD38E1",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kP4380IsiyoQ1EIuJxR1AEIIDPX.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt17676734",
+      "title": "Americana (2023)",
+      "quality": "1080p | FullHD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "49AEA9019F00E9D4AE351FE4593A5B608693303F",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt15398776",
+      "t": "Oppenheimer (2023)",
+      "q": ["4K  BluRayRemux  Dolby Vision", "1080p  BluRayRemux  Dolby Digital "],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["B12E2AD004742AE1348E4E22EEBE8FCAC07C88D7", "FBEE9007C15574CE15E21D89B370550269F0AF2E"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "type": "movie"
+    },
+    {
+    "id": "tt15789038",
+    "title": "Elemental (2023)",
+    "quality": "4k | WEB-DL | Dolby Atmos",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "6782629E4A28BF1CD65D6F3AB125F3208B70F659",
+    "status": "aprobado",
+    "poster": "https://image.tmdb.org/t/p/w1280/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt4589218",
+    "t": "Five Nights at Freddy's (2023)",
+    "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+    "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "h": ["3570D9E5FE1306A48954EDE2E2B6FC5A384981EE", "5C829F89827F03DDFCD75EEB3F6A033B57B26DAB"],
+    "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg"
+    },
+    {
+    "id": "tt23789884",
+    "title": "Hachiko 2: Siempre a tu lado (2023)",
+    "quality": "1080 | WEB-DL | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇨🇳 CHINO",
+    "codec": "H.264",
+    "hash": "1AC0D5CA08ACFC50667E6111EC9CA266C6FA3218",
+    "status": "aprobado",
+    "poster": "https://image.tmdb.org/t/p/w1280/sT5SHjXlrKZwSbcvi70dmoDEHms.jpg",
+    "type": "movie"
+    },
+
+    ["2022 MOVIES"],
+
+    {
+      "id": "tt1877830",
+      "t": "Batman (2022)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["3E89697625AD0A989FFE2ABB631DF6B0E0F6D4BA", "2379E5802CBE6F84841053F8E3AE5640F52818A4"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg"
+    },
+    {
+      "id": "tt15791034",
+      "title": "Barbarian (2022)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "F5A3D6BA1A4FAEA1A6A4E9503FDD18732D0DAE2C",
+      "poster": "https://www.themoviedb.org/t/p/w1280/rHDL6LTRgc9h3oGkeoWVJpnkhTI.jpg"
+    },
+     {
+      "id": "tt8760708",
+      "title": "M3GAN (2022)",
+      "quality": "4k | HDR | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "661C6462E452DE408B93091D4F6FFB75FF6C4D6B",
+      "poster": "https://www.themoviedb.org/t/p/w1280/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg"
+    },
+    {
+      "id": "tt15325794",
+      "t": "Vertigo (2022)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["AFAE1D2D9A779605B2814A38287A84BBDCDD1F77", "C047978CAAD7A4474314DF54A277B5563061885E"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/meH8NCaSFW4KHUf3bBPG2ICeplY.jpg"
+    },
+    {
+      "id": "tt8115900",
+      "t": "Los Tipos Malos (2022)",
+      "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["6AFA8ADC84C0771EE3E26B23D3367D734073CFA1", "4A714E1D70F0C8CBC7198324B7939A736FC4D7AE"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/czxHSOXyKd6zEvIOvUTxAwqOjcK.jpg"
+    },
+    {
+      "id": "tt30017619",
+      "t": "Los Tipos Malos 2 (2025)",
+      "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["96A4314C52D8272069C58A95E8B657602EC7C3D3", "AD33B5534D24B48271742A6F2F5F21CBB4546A38"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg"
+    },
+    {
+      "id": "tt6710474",
+      "title": "Todo En Todas Partes Al Mismo Tiempo (2022)",
+      "quality": "4K | WEB-RIP | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "C6FFE6FF81F55B84DB0B32CA597FD9AE007F4CFE",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9R1zEZJkIah6GuLwFZWsuygn552.jpg",
+      "type": "movie"
+    },
+
+    ["2021 MOVIES"],
+
+    {
+      "id": "tt1160419",
+      "title": "Duna (2021)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "1B4BB824271CD0FE222708648DEE8F0938586BDD",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/70LHeeN5Nw9sdeQXiqvUeaVZVDr.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt15239678",
+      "title": "Duna: Parte Dos (2024)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "2B7063641D134DC6FB507A923F0A6896392C2971",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt3420504",
+      "t": "Finch (2021)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["FDDEEAEBB7E71CC7D5C38E8F32B45E09A14FC53D", "EDC0DA4AB6798A18A32042AAD4D09A77FF479EC0"],
+      "p": "https://www.themoviedb.org/t/p/w1280/eEJtzD1F05xDipFEDY98CTH5yZn.jpg"
+    },
+
+    ["2020-2011 MOVIES"],
+
+{
+      "id": "tt6751668",
+      "t": "Parásitos (2019)",
+      "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["20A9A15B7F27BCA8D3174193997AC45744A90D08", "5E6C8F6802119B7C86CF86DDD5DCB58787935E1D"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg"
+    },
+    {
+      "id": "tt4729430",
+      "title": "Klaus (2019)",
+      "quality": "4K | WEB-RIP | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "D9037F59C83ACFDE8E6339F4233346069629EBD2",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLniylyJlbXEdxvaGSuQkRACWUx.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt6320628",
+      "title": "Spider-Man: Lejos de casa (2019)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "721E96EAF9349A1547AD23CA27A06F9A20130CDF",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt8350360",
+      "title": "Annabelle 3: Viene a casa (2019)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "B595992A9480EA67E9FF24C641A930622C5B121D",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/zxwPksbRKGaAi06rapPfFTVsMHv.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt2798920",
+      "title": "Aniquilación (2018)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "A17190D64E6401A449B687D48FABF393091EC4D7",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvqp1enRqGmzFXV8jXixmICMYVw.jpg",
+      "type": "movie"
+    },
+    {
       "id": "tt6644200",
       "title": "Un lugar en silencio (2018)",
       "quality": "4K | HDR | Dolby Atmos",
@@ -1852,54 +1701,26 @@
       "type": "movie"
     },
     {
-      "id": "tt0499549",
-      "t": "Avatar (2009)",
-      "q": ["4K  BluRayRip  AAC 5.1", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["1BA4F43C3B6C064225BCE08BE1B95068C3BCA8D8", "9E5322600A5DFC2431E4BBE75DF5B6DDA1E84186"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/yV8R3DxAQAIhLSh2aAL0aBirkSR.jpg"
-    },
-    {
-      "id": "tt1630029",
-      "title": "Avatar: El Camino Del Agua (2022)",
-      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "id": "tt6195094",
+      "title": "Pesadilla en el infierno (2018)",
+      "quality": "1080p WED-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "344ADFF7761C7021002B9C3CBF32FCC2012BFE29",
+      "codec": "H.264",
+      "hash": "4D7C65ADC5F9F1EEF8865F78B4477B56F5C25AC2",
       "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w1280/8htEc0NimXTzTDdxScpCupdSgT9.jpg",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6TU88oDDNRYnuPGvViwPxGZNY1m.jpg",
       "type": "movie"
     },
     {
-      "id": "tt14445366",
-      "title": "La chica perdida (2025)",
+      "id": "tt2709692",
+      "title": "El Grinch (2018)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
-      "hash": "3479D3B6312CE615C20AFD90F99400966D1F6FCDD",
+      "hash": "865A83F3EB9F019959CC2724B559DCE61D7366F9",
       "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
       "type": "movie"
-    },
-    {
-    "id": "tt4589218",
-    "t": "Five Nights at Freddy's (2023)",
-    "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-    "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "h": ["3570D9E5FE1306A48954EDE2E2B6FC5A384981EE", "5C829F89827F03DDFCD75EEB3F6A033B57B26DAB"],
-    "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg"
-    },
-    {
-      "id": "tt6751668",
-      "t": "Parásitos (2019)",
-      "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | BluRayRip | EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["20A9A15B7F27BCA8D3174193997AC45744A90D08", "5E6C8F6802119B7C86CF86DDD5DCB58787935E1D"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg"
     },
     {
       "id": "tt4633694",
@@ -1924,58 +1745,66 @@
       "type": "movie"
     },
     {
-      "id": "tt1877830",
-      "t": "Batman (2022)",
-      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["3E89697625AD0A989FFE2ABB631DF6B0E0F6D4BA", "A42C0CD232D79197C417812226B8860CFC21B4BF", "2379E5802CBE6F84841053F8E3AE5640F52818A4"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kOD0qxiUmSg7M5LeHNWT6KffsNQ.jpg"
+      "id": "tt5052448",
+      "title": "Déjame salir (2017)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "62EAB5C45D087B01B130DA3397125BBDEA463579",
+      "poster": "https://www.themoviedb.org/t/p/w1280/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg"
     },
     {
-      "id": "tt4729430",
-      "title": "Klaus (2019)",
-      "quality": "4K | WEB-RIP | AAC 5.1",
+    "id": "tt2283362",
+    "title": "Jumanji: Bienvenidos a la jungla (2017)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "A0F22BD73493942C4BBBB36FDCFE851BD42F9ED9",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
+    "type": "movie"
+    },
+    {
+      "id": "tt1396484",
+      "t": "It (Eso) (2017)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["C465B235D1097926A9EC4ECF8A2B66F597A72352", "031B1C17F7302C31A1990F2E1B88ABB50896C875"],
+      "p": "https://image.tmdb.org/t/p/w1280/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg"
+    },
+    {
+      "id": "tt7349950",
+      "title": "It: Capítulo dos (2019)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.265",
-      "hash": "D9037F59C83ACFDE8E6339F4233346069629EBD2",
+      "hash": "8014C8C8DA291E7E42D6DE1A16067F42B5535179",
       "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLniylyJlbXEdxvaGSuQkRACWUx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w1280/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
       "type": "movie"
     },
     {
-      "id": "tt0889573",
-      "title": "Un pequeño cambio (2010)",
-      "quality": "1080p | WEBB-DL",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "89421DC5C6526AE9F3C0C1E77660D4122FEA8095",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Ei0pNUOnyhXBsY9v30XPpypZcc.jpg",
-      "type": "movie"
-    },
-      {
-      "id": "tt6195094",
-      "title": "Pesadilla en el infierno (2018)",
-      "quality": "1080p WED-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "4D7C65ADC5F9F1EEF8865F78B4477B56F5C25AC2",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6TU88oDDNRYnuPGvViwPxGZNY1m.jpg",
-      "type": "movie"
+      "id": "tt1431045",
+      "t": "Deadpool (2016)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["1A9B245B88A12A28C0CD2BD8F3D046EA7D4CA8D9", "BC97659ED6C073102223039C691E029DE17BD706"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg"
     },
     {
-    "id": "tt2557478",
-    "title": "Pacific Rim: Uprising (2018)",
-    "quality": "4K | BLURAY | Dolby Atmos",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "E194A4A70B8E65EB8C3129AD16BB8C57EC7AA0C7",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg",
-    "type": "movie"
+      "id": "tt5463162",
+      "t": "Deadpool 2 (2018)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["5A373F00427C0A176806DFCDAE4A3B744E79117C", "027F6E00832D3EA9D63CE82F0BB508E0C4F906C3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg"
+    },
+    {
+      "id": "tt6263850",
+      "t": "Deadpool & Wolverine (2024)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos", "1080 | BLURAY REMUX | ATMOS"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["5702B85B8A608FC6CBD4609A137CBDBB743B2083", "539A1E24228E92FDAFE5FAE268A6AAC3FD647567", "5702B85B8A608FC6CBD4609A137CBDBB743B2083"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9TFSqghEHrlBMRR63yTx80Orxva.jpg"
     },
     {
       "id": "tt3783958",
@@ -2020,27 +1849,6 @@
     "type": "movie"
     },
     {
-      "id": "tt1772341",
-      "t": "Ralph, el demoledor (2012)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRemux  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["36C031EE5D693947AC785678D3C0DA3178909740", "BFDBE70D583BFF6E43300299C5B4E2C6EB86D289"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3kB1z3uwsYlKAUMO8OuxrFlktvx.jpg"
-    },
-    {
-      "id": "tt0082198",
-      "title": "Conan, el bárbaro (1982)",
-      "quality": "1080p | WEB-DL | AAC 5.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "18010D70C26EC2D461090197CF23BA9684852840",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YBNMzXo1IEK7DF3i1rBdqwqMBx.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt4034228",
       "title": "Manchester frente al mar (2016)",
       "quality": "1080p | WEB-DL | AAC 5.1",
@@ -2052,71 +1860,31 @@
       "type": "movie"
     },
     {
-      "id": "tt1375666",
-      "t": "El origen (2010)",
-      "q": ["4K REMUX | HDR | Dolby Atmos 7.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["3E979C3E183261623F9F390B8355CA109DCF0825", "71E315044F21B18DCF380AEA4F03A70E2A5E0210", "5D1EF7452CCFBD46F5E8265EAB372A083F3BF0CA"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg"
+      "id": "tt1355644",
+      "title": "Pasajeros (2016)",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "069DAB17D85BC2F26B5E908629429F150C4E0B67",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg"
     },
     {
-      "id": "tt0372784",
-      "t": "Batman inicia (2005)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["B7E7B99EE61D14B5B19F102AECB7AFDC0276F513", "C4974D206D0B44CD25742DD5F84BD08DBE5B7ADC"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg"
-    },
-    {
-      "id": "tt0468569",
-      "t": "Batman: El caballero de la noche (2008)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["E7D4D6A669459DA1E0A554B2E867D1CB97B6A00D", "BCDA0FDED0410F9E0B1A2DB94EDD731A176DCA3B"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/hZUSv4mCne1DP05ihoVDoh8Dg0W.jpg"
-    },
-    {
-      "id": "tt1345836",
-      "t": "Batman: El caballero de la noche asciende (2012)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["27D69D43FF0699663B816E5EE209C13B1C28680F", "9F91A9F563111081A8879638B7D6B0831AF8204F"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gaivVSK2pOIOAWNGGKyMGpIAC2z.jpg"
-    },
-    {
-      "id": "tt3915174",
-      "t": "El gatos con botas: último deseo (2022)",
-      "q": ["4K | BLURAY | DTS", "1080p | WEB-DL | Dolby Atmos", "1080 | BLURAY REMUX | ATMOS"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["5AC5EFF97304CC5D1C4EC6C5BB809EC8DA3C3F23", "BF72678D3BD8516438FB479896A85BF75BEADA5F", "2B161FD420CD9E81C4959FADAD1C9326495F5666"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg"
-    },
-    {
-      "id": "tt0448694",
-      "t": "El gato con botas (2011)",
-      "q": ["4K | BLURAY | DTS", "1080p | WEB-DL | Dolby Atmos"],
+      "id": "tt2582802",
+      "t": "Whiplash. Música y obsesión (2014)",
+      "q": ["1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["CB2C6ADB023A045C718FD93BB288155083DAB120", "C46457F06AA326F4E003894FA4515B4261E2EFD7"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/1VmrC82zY4U33l9UHlZTWDB1asN.jpg"
+      "h": ["71B201609598AC2391F91DB45E96FE3F563FAD1E", "AF2F30769553B29599C027E2549456EE6877C88E"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/6uSPcdGNA2A6vJmCagXkvnutegs.jpg"
     },
     {
-    "id": "tt1001526",
-    "title": "Megamente (2010)",
-    "quality": "1080p | WEB-DL | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "D31870137380BD0D54AA75FF09F778FD8A192527",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/294wOKPmc2XIpciVqZPp9qb9aaz.jpg",
-    "type": "movie"
-   },
-   {
+      "id": "tt0816692",
+      "t": "Interestelar (2014)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["EDC74AE0675EA4F67DE0B11F0EBE7E0D362E6F07", "46C833B77B60656693FB62E7504ED7054D8FF858"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/oBvINgU5r10WHvG6VSopCOlWtJP.jpg"
+    },
+    {
       "id": "tt2015381",
       "t": "Guardianes de la Galaxia (2014)",
       "q": ["4K  BluRay  AAC5.1", "1080p  BluRayRip  AAC 5.1"],
@@ -2147,17 +1915,303 @@
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qvUdIdhAcu3wk9ZybJcbTztas4I.jpg"
     },
     {
-      "id": "tt0892769",
-      "t": "Cómo entrenar a tu Dragón (2010)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  Dolby Digital "],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "id": "tt2911666",
+      "t": "John Wick (Otro día para matar) (2014)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "c": "H.264",
-      "h": ["B78D81FB867AD3CF9AC8B6E1E7D364C4070198C9", "D321A40A9E7EB81D58EBE45E7817EABC78AD6492"],
+      "h": ["D61EBB2918595CC92CC8B13CBBF63A720652DAAC", "53750E1CD801EEDDABA0679303CF59BE00A10336"],
       "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg"
+    },
+    {
+      "id": "tt4425200",
+      "t": "John Wick 2: Un nuevo día para matar (2017)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["7249CCB99A7AEE142ECC0A722B296CDC09376849", "E5EC721F219F77B05034C0A91DCF0EBE76B28113", "3DC146258EFA83EFE9B3BC08568100840A7F811A"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3jApZTvbOs7giIM01ddPpFWQagR.jpg"
+    },
+    {
+      "id": "tt6146586",
+      "t": "John Wick 3: Parabellum (2019)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["540D0A3D58FAE11CE344DB1BDFE6E3D75CED1277", "46812FC999E1052D0A1AA2E3FCD9F58ABDADF0FB", "31F108EBB55CAD2ED3AF3495044FA18BCD36232B"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/moq22aADkAzAhsFKRq5hXFUM4Xp.jpg"
+    },
+    {
+      "id": "tt10366206",
+      "t": "John Wick 4 (2023)",
+      "q": ["4K REMUX | Dolby Vision | Dolby Atmos 7.1", "1080p | BluRayRip | DD 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["B93666BA200C3351F2FA36F8BCE4C72FBC4AEA97", "C7C2B1A606F9DC07436302FB75A80F8FBDE7A42D"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg"
+    },
+     {
+      "id": "tt0481499",
+      "t": "Los Croods (2013)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["AAA203BBEFE4D03B7137344795DB611D7BD0516E", "FFFE9DF1A2D7642E68438F9D70F25305145EF9E7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg"
+    },
+    {
+      "id": "tt2850386",
+      "title": "Los Croods 2 (2020)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "85F0C7069CBE8F4DA5E715E848A6122CC928C5C1",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5uMWKEmegf5aTJnp1u98JF4QerP.jpg"
+    },
+    {
+      "id": "tt1663662",
+      "title": "Pacific Rim (2013)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "A1F642C4DE941C8894A20D8168601F825A84FB94",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qGu6CHagpxv1XW6Bn3sUJ9SFaH0.jpg",
       "type": "movie"
     },
+    {
+    "id": "tt2557478",
+    "title": "Pacific Rim: Uprising (2018)",
+    "quality": "4K | BLURAY | Dolby Atmos",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "E194A4A70B8E65EB8C3129AD16BB8C57EC7AA0C7",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg",
+    "type": "movie"
+    },
+    {
+      "id": "tt1772341",
+      "t": "Ralph, el demoledor (2012)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRemux  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["36C031EE5D693947AC785678D3C0DA3178909740", "BFDBE70D583BFF6E43300299C5B4E2C6EB86D289"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3kB1z3uwsYlKAUMO8OuxrFlktvx.jpg"
+    },
+    {
+      "id": "tt1446192",
+      "title": "El origen de los guardianes (2012)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "44AAB865FE090B6DE3DDBFA9C38115B6F733C245",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kDVXsTZhssIJeZIMBC33MqmgkrQ.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1911600",
+      "title": "Miss Bala (2011)",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "78BEA66F2E010BD8D2B0D5FA2B75D95D872DFA0C",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/b3sSssMYkOoCghxOFxYPm58kdfJ.jpg"
+    },
+    {
+      "id": "tt0448694",
+      "t": "El gato con botas (2011)",
+      "q": ["4K | BLURAY | DTS", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["CB2C6ADB023A045C718FD93BB288155083DAB120", "C46457F06AA326F4E003894FA4515B4261E2EFD7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/1VmrC82zY4U33l9UHlZTWDB1asN.jpg"
+    },
+    {
+      "id": "tt3915174",
+      "t": "El gatos con botas: último deseo (2022)",
+      "q": ["4K | BLURAY | DTS", "1080p | WEB-DL | Dolby Atmos", "1080 | BLURAY REMUX | ATMOS"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["5AC5EFF97304CC5D1C4EC6C5BB809EC8DA3C3F23", "BF72678D3BD8516438FB479896A85BF75BEADA5F", "2B161FD420CD9E81C4959FADAD1C9326495F5666"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg"
+    },
+    {
+      "id": "tt1192628",
+      "t": "Rango (2011)",
+      "q": ["4K  BluRay  AAC 5.1", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["6DF771D941EB20FC6305F4E9EF1F99609115873D", "4C8C7F5D53036F52CF00EFAC8073633FFD130BBB"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9p73gp8ugku8n1YNhO0dYryF1ll.jpg"
+    },
+    {
+      "id": "tt1430607",
+      "title": "Operación Regalo (2011)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "2FF9071E44D8ADA432549F4339D43F376CE322EE",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aqowdcCdxWESSoABjOaguGu9b85.jpg",
+      "type": "movie"
+    },
+
+    ["2010-2001 MOVIES"],
+
+    {
+      "id": "tt1375666",
+      "t": "El origen (2010)",
+      "q": ["4K REMUX | HDR | Dolby Atmos 7.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["3E979C3E183261623F9F390B8355CA109DCF0825", "71E315044F21B18DCF380AEA4F03A70E2A5E0210", "5D1EF7452CCFBD46F5E8265EAB372A083F3BF0CA"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg"
+    },
+    {
+    "id": "tt1130884",
+    "title": "La isla siniestra (2010)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "73E9670556B399A54A153C6087B4AF62322C027A",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/Ap0iZ0CRNCsrK6kUfWLA6HJwu2K.jpg",
+    "type": "movie"
+   },
    {
+    "id": "tt1001526",
+    "title": "Megamente (2010)",
+    "quality": "1080p | WEB-DL | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "D31870137380BD0D54AA75FF09F778FD8A192527",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/294wOKPmc2XIpciVqZPp9qb9aaz.jpg",
+    "type": "movie"
+   },
+   {
+     "id": "tt0892769",
+     "t": "Cómo entrenar a tu Dragón (2010)",
+     "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  Dolby Digital "],
+     "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+     "c": "H.264",
+     "h": ["B78D81FB867AD3CF9AC8B6E1E7D364C4070198C9", "D321A40A9E7EB81D58EBE45E7817EABC78AD6492"],
+     "s": "aprobado",
+     "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xyxSgO8rA2H4IcQfEoy2DJDDyrQ.jpg",
+     "type": "movie"
+   },
+   {
+      "id": "tt0889573",
+      "title": "Un pequeño cambio (2010)",
+      "quality": "1080p | WEBB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "89421DC5C6526AE9F3C0C1E77660D4122FEA8095",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7Ei0pNUOnyhXBsY9v30XPpypZcc.jpg",
+      "type": "movie"
+    },
+     {
+      "id": "tt0499549",
+      "t": "Avatar (2009)",
+      "q": ["4K  BluRayRip  AAC 5.1", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["1BA4F43C3B6C064225BCE08BE1B95068C3BCA8D8", "9E5322600A5DFC2431E4BBE75DF5B6DDA1E84186"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/yV8R3DxAQAIhLSh2aAL0aBirkSR.jpg"
+    },
+    {
+      "id": "tt1630029",
+      "title": "Avatar: El Camino Del Agua (2022)",
+      "quality": "4K | Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "344ADFF7761C7021002B9C3CBF32FCC2012BFE29",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w1280/8htEc0NimXTzTDdxScpCupdSgT9.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1160368",
+      "title": "12 trampas (2009)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "9B77C9D8847F786BAA70B1B1A168FA5B621777FD",
+      "poster": "https://www.themoviedb.org/t/p/w1280/gybSP8ZNUCoVPFD7d5t0U69zOu2.jpg"
+    },
+    {
+      "id": "tt0878804",
+      "title": "Un sueño posible (2009)",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | cn CHINESE",
+      "hash": "087A152DC5E5D46F38DA41F178A84033B12D5E06",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/uDZJph23idOLBmImnuaZBlF3TgP.jpg"
+    },
+    {
+      "id": "tt0371746",
+      "t": "Iron Man (2008)",
+      "q": ["4K  WEB-DL  AAC", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["259ABC5594229DA47BE6A390D0F0DE9B57376B95", "67BDD8D51994B64C71FE203A3B87A8ACC7518F53"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/veJTO75R5aapilhmlcFuqoGCPe3.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1228705",
+      "t": "Iron Man 2 (2010)",
+      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["7FE5DE5E333AD4E5B83788A4700F0B62B6B2C827", "44B1A20682B106A71E16D0F8420D6CC498186EEE"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1300854",
+      "t": "Iron Man 3 (2013)",
+      "q": ["4K  BluRay  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["079E605324E5F715EA7E3532FCDDBA84EFFD3666", "DC1D51E39E3A5647C34583A35D7B4F9FDE99DC47"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "type": "movie"
+    },
+     {
+      "id": "tt0452608",
+      "t": "Death Race: La carrera de la muerte (2008)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["ECD9B85062DF413204B24568D3ECC77C721BA295", "17A22B3EFC5B2F4F630580223C3496D88765C2E3"],
+      "p": "https://www.themoviedb.org/t/p/w1280/bPvd43SWgCh6AED73XRsFoBVPwi.jpg"
+    },
+    {
+      "id": "tt0818165",
+      "title": "The Alphabet Killer (2008)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO",
+      "hash": "EBAA9344725A8F23C1657FEBEC493E7B10637566",
+      "poster": "https://www.themoviedb.org/t/p/w1280/8RS1hnl4JI9ArfRSNroYBw8yHce.jpg"
+    },
+    {
+    "id": "tt0421715",
+    "title": "El curioso caso de Benjamin Button (2008)",
+    "quality": "1080p | WEB-DL | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "64C10B5A00BAF665D4B0523A61733187B3CCF10A",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tq8yOj5fu4aLVdMUbibm9GEkmuN.jpg"
+    },
+    {
       "id": "tt0441773",
       "t": "Kung Fu Panda (2008)",
       "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  Dolby Digital "],
@@ -2189,26 +2243,6 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
     "type": "movie"
-    },
-    {
-      "id": "tt1192628",
-      "t": "Rango (2011)",
-      "q": ["4K  BluRay  AAC 5.1", "1080p  WEB-DL  Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["6DF771D941EB20FC6305F4E9EF1F99609115873D", "4C8C7F5D53036F52CF00EFAC8073633FFD130BBB"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9p73gp8ugku8n1YNhO0dYryF1ll.jpg"
-    },
-    {
-    "id": "tt0421715",
-    "title": "El curioso caso de Benjamin Button (2008)",
-    "quality": "1080p | WEB-DL | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "64C10B5A00BAF665D4B0523A61733187B3CCF10A",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tq8yOj5fu4aLVdMUbibm9GEkmuN.jpg"
     },
     {
       "id": "tt0829482",
@@ -2252,6 +2286,14 @@
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/6ZMgrMK1Xq7tKDXypKuTBpiv5K.jpg"
     },
     {
+      "id": "tt0790604",
+      "title": "Un vecino con pocas luces (2006)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "1B316D702B9CAC59FD0BD1E2463D846298E01DF0",
+      "poster": "https://www.themoviedb.org/t/p/w1280/icToXS9r12hEXERVBYHBR0kKCeO.jpg"
+    },
+    {
     "id": "tt0454921",
     "title": "En Busca de la Felicidad (2006)",
     "quality": "1080p | BluRayRip | Dolby Atmos",
@@ -2263,6 +2305,67 @@
     "type": "movie"
     },
     {
+    "id": "tt0458352",
+    "title": "El diablo viste a la moda (2006)",
+    "quality": "1080 | WEB-DL | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "81EA6EC72C53C4C205D69BB72039CCCD78A7130F",
+    "status": "aprobado",
+    "poster": "https://image.tmdb.org/t/p/w1280/1LwW0W0Zyik00OmQPTnCUjmCh1C.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0482571",
+    "title": "El truco final (El prestigio) (2006)",
+    "quality": "4k | BLURAY | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+    "codec": "H.264",
+    "hash": "ECAB7B9A4830ED73B0339ABF662F82147EDFCBB1",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w1280/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
+    "type": "movie"
+    },
+    {
+      "id": "tt0399201",
+      "title": "La isla (2005)",
+      "quality": "1080p | BluRay | DTS-HD | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "E385EFF9F085DAB258C9BDC11D9EC44AC17AC9A7",
+      "codec": "H.264",
+      "poster": "https://www.themoviedb.org/t/p/w1280/mNmc7H8L2ABfcY2V7BQMpFU0F4r.jpg"
+    },
+    {
+      "id": "tt0372784",
+      "t": "Batman inicia (2005)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["B7E7B99EE61D14B5B19F102AECB7AFDC0276F513", "C4974D206D0B44CD25742DD5F84BD08DBE5B7ADC"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg"
+    },
+    {
+      "id": "tt0468569",
+      "t": "Batman: El caballero de la noche (2008)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["E7D4D6A669459DA1E0A554B2E867D1CB97B6A00D", "BCDA0FDED0410F9E0B1A2DB94EDD731A176DCA3B"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/hZUSv4mCne1DP05ihoVDoh8Dg0W.jpg"
+    },
+    {
+      "id": "tt1345836",
+      "t": "Batman: El caballero de la noche asciende (2012)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["27D69D43FF0699663B816E5EE209C13B1C28680F", "9F91A9F563111081A8879638B7D6B0831AF8204F"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gaivVSK2pOIOAWNGGKyMGpIAC2z.jpg"
+    },
+     {
       "id": "tt0317705",
       "t": "Los Increíbles (2004)",
       "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | BluRayRip |  EAC3 5.1"],
@@ -2279,99 +2382,6 @@
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7uintpyNlSF32hj5Bua85VuAp2R.jpg"
     },
     {
-      "id": "tt0145487",
-      "title": "Spider-Man (2002)",
-      "quality": "4K | BLURAY | AAC 5.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "536DBCBED6182B062B8984EAD31E52486B06B3F1",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0316654",
-      "t": "Spider-Man 2 (2004)",
-      "q": ["4K | BLURAY | AAC 5.1", "1080p | BLURAY | Version Extendida", "1080 | BLURAY | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
-      "h": ["5F5DAB871F8CDAABCAF757E74A188211D6C8836A", "9F10DC036A58C047D513CAE901876FFC992687ED", "860C15F8CBF2D59B8187BA72AA0ACF429AAAA81F"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg"
-    },
-    {
-      "id": "tt0413300",
-      "title": "Spider-Man 3 (2007)",
-      "quality": "4K | BLURAY | AAC 5.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "3FE0A461CBA0F717A73D3B220DDE0E6BE2E0D66C",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/589rUff9Ai272uMudb9Dn7k88Oa.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0172495",
-      "t": "Gladiator (2000)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["17E2613618BF76BDF04D17FB79EF38F488D1C31A", "2CEF9861565D395DEC4E3E7AC90C621454F29C0D"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/e7HyYnRLh96X5aXqfl6NeXskLJt.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt14948432",
-      "t": "Código Traje Rojo (2024)",
-      "q": ["4K  WEB-DL  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["6C206582D570DAE7CCBB4F560B80D074CE278991", "040CBEF2CCF3E1202C962123D31E4B70E4F18D07"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b0EJNVPy95JJZhpg9l6a1eIh059.jpg"
-    },
-    {
-      "id": "tt1446192",
-      "title": "El origen de los guardianes (2012)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "44AAB865FE090B6DE3DDBFA9C38115B6F733C245",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kDVXsTZhssIJeZIMBC33MqmgkrQ.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1430607",
-      "title": "Operación Regalo (2011)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "2FF9071E44D8ADA432549F4339D43F376CE322EE",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aqowdcCdxWESSoABjOaguGu9b85.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0170016",
-      "t": "El Grinch (2000)",
-      "q": ["4K  BluRay  AAC", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["BE5951B3D7CFE39EB6F7D62C16408689F82ABEAF", "8D2E3526816277F79D3F83A0D2DB45F005038FFD"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/fvIWRZqed5zRojNlK9zBePYWzce.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt2709692",
-      "title": "El Grinch (2018)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "865A83F3EB9F019959CC2724B559DCE61D7366F9",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
-      "type": "movie"
-    },
-    {
       "id": "tt0338348",
       "t": "El Expreso Polar (2004)",
       "q": ["4K  BluRay  AAC", "1080p  WEB-DL  AAC 5.1"],
@@ -2380,77 +2390,6 @@
       "h": ["47FEE471F80A3917F4D1CB992E086BF0B3BFEA84", "E00747F52F80574C839CB0730F6753C7E2CAFDAC"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/jV3VtoGojwLHNvBEZwsqwyIuQgh.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0319343",
-      "title": "Elf, el duende (2003)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "6BBEA9CDB537D3A9503EA4A6348B59F87301F299",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0481499",
-      "t": "Los Croods (2013)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["AAA203BBEFE4D03B7137344795DB611D7BD0516E", "FFFE9DF1A2D7642E68438F9D70F25305145EF9E7"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg"
-    },
-    {
-      "id": "tt2850386",
-      "title": "Los Croods 2 (2020)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "hash": "85F0C7069CBE8F4DA5E715E848A6122CC928C5C1",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5uMWKEmegf5aTJnp1u98JF4QerP.jpg"
-    },
-    {
-      "id": "tt0116705",
-      "title": "El regalo prometido (1996)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "8BC6D39DF89EAE37C94F1037BA224EF8E2F91B0E",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/poTAozwkfk23yFr3vu2FIIeXqVo.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0111070",
-      "title": "Santa Cláusula (1996)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "C11EE403DE1297132059F3788414C1002766B88C",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yCtOqoichqPPeKYlnvoMvAPSW4Z.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0304669",
-      "title": "Santa Cláusula 2 (2002)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "1816F7DA7CA5338767FC110E2F523FD5E303BAF9",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/mrq96F52yJ4L6XDLu5O7QUP7KqR.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0452681",
-      "title": "Santa Cláusula 3: complot en el Polo norte (2006)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "1FDCFBD98DFE23BC1C372DC65F7216E379592D44",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1FeVlc0AwTucjp1Xm5bVKhdhXEe.jpg",
       "type": "movie"
     },
     {
@@ -2483,110 +2422,101 @@
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/awJby5DNKNK3WsHMnBLoHHNCnmU.jpg"
     },
-    {
-      "id": "tt0117705",
-      "t": "Space Jam: El juego del siglo (1996)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["7A9EA5D9AE1C767C34D0CADAD140E4E45904128E", "378671A4AEE91B38B14CADB0380C2EB96E3C49E7"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/6h3FIr5CQFCBV8Xrv7XZLZbIQR0.jpg"
-    },
-    {
-      "id": "tt0109830",
-      "t": "Forrest Gump (1994)",
-      "q": ["4K  WEB-RIP  Dolby Atmos", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["8477AB52378167298B97A49B199BF4667A7D8257", "EC4535DF512599A5E0C7E0595B1691074A1B8C25"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/azV6hV99lYkdhydsQbJCI6FqMl4.jpg"
-    },
-    {
-      "id": "tt0107688",
-      "t": "El Extraño Mundo de Jack (1993)",
-      "q": ["4K  BluRay  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["7C5AF85C7926AF2188E30E649CE4B556D5371926", "E84F80BB5763CA051BA2A8C421F7DBE59ABD8A44"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/sPAPFeEi820pZtm2Y77tv8vQJnM.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0114709",
-      "t": "Toy Story (1995)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["88994DD4CD06CE40F04FBC5B3331879810053CC9", "ACBC1820648C06A170D4A242D93B0E4B8F8A6FE3"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0120363",
-      "t": "Toy Story 2 (1999)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["A813895A6CA9B3590E47D81CDF6FE7A98689B94D", "1F85DD4787FF29F52240AB3933BEB87B820E5F38"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/8OTDKkJv2jXg5ZHKazFxBAttKkR.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0435761",
-      "t": "Toy Story 3 (2010)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["388EEEA98720216E21E2FCA512D078333DFA9C94", "1395E98F084222786522DFE1E78A00AA35939E9A"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
-      "type": "movie"
-    },
      {
-      "id": "tt1979376",
-      "t": "Toy Story 4 (2019)",
-      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "id": "tt0325980",
+      "t": "Piratas del Caribe: La maldición de la Perla Negra (2003)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["52C4433E238EAF6DA234C086FA2FA9290E35B7BA", "3B75B5B73D1C5810A3D20345E72C8A930BB35E02"],
+      "p": "https://www.themoviedb.org/t/p/w1280/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg"
+    },
+    {
+      "id": "tt0383574",
+      "t": "Piratas del Caribe: El cofre de la muerte (2006)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["55497B200E26330DF9C695BC9D65DA5E5DD4DB52", "EF634DFC7609961944CB224331A1A341B07F06C8"],
+      "p": "https://www.themoviedb.org/t/p/w1280/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg"
+    },
+    {
+      "id": "tt0449088",
+      "t": "Piratas del Caribe: En el fin del mundo (2007)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["ACA4865F091EF876A39B27665C3C9FAD2C29C2DC", "A5EDBFDE2185EB27706AD249767FFC0A07DED370"],
+      "p": "https://www.themoviedb.org/t/p/w1280/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg"
+    },
+    {
+      "id": "tt1298650",
+      "t": "Piratas del Caribe: En mareas misteriosas (2011)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["668FAF7C05FA09A326B14E9A07C081F2B477ECF4", "82E48BD4D26C76A3F599130C0D09CD0BEB98F859"],
+      "p": "https://www.themoviedb.org/t/p/w1280/2oOARbiV871kCC27FyKBmYwOM3G.jpg"
+    },
+    {
+      "id": "tt1790809",
+      "t": "Piratas del caribe : La venganza de Salazar (2017)",
+      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["6336F7EA1792F9137D991598786EFDC42D00071F", "93BEBDE96CA33BBA2900301C426806A95BEFD1C8"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/AookkwjZfWdigGtaEwy5IfOnBku.jpg"
+    },
+    {
+      "id": "tt0322330",
+      "t": "Un viernes de locos (2003)",
+      "q": ["4K  WEB-DL  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
-      "h": ["9D544B93DCF27C2118DBA5FBA55FD8258401D201", "B8A713FCC8B61B39D16D00834ABC70F6FB0642FB"],
+      "h": ["767750641489B0282CF7F738AA533550DACA69BC", "184F448755C4FE3ACA351029DB94C8C0AC6001A4"],
       "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/dNFuggPMT5cMylm28n7Lqc9261V.jpg"
+    },
+    {
+      "id": "tt31956415",
+      "title": "Otro viernes loco (2025)",
+      "quality": "4K Dolby Vision | Dolby Atmos",
+      "language": "🇲🇽 LATINO",
+      "codec": "H.264",
+      "hash": "CB7C1EE5F68AB9F67C7E6FA60FAABDAF2498182B",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XFHVy03Rkr7ITaznFTeVp8dMwL.jpg",
       "type": "movie"
     },
     {
-      "id": "tt0119654",
-      "t": "Hombres de negro (1997)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["2C662FBCB305826B36F1C17DC70FDD5F46A239E4", ""],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/yphbNBQbzDaeW1SwOHtaPwa5ppC.jpg"
+      "id": "tt0319343",
+      "title": "Elf, el duende (2003)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "6BBEA9CDB537D3A9503EA4A6348B59F87301F299",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
+      "type": "movie"
     },
     {
-      "id": "tt0120912",
-      "t": "Hombres de negro II (2002)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["E037D954D860A5D90BCD317EFEC922E2B9FEA1B8", ""],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xgOgSEFRfVB52yM4Y8cAmqb1cqJ.jpg"
+      "id": "tt0145487",
+      "t": "Spider-Man (2002)",
+      "q": ["4K | BluRayRip | AAC 5.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["536DBCBED6182B062B8984EAD31E52486B06B3F1", "535C4E060B53E887ECFE67D607EA85BAB68B5FFF "],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kjdJntyBeEvqm9w97QGBdxPptzj.jpg"
     },
     {
-      "id": "tt1409024",
-      "t": "Hombres de negro III (2012)",
-      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["3F31FB061B8D9D8A9D8758CAEDE7D4C419CBAEDF", ""],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/rcVJtZCGnp39obbDKYred2mT9sE.jpg"
+      "id": "tt0316654",
+      "t": "Spider-Man 2 (2004)",
+      "q": ["4K | BLURAY | AAC 5.1", "1080p | BLURAY | Version Extendida", "1080 | BLURAY | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["5F5DAB871F8CDAABCAF757E74A188211D6C8836A", "9F10DC036A58C047D513CAE901876FFC992687ED", "860C15F8CBF2D59B8187BA72AA0ACF429AAAA81F"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg"
+    },
+    {
+      "id": "tt0413300",
+      "t": "SSpider-Man 3 (2007)",
+      "q": ["4K | BluRayRip | AAC 5.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["3FE0A461CBA0F717A73D3B220DDE0E6BE2E0D66C", "74711417ECFCF4DDFB6CDB2BB4972D35DFB03AD6"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/sqZKCRYGovZ8aN99VVJSdL8Ja9k.jpg"
     },
     {
       "id": "tt0120737",
@@ -2611,374 +2541,14 @@
     {
       "id": "tt0167260",
       "t": "El señor de los anillos: El retorno del rey (2003)",
-      "q": ["", "1080p | BluRayRip | AAC 5.1 | Version Cine", "1080p | BluRayRip | AAC 5.1 | Version Extendida"],
+      "q": ["4K WEB-DL | HDR10+ | Version Extendida", "1080p | BluRayRip | AAC 5.1 | Version Cine", "1080p | BluRayRip | AAC 5.1 | Version Extendida"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "c": "H.264",
-      "h": ["", "D9414B7E076CFD0E79CABB1F2B963D550090A41B", "C5F27A325801534CA97FC29D34BB3F09D1EC5120"],
+      "h": ["154989C5C7B930C73C87C357E5163C24CC704252", "D9414B7E076CFD0E79CABB1F2B963D550090A41B", "C5F27A325801534CA97FC29D34BB3F09D1EC5120"],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg"
     },
-    {
-    "id": "tt0283426",
-    "title": "The Jungle Book 2 (2003)",
-    "quality": "1080p | Bluray | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "18ACA0E4CBBEE7AC8697107F97303D46273BDD2D",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg",
-    "type": "movie"
-    },
-    {
-      "id": "tt0137523",
-      "t": "El club de la pelea (1999)",
-      "q": ["4K | Upscaled | AAC 5.1", "1080p | BluRayRemux |  EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["6D2CA694DE35DBC80907BDDA0E171C2D2FFD51CD", "6210F1575C7FB9E05E40CE2FE31042C15BB87F19"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg"
-    },
-    {
-      "id": "tt0114369",
-      "t": "Seven (1995)",
-      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | WEB-DL | EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["5F1B932B478832D39E0750439F68BB6FDA28ABE1", "9BF0710A04890C8F98E7B0B1A1DA2EAC8732A5AF", "9D9E746E8F20FD62895CB05BF6FC673E908D83A8"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kB4HTWPNqDuYFxnSOUV1XXZoDe7.jpg"
-    },
-    {
-      "id": "tt0110912",
-      "t": "Tiempos violentos (1994)",
-      "q": ["1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["A3D91DE22D7CB8A77812E1117C3F6B2248D94154", "20B2DF839FFF3F84EF57EE6F02506058D8979188"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/vruZ74rfN7LhykfkAJz21cVpN8M.jpg"
-    },
-    {
-      "id": "tt0111161",
-      "t": "Sueño de fuga (1994)",
-      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "c": "H.264",
-      "h": ["32770C6DD35A4DD71DEB80D5DEFF7A4E084EEDAB", "8F19010C25EA5D01F00A17E39ACF7596322C9DF2", "F24107F8FEE4DD7E299C3ACC0D1B865DEF08D3E5"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/l6V3TEoJlGh3ztAFxK2hemHfDJ2.jpg"
-    },
-    {
-    "id": "tt0101272",
-    "title": "Los locos Addams (1991)",
-    "quality": "1080p | Bluray | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "11D28409E84E630AFA6F105F5746CC3B168CBE6B",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/sf0ABx2RewFdLi5QJEdRIfL8cBn.jpg",
-    "type": "movie"
-   },
-   {
-      "id": "tt0096895",
-      "t": "Batman (1989)",
-      "q": ["4K  BluRayRemux  Dolby Atmos", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["C97BD70A0FEB428013377444D72016F67A5E8EEE", "92DBABBB56CD3D79B681AB6153CAFDE4B28113A6"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kbeWnmnHNEnuVej6wcjUv0eY6IL.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0103776",
-      "t": "Batman Regresa (1992)",
-      "q": ["4K  BluRay  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["AD85CC630022B1326B408E31D6DC53A202E76644", "6D05BA148ABB817A5DBD2265BBC408D9FB059512"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/nCwLr2j66erneCQhsmdFQfhpY5o.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0093437",
-      "title": "Jovenes Ocultos (1987)",
-      "quality": "4K | BLURAY | AAC 5.1",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.265",
-      "hash": "ACE6CEBF543BE5C6E33F57941E57D671F5327433",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0088247",
-      "t": "Terminator (1984)",
-      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["5B1D9D987E570FFEB22D74BA5B15D91AF5587F2A", "9AC2CB2C124D5E83E6785E06D8600B76B84A1F59"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0103064",
-      "t": "Terminator 2: El Juicio Final (1991)",
-      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["647014408724FBF812870418FA1DD886FA4A8930", "81FD39EE14CC0377D2AB4BDEFAB02645543F6FB4"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt1340138",
-      "t": "Terminator Genesis (2015)",
-      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "c": "H.264",
-      "h": ["945B81BADE49D73D6FC0D9F0A8FB193228DEBABF", "88F9720E16E16D350234013D6AC18B3601EB0BA9"],
-      "s": "aprobado",
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0083658",
-      "t": "Blade Runner (1982)",
-      "q": ["4K | BluRayRemux | DTS 7.1", "1080p | WEB-DL | EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["9EC5C40406CBD35318D75E5AF680367558CC3C3F", "C9212E82F5F8AE83B4C9A196B0B7C71F8CF3C6AA"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/c9DfUXPaOueCxP6tdC7hVRN6izr.jpg"
-    },
-    {
-      "id": "tt1856101",
-      "t": "Blade Runner 2049 (2017)",
-      "q": ["4K REMUX | HDR10+ | TrueHD 7.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["0B4515C945E366D2C6F89222DD338873EDFA2548", "8F6668E1010C1440C2BC0206B8C7D1B21BE67104", "590BD30C640A52C10B970612BFEEA636F0E362AC"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
-    },
-    {
-      "id": "tt0078748",
-      "t": "Alien, el octavo pasajero (1979)",
-      "q": ["4K REMUX | HDR10+ | Dolby TrueHD", "1080p | BluRayRemux | AAC 5.1", "1080p | WEB-DL | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["50D0D1FC015C5AA2401DDD4D405DCACCB75F660B", "4E351351517433A7B9957675F0A70527EFE26BA3", "4A400EF6846787DAE10622900519B338DBC58E2F"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/30nEIxAwxRzcdGclBmuXuJ3eOHt.jpg"
-    },
-    {
-      "id": "tt0090605",
-      "t": "Alien 2: El regreso (1986)",
-      "q": ["4K REMUX | HDR | Dolby TrueHD", "1080p | BluRayRemux | Dolby Digital", "1080p | WEB-DL | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["BB6AFD72E219B2B8180FBCD7F8328AC4BA1D691E", "E1055C3F3BF9C0BBAC28B4029C5BB53F9FB86892", "EFFCE7094A9456DC88B668C00F89CFB1F8B18BA4"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg"
-    },
-    {
-      "id": "tt0103644",
-      "t": "Alien³ (1992)",
-      "q": ["4K | Upscaled | Dolby Digital 5.1", "1080p | BluRayRip | AAC 5.1", "1080p | WEB-DL | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["D6D0D8B8FDCDB760BF9DF9039D6310F411591FDC", "76EA37609E5448B33A174505FAF408B5FB5D4968", "702895AA848DD57CB919BD33D255321FED596476"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg"
-    },
-    {
-      "id": "tt0118583",
-      "t": "Alien La resurrección (1997)",
-      "q": ["", "1080p | BluRayRemux | Dolby Digital"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["", "BEC5E944D8A1DFAA572714D00A0A5D11933C7BCC"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zHVPGP4dxGoaN8wBxk4wz9TDNAn.jpg"
-    },
-    {
-      "id": "tt1446714",
-      "t": "Prometeo (2012)",
-      "q": ["4K REMUX | HDR | Dolby TrueHD", "1080p | BluRayRip | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["55F6855FC0D7599C21AA181AA16C2EB8782EEB49", "24D3DBA75A2754436443F1193C023FE78A4C0196"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/wGNgPcwLJ0s70qUymBuft6ddqEn.jpg"
-    },
-    {
-      "id": "tt2316204",
-      "t": "Alien: Covenant (2017)",
-      "q": ["4K REMUX | HDR | Dolby Atmos", "1080p | BluRayRemux | Dolby Digital"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["9370EEEBCEC36FC821E521241F658089964F03C4", "8F60E39FCB5617251B57C95EA28C2B3ACE70E8CB"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg"
-    },
-    {
-      "id": "tt18412256",
-      "t": "Alien: Romulus (2024)",
-      "q": ["4K WEB-DL | HDR10+ | Dolby Vision", "1080p | BluRayRemux | Dolby Digital", "1080p | WEB-DL | AAC 5.1"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["EED44B9D3C63856A4F682D5168009BB587CEF2BD", "F23308189668E411D95771DFB08F0C2BCDB96041", "F56F2CD5E5783E1AD1B9F022538B4E70F37CBDF7"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xmDypImhT0OOloQIj3JLslUrBw8.jpg"
-    },
-    {
-      "id": "tt0370263",
-      "t": "Alien vs. Depredador (2004)",
-      "q": ["4K | Upscaled | Dolby Digital 5.1", "1080p | BluRayRemux | Dolby Digital"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["CCE474CE23AF5F684F279A38698D8E700FAADDF7", "B2E9F9D921CA016D035657D52F1E45DFB8F68ED3"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/2wHDyHrjIXkYjEtUKts6yUld6Ld.jpg"
-    },
-    {
-    "id": "tt0758730",
-    "title": "Aliens vs. Depredador 2 (2007)",
-    "quality": "1080p | BluRayRemux | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "E4CA4A670DBEBF0BC44558E146BA380EDC189A3E",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bhEaLpCwyqEi3dwnvP4oGXavIa6.jpg",
-    "type": "movie"
-    },
-    {
-    "id": "tt0099785",
-    "title": "Mi pobre angelito (1990)",
-    "quality": "1080p | WEB-DL | Dolby Atmos",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "7A91D91C43D5B9B7339D7120E893D37366DF8C70",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zbzMCGszAiHCwIpTGD7fX79zsDA.jpg",
-    "type": "movie"
-    },
-    {
-    "id": "tt0104431",
-    "title": "Mi pobre angelito 2: Perdido en Nueva York (1992)",
-    "quality": "1080p | Bluray | AAC 5.1",
-    "language": "🇲🇽 LATINO",
-    "codec": "H.264",
-    "hash": "76019FEFF37C1C57EB06D431CBB3B910BB3B5157",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/48Wa6L2QzY47nWqtRCgiqYlecc9.jpg",
-    "type": "movie"
-    },
-    {
-      "id": "tt0120755",
-      "title": "Misión: Imposible 2 (2000)",
-      "quality": "1080p | FullHD | AAC",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "42B09AB103F7DE6BD7D340BB63390891CA4AB6B1",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/43C6dTRAk48V6xTlY1a1KMMK0uZ.jpg",
-      "type": "movie"
-    },
-    {
-      "id": "tt0128853",
-      "title": "Tienes un e-mail (1998)",
-      "quality": "1080p | FullHD | AAC",
-      "language": "🇲🇽 LATINO",
-      "codec": "H.264",
-      "hash": "F0187D2903531A838527650E235D74CE8ECFCB75",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8hI4ciKXsgzNFBfJpkBtjj1VW1Z.jpg",
-      "type": "movie"
-    },
-    {
-    "id": "tt0061852",
-    "title": "The Jungle Book (1967)",
-    "quality": "1080p | BluRayRip | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "21D4972FB1DAF5DD5AE73639B9DA7322441F5F5A",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/uBKffnwwHGIkQET18gVPsyeDdjC.jpg",
-    "type": "movie"
-    },
-    {
-    "id": "tt15789038",
-    "title": "Elemental (2023)",
-    "quality": "4k | WEB-DL | Dolby Atmos",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "6782629E4A28BF1CD65D6F3AB125F3208B70F659",
-    "status": "aprobado",
-    "poster": "https://image.tmdb.org/t/p/w1280/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
-    "type": "movie"
-    },
-    {
-      "id": "tt0086250",
-      "t": "Scarface: Caracortada (1983)",
-      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["E7105D959E6A12A7F98631F5D3A03E4C85A13995", "80EA64E9490B5BDD79BB9016C69C5D0A077AA0C7"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/fPU5BdCeldWO4HB62J1dSxMo3gG.jpg"
-    },
-    {
-    "id": "tt31973693",
-    "title": "Los Roses (2025)",
-    "quality": "4k | WEB-DL | Dolby Atmos",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "6782629E4A28BF1CD65D6F3AB125F3208B70F659",
-    "status": "aprobado",
-    "poster": "https://image.tmdb.org/t/p/w1280/1oOOmn5kGLvIB3CK5vVFFwjAkRA.jpg",
-    "type": "movie"
-    },
-    {
-    "id": "tt0458352",
-    "title": "El diablo viste a la moda (2006)",
-    "quality": "1080 | WEB-DL | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "81EA6EC72C53C4C205D69BB72039CCCD78A7130F",
-    "status": "aprobado",
-    "poster": "https://image.tmdb.org/t/p/w1280/1LwW0W0Zyik00OmQPTnCUjmCh1C.jpg",
-    "type": "movie"
-    },
-    {
-      "id": "tt0068646",
-      "t": "El Padrino (1972)",
-      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["768380AA03DCD113648CB12AB8E295ACEFC72142", "D9AA87B0DDD5E127877C16CF0E0D11FC4397C95F"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
-    },
      {
-      "id": "tt0071562",
-      "t": "El Padrino Parte II (1974)",
-      "q": ["4K | BlurayRip | HDR", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["5D5BFC8024699FB45AA7DFB13CAADC86CD393AC1", "832F0F961FE2DBC15BBADC39C3B150974A565845"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qhdp2FdmwqZxhT4LHdBbcOk0AlB.jpg"
-    },
-    {
-      "id": "tt0099674",
-      "t": "El Padrino Parte III (1990)",
-      "q": ["4K | BlurayRip | HDR", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "h": ["46AEA8FA7B02F2C73741BAD954D69C3E204106B2", "1519CEA9EE1FA118E9ECDA2CBE9A51AA2255D9A7"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/t2uITSC1zZSdWrXryXO4qLOkJce.jpg"
-    },
-    {
-    "id": "tt0109665",
-    "title": "Dream Lover (1993)",
-    "quality": "1080 | WEB-DL | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-    "codec": "H.264",
-    "hash": "D0C999567925017D4E5DA8A301725724190DC87D",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5WpvMVuyulDGL2CENtnfT2RVfD.jpg",
-    "type": "movie"
-    },
-    {
-    "id": "tt23789884",
-    "title": "Hachiko 2: Siempre a tu lado (2023)",
-    "quality": "1080 | WEB-DL | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇨🇳 CHINO",
-    "codec": "H.264",
-    "hash": "1AC0D5CA08ACFC50667E6111EC9CA266C6FA3218",
-    "status": "aprobado",
-    "poster": "https://image.tmdb.org/t/p/w1280/sT5SHjXlrKZwSbcvi70dmoDEHms.jpg",
-    "type": "movie"
-    },
-      {
     "id": "tt0126029",
     "title": "Shrek (2001)",
     "quality": "4k | BLURAY | AAC 5.1",
@@ -3184,62 +2754,6 @@
       "p": "https://www.themoviedb.org/t/p/w1280/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg"
     },
     {
-      "id": "tt3420504",
-      "t": "Finch (2021)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["FDDEEAEBB7E71CC7D5C38E8F32B45E09A14FC53D", "EDC0DA4AB6798A18A32042AAD4D09A77FF479EC0"],
-      "p": "https://www.themoviedb.org/t/p/w1280/eEJtzD1F05xDipFEDY98CTH5yZn.jpg"
-    },
-    {
-      "id": "tt0452608",
-      "t": "Death Race: La carrera de la muerte (2008)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["ECD9B85062DF413204B24568D3ECC77C721BA295", "17A22B3EFC5B2F4F630580223C3496D88765C2E3"],
-      "p": "https://www.themoviedb.org/t/p/w1280/bPvd43SWgCh6AED73XRsFoBVPwi.jpg"
-    },
-    {
-      "id": "tt0325980",
-      "t": "Piratas del Caribe: La maldición de la Perla Negra (2003)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["52C4433E238EAF6DA234C086FA2FA9290E35B7BA", "3B75B5B73D1C5810A3D20345E72C8A930BB35E02"],
-      "p": "https://www.themoviedb.org/t/p/w1280/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg"
-    },
-    {
-      "id": "tt0383574",
-      "t": "Piratas del Caribe: El cofre de la muerte (2006)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["55497B200E26330DF9C695BC9D65DA5E5DD4DB52", "EF634DFC7609961944CB224331A1A341B07F06C8"],
-      "p": "https://www.themoviedb.org/t/p/w1280/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg"
-    },
-    {
-      "id": "tt0449088",
-      "t": "Piratas del Caribe: En el fin del mundo (2007)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["ACA4865F091EF876A39B27665C3C9FAD2C29C2DC", "A5EDBFDE2185EB27706AD249767FFC0A07DED370"],
-      "p": "https://www.themoviedb.org/t/p/w1280/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg"
-    },
-    {
-      "id": "tt1298650",
-      "t": "Piratas del Caribe: En mareas misteriosas (2011)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["668FAF7C05FA09A326B14E9A07C081F2B477ECF4", "82E48BD4D26C76A3F599130C0D09CD0BEB98F859"],
-      "p": "https://www.themoviedb.org/t/p/w1280/2oOARbiV871kCC27FyKBmYwOM3G.jpg"
-    },
-    {
-      "id": "tt1790809",
-      "t": "Piratas del caribe : La venganza de Salazar (2017)",
-      "q": ["4K | BLURAY | Dolby Atmos", "1080p | BLURAY | Dolby Atmos"],
-      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-      "h": ["6336F7EA1792F9137D991598786EFDC42D00071F", "93BEBDE96CA33BBA2900301C426806A95BEFD1C8"],
-      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/AookkwjZfWdigGtaEwy5IfOnBku.jpg"
-    },
-    {
     "id": "tt0265086",
     "title": "La caída del halcón negro (2001)",
     "quality": "4k | BLURAY | AAC 5.1",
@@ -3250,16 +2764,270 @@
     "poster": "https://www.themoviedb.org/t/p/w1280/5chWdaHyaHWd5KaVxK94lbTDCdC.jpg",
     "type": "movie"
     },
+
+    ["2000-1991 MOVIES"],
+
     {
-    "id": "tt2283362",
-    "title": "Jumanji: Bienvenidos a la jungla (2017)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-    "codec": "H.264",
-    "hash": "A0F22BD73493942C4BBBB36FDCFE851BD42F9ED9",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
-    "type": "movie"
+      "id": "tt0172495",
+      "t": "Gladiator (2000)",
+      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["17E2613618BF76BDF04D17FB79EF38F488D1C31A", "2CEF9861565D395DEC4E3E7AC90C621454F29C0D"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/e7HyYnRLh96X5aXqfl6NeXskLJt.jpg",
+      "type": "movie"
+    },
+     {
+      "id": "tt0170016",
+      "t": "El Grinch (2000)",
+      "q": ["4K  BluRay  AAC", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["BE5951B3D7CFE39EB6F7D62C16408689F82ABEAF", "8D2E3526816277F79D3F83A0D2DB45F005038FFD"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/fvIWRZqed5zRojNlK9zBePYWzce.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0120755",
+      "title": "Misión: Imposible 2 (2000)",
+      "quality": "1080p | FullHD | AAC",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "42B09AB103F7DE6BD7D340BB63390891CA4AB6B1",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/43C6dTRAk48V6xTlY1a1KMMK0uZ.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0120689",
+      "t": "Milagros inesperados (1999)",
+      "q": ["4K REMUX | HDR | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["99C2D60CE594692D570994C813F681B3F7DA8042", "C9D6D0B0A72589D671CACFB4E4F058413A442A86", "B313557327158AD7D01B5816237A653C97814B60"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7ezlnHDn6clFku58TmFmpKUQUqf.jpg"
+    },
+    {
+      "id": "tt0137523",
+      "t": "El club de la pelea (1999)",
+      "q": ["4K | Upscaled | AAC 5.1", "1080p | BluRayRemux |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["6D2CA694DE35DBC80907BDDA0E171C2D2FFD51CD", "6210F1575C7FB9E05E40CE2FE31042C15BB87F19"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg"
+    },
+    {
+      "id": "tt0110413",
+      "t": "Historia Americana X (1998)",
+      "q": ["1080p | BluRayRemux | TrueHD DDP 5.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["7487EC0E814E2D734A1139E578C87CC9E6049C30", "FED19AE048B731A3D4F04A7C58BC8F007389D355"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/m6QFnFxQZvUsCW1pQpF4Q7c5m3Y.jpg"
+    },
+    {
+      "id": "tt0120815",
+      "t": "Rescatando al soldado Ryan (1998)",
+      "q": ["4K REMUX | HDR | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["562D23DBD941CA04276BEB66B18ECC6F86C8EEDE", "07D4DDC74CF34F874CD353CA496DC54B11D127BD", "739D44135D0C2860D65B7E8181DDFEAE66E38323"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/aMij3XE0wSoLHWqP7qK0fPOReTb.jpg"
+    },
+    {
+      "id": "tt0128853",
+      "title": "Tienes un e-mail (1998)",
+      "quality": "1080p | FullHD | AAC",
+      "language": "🇲🇽 LATINO",
+      "codec": "H.264",
+      "hash": "F0187D2903531A838527650E235D74CE8ECFCB75",
+      "status": "aprobado",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8hI4ciKXsgzNFBfJpkBtjj1VW1Z.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0119654",
+      "t": "Hombres de negro (1997)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["2C662FBCB305826B36F1C17DC70FDD5F46A239E4", ""],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/yphbNBQbzDaeW1SwOHtaPwa5ppC.jpg"
+    },
+    {
+      "id": "tt0120912",
+      "t": "Hombres de negro II (2002)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["E037D954D860A5D90BCD317EFEC922E2B9FEA1B8", ""],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xgOgSEFRfVB52yM4Y8cAmqb1cqJ.jpg"
+    },
+    {
+      "id": "tt1409024",
+      "t": "Hombres de negro III (2012)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", ""],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["3F31FB061B8D9D8A9D8758CAEDE7D4C419CBAEDF", ""],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/rcVJtZCGnp39obbDKYred2mT9sE.jpg"
+    },
+    {
+      "id": "tt0116705",
+      "title": "El regalo prometido (1996)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "8BC6D39DF89EAE37C94F1037BA224EF8E2F91B0E",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/poTAozwkfk23yFr3vu2FIIeXqVo.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0111070",
+      "title": "Santa Cláusula (1996)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "C11EE403DE1297132059F3788414C1002766B88C",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yCtOqoichqPPeKYlnvoMvAPSW4Z.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0304669",
+      "title": "Santa Cláusula 2 (2002)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "1816F7DA7CA5338767FC110E2F523FD5E303BAF9",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/mrq96F52yJ4L6XDLu5O7QUP7KqR.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0452681",
+      "title": "Santa Cláusula 3: complot en el Polo norte (2006)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "1FDCFBD98DFE23BC1C372DC65F7216E379592D44",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1FeVlc0AwTucjp1Xm5bVKhdhXEe.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0117705",
+      "t": "Space Jam: El juego del siglo (1996)",
+      "q": ["4K  BluRayRemux  Dolby Atmos 7.1", "1080p  BluRayRip  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["7A9EA5D9AE1C767C34D0CADAD140E4E45904128E", "378671A4AEE91B38B14CADB0380C2EB96E3C49E7"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/6h3FIr5CQFCBV8Xrv7XZLZbIQR0.jpg"
+    },
+    {
+      "id": "tt0114709",
+      "t": "Toy Story (1995)",
+      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["88994DD4CD06CE40F04FBC5B3331879810053CC9", "ACBC1820648C06A170D4A242D93B0E4B8F8A6FE3"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0120363",
+      "t": "Toy Story 2 (1999)",
+      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["A813895A6CA9B3590E47D81CDF6FE7A98689B94D", "1F85DD4787FF29F52240AB3933BEB87B820E5F38"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/8OTDKkJv2jXg5ZHKazFxBAttKkR.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0435761",
+      "t": "Toy Story 3 (2010)",
+      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["388EEEA98720216E21E2FCA512D078333DFA9C94", "1395E98F084222786522DFE1E78A00AA35939E9A"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "type": "movie"
+    },
+     {
+      "id": "tt1979376",
+      "t": "Toy Story 4 (2019)",
+      "q": ["4K  WEB-DL  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["9D544B93DCF27C2118DBA5FBA55FD8258401D201", "B8A713FCC8B61B39D16D00834ABC70F6FB0642FB"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0114369",
+      "t": "Seven (1995)",
+      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["5F1B932B478832D39E0750439F68BB6FDA28ABE1", "9BF0710A04890C8F98E7B0B1A1DA2EAC8732A5AF", "9D9E746E8F20FD62895CB05BF6FC673E908D83A8"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kB4HTWPNqDuYFxnSOUV1XXZoDe7.jpg"
+    },
+    {
+      "id": "tt0110527",
+      "title": "Milagro en la ciudad (1994)",
+      "quality": "1080p | WEB-DL",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "7ED70032EB4868F2D06BE03CD16702A8AB16ABEB",
+      "poster": "https://www.themoviedb.org/t/p/w1280/heYt5iHBemRHzeNCjGBy5u1YMlr.jpg"
+    },
+    {
+      "id": "tt0109830",
+      "t": "Forrest Gump (1994)",
+      "q": ["4K  WEB-RIP  Dolby Atmos", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["8477AB52378167298B97A49B199BF4667A7D8257", "EC4535DF512599A5E0C7E0595B1691074A1B8C25"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/azV6hV99lYkdhydsQbJCI6FqMl4.jpg"
+    },
+    {
+      "id": "tt0110912",
+      "t": "Tiempos violentos (1994)",
+      "q": ["1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["A3D91DE22D7CB8A77812E1117C3F6B2248D94154", "20B2DF839FFF3F84EF57EE6F02506058D8979188"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/vruZ74rfN7LhykfkAJz21cVpN8M.jpg"
+    },
+    {
+      "id": "tt0110413",
+      "t": "El perfecto asesino (1994)",
+      "q": ["1080p | BluRayRip | AAC 5.1 | Version Extendida", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["779E80E61C1C0BDB137ECA8532D24F4B79D18F74", "31941B62BC65A9EA98FF6DA5A42F836B576142DD"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9e4u7My47wndOA8ZLYkEUzIhv6m.jpg"
+    },
+    {
+      "id": "tt0111161",
+      "t": "Sueño de fuga (1994)",
+      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["32770C6DD35A4DD71DEB80D5DEFF7A4E084EEDAB", "8F19010C25EA5D01F00A17E39ACF7596322C9DF2", "F24107F8FEE4DD7E299C3ACC0D1B865DEF08D3E5"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/l6V3TEoJlGh3ztAFxK2hemHfDJ2.jpg"
     },
     {
     "id": "tt0111257",
@@ -3273,6 +3041,343 @@
     "type": "movie"
     },
     {
+      "id": "tt0110357",
+      "t": "El rey león (1994)",
+      "q": ["4K | BluRay | AAC 5.1", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["087DBBB1BBD444D6D998B3E91E4FEA22D84401BC", "8AA0CC2DB13F2BB5EFB82D6C810262115F8DB53A"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg"
+    },
+    {
+      "id": "tt0107688",
+      "t": "El Extraño Mundo de Jack (1993)",
+      "q": ["4K  BluRay  AAC", "1080p  BluRayRip  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["7C5AF85C7926AF2188E30E649CE4B556D5371926", "E84F80BB5763CA051BA2A8C421F7DBE59ABD8A44"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/sPAPFeEi820pZtm2Y77tv8vQJnM.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0108052",
+      "t": "La Lista de Schindler (1993)",
+      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DTS 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["3B3F1688599DDAEB6445344448E1AE202A76E880", "416946B0BA95929BA1BA4163441A743C93F0225E", "CCC29DA30EE21877ACBF7298EE79FE752E729206"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xnvHaMFNXzemoH4uXHDMtKnpF7l.jpg"
+    },
+    {
+    "id": "tt0109665",
+    "title": "Dream Lover (1993)",
+    "quality": "1080 | WEB-DL | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "D0C999567925017D4E5DA8A301725724190DC87D",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5WpvMVuyulDGL2CENtnfT2RVfD.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0102926",
+    "title": "El silencio de los inocentes (1991)",
+    "quality": "1080p | WEB-DL | E-AC3 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "4CFA370B501D770BBDFAB6B7E3589CD6DA7B13AA",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9OotAIqASfWZES2xsZiHhfi2qm5.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0101272",
+    "title": "Los locos Addams (1991)",
+    "quality": "1080p | Bluray | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "11D28409E84E630AFA6F105F5746CC3B168CBE6B",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/sf0ABx2RewFdLi5QJEdRIfL8cBn.jpg",
+    "type": "movie"
+   },
+   
+   ["1990 - ↓ MOVIES"],
+    
+   {
+      "id": "tt0099685",
+      "t": "Buenos muchachos (1990)",
+      "q": ["4K REMUX | HDR | DTS 5.1", "1080p | BluRayRemux | DTS 5.1", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["B1D2009439743EAA717B376CDBAB46EA004DA602", "31038C2475F846EC3DD0E20790BC5F1888673CFD", "34DA4063A9F81B42DA6FAE7E4B4669E2D68E00EE"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/34J5FRCgMNp3YajenkVe26VoCbY.jpg"
+    },
+   {
+    "id": "tt0099785",
+    "title": "Mi pobre angelito (1990)",
+    "quality": "1080p | WEB-DL | Dolby Atmos",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "7A91D91C43D5B9B7339D7120E893D37366DF8C70",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zbzMCGszAiHCwIpTGD7fX79zsDA.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0104431",
+    "title": "Mi pobre angelito 2: Perdido en Nueva York (1992)",
+    "quality": "1080p | Bluray | AAC 5.1",
+    "language": "🇲🇽 LATINO",
+    "codec": "H.264",
+    "hash": "76019FEFF37C1C57EB06D431CBB3B910BB3B5157",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/48Wa6L2QzY47nWqtRCgiqYlecc9.jpg",
+    "type": "movie"
+    },
+    {
+      "id": "tt0096895",
+      "t": "Batman (1989)",
+      "q": ["4K  BluRayRemux  Dolby Atmos", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["C97BD70A0FEB428013377444D72016F67A5E8EEE", "92DBABBB56CD3D79B681AB6153CAFDE4B28113A6"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/kbeWnmnHNEnuVej6wcjUv0eY6IL.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0103776",
+      "t": "Batman Regresa (1992)",
+      "q": ["4K  BluRay  AAC 5.1", "1080p  WEB-DL  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["AD85CC630022B1326B408E31D6DC53A202E76644", "6D05BA148ABB817A5DBD2265BBC408D9FB059512"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/nCwLr2j66erneCQhsmdFQfhpY5o.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0093493",
+      "title": "Me enamoré de un maniquí (Mannequin) (1987)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "34EA8EE4442989F7D696A48C010392374CEEC445",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/jkizahsN5NUsjoRd2enHm8awhyz.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0093437",
+      "title": "Jovenes Ocultos (1987)",
+      "quality": "4K | BLURAY | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.265",
+      "hash": "ACE6CEBF543BE5C6E33F57941E57D671F5327433",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/w93f1iH59LfCJEpZujk45L6kjWk.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0088247",
+      "t": "Terminator (1984)",
+      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["5B1D9D987E570FFEB22D74BA5B15D91AF5587F2A", "9AC2CB2C124D5E83E6785E06D8600B76B84A1F59"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0103064",
+      "t": "Terminator 2: El Juicio Final (1991)",
+      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["647014408724FBF812870418FA1DD886FA4A8930", "81FD39EE14CC0377D2AB4BDEFAB02645543F6FB4"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1340138",
+      "t": "Terminator Genesis (2015)",
+      "q": ["4K  Dolby Vision  Dolby Atmos", "1080p  WEB-DL  Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "c": "H.264",
+      "h": ["945B81BADE49D73D6FC0D9F0A8FB193228DEBABF", "88F9720E16E16D350234013D6AC18B3601EB0BA9"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0086250",
+      "t": "Scarface: Caracortada (1983)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["E7105D959E6A12A7F98631F5D3A03E4C85A13995", "80EA64E9490B5BDD79BB9016C69C5D0A077AA0C7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/fPU5BdCeldWO4HB62J1dSxMo3gG.jpg"
+    },
+    {
+      "id": "tt0082198",
+      "title": "Conan, el bárbaro (1982)",
+      "quality": "1080p | WEB-DL | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "18010D70C26EC2D461090197CF23BA9684852840",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YBNMzXo1IEK7DF3i1rBdqwqMBx.jpg",
+      "type": "movie"
+    },
+     {
+      "id": "tt0083658",
+      "t": "Blade Runner (1982)",
+      "q": ["4K | BluRayRemux | DTS 7.1", "1080p | WEB-DL | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["9EC5C40406CBD35318D75E5AF680367558CC3C3F", "C9212E82F5F8AE83B4C9A196B0B7C71F8CF3C6AA"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/c9DfUXPaOueCxP6tdC7hVRN6izr.jpg"
+    },
+    {
+      "id": "tt1856101",
+      "t": "Blade Runner 2049 (2017)",
+      "q": ["4K REMUX | HDR10+ | TrueHD 7.1", "1080p | BluRayRemux | EAC3 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["0B4515C945E366D2C6F89222DD338873EDFA2548", "8F6668E1010C1440C2BC0206B8C7D1B21BE67104", "590BD30C640A52C10B970612BFEEA636F0E362AC"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    {
+      "id": "tt0078748",
+      "t": "Alien, el octavo pasajero (1979)",
+      "q": ["4K REMUX | HDR10+ | Dolby TrueHD", "1080p | BluRayRemux | AAC 5.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["50D0D1FC015C5AA2401DDD4D405DCACCB75F660B", "4E351351517433A7B9957675F0A70527EFE26BA3", "4A400EF6846787DAE10622900519B338DBC58E2F"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/30nEIxAwxRzcdGclBmuXuJ3eOHt.jpg"
+    },
+    {
+      "id": "tt0090605",
+      "t": "Alien 2: El regreso (1986)",
+      "q": ["4K REMUX | HDR | Dolby TrueHD", "1080p | BluRayRemux | Dolby Digital", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["BB6AFD72E219B2B8180FBCD7F8328AC4BA1D691E", "E1055C3F3BF9C0BBAC28B4029C5BB53F9FB86892", "EFFCE7094A9456DC88B668C00F89CFB1F8B18BA4"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg"
+    },
+    {
+      "id": "tt0103644",
+      "t": "Alien³ (1992)",
+      "q": ["4K | Upscaled | Dolby Digital 5.1", "1080p | BluRayRip | AAC 5.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["D6D0D8B8FDCDB760BF9DF9039D6310F411591FDC", "76EA37609E5448B33A174505FAF408B5FB5D4968", "702895AA848DD57CB919BD33D255321FED596476"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg"
+    },
+    {
+      "id": "tt0118583",
+      "t": "Alien La resurrección (1997)",
+      "q": ["", "1080p | BluRayRemux | Dolby Digital"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["", "BEC5E944D8A1DFAA572714D00A0A5D11933C7BCC"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zHVPGP4dxGoaN8wBxk4wz9TDNAn.jpg"
+    },
+    {
+      "id": "tt1446714",
+      "t": "Prometeo (2012)",
+      "q": ["4K REMUX | HDR | Dolby TrueHD", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["55F6855FC0D7599C21AA181AA16C2EB8782EEB49", "24D3DBA75A2754436443F1193C023FE78A4C0196"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/wGNgPcwLJ0s70qUymBuft6ddqEn.jpg"
+    },
+    {
+      "id": "tt2316204",
+      "t": "Alien: Covenant (2017)",
+      "q": ["4K REMUX | HDR | Dolby Atmos", "1080p | BluRayRemux | Dolby Digital"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["9370EEEBCEC36FC821E521241F658089964F03C4", "8F60E39FCB5617251B57C95EA28C2B3ACE70E8CB"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg"
+    },
+    {
+      "id": "tt18412256",
+      "t": "Alien: Romulus (2024)",
+      "q": ["4K WEB-DL | HDR10+ | Dolby Vision", "1080p | BluRayRemux | Dolby Digital", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["EED44B9D3C63856A4F682D5168009BB587CEF2BD", "F23308189668E411D95771DFB08F0C2BCDB96041", "F56F2CD5E5783E1AD1B9F022538B4E70F37CBDF7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/xmDypImhT0OOloQIj3JLslUrBw8.jpg"
+    },
+    {
+      "id": "tt0370263",
+      "t": "Alien vs. Depredador (2004)",
+      "q": ["4K | Upscaled | Dolby Digital 5.1", "1080p | BluRayRemux | Dolby Digital"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["CCE474CE23AF5F684F279A38698D8E700FAADDF7", "B2E9F9D921CA016D035657D52F1E45DFB8F68ED3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/2wHDyHrjIXkYjEtUKts6yUld6Ld.jpg"
+    },
+    {
+    "id": "tt0758730",
+    "title": "Aliens vs. Depredador 2 (2007)",
+    "quality": "1080p | BluRayRemux | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "E4CA4A670DBEBF0BC44558E146BA380EDC189A3E",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bhEaLpCwyqEi3dwnvP4oGXavIa6.jpg",
+    "type": "movie"
+    },
+    {
+      "id": "tt0073486",
+      "t": "Atrapado sin salida (1975)",
+      "q": ["4K REMUX | HDR | Dolby Vision", "1080p | BluRayRip |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["65472482440736DE4E25C90B054EE50DE9DCB221", "4CFA370B501D770BBDFAB6B7E3589CD6DA7B13AA"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/aFb4y84cmDGotn2BwVEtqr4q8m5.jpg"
+    },
+    {
+      "id": "tt0068646",
+      "t": "El Padrino (1972)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["768380AA03DCD113648CB12AB8E295ACEFC72142", "D9AA87B0DDD5E127877C16CF0E0D11FC4397C95F"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
+    },
+     {
+      "id": "tt0071562",
+      "t": "El Padrino Parte II (1974)",
+      "q": ["4K | BlurayRip | HDR", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["5D5BFC8024699FB45AA7DFB13CAADC86CD393AC1", "832F0F961FE2DBC15BBADC39C3B150974A565845"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/qhdp2FdmwqZxhT4LHdBbcOk0AlB.jpg"
+    },
+    {
+      "id": "tt0099674",
+      "t": "El Padrino Parte III (1990)",
+      "q": ["4K | BlurayRip | HDR", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["46AEA8FA7B02F2C73741BAD954D69C3E204106B2", "1519CEA9EE1FA118E9ECDA2CBE9A51AA2255D9A7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/t2uITSC1zZSdWrXryXO4qLOkJce.jpg"
+    },
+    {
+    "id": "tt0061852",
+    "title": "The Jungle Book (1967)",
+    "quality": "1080p | BluRayRip | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "21D4972FB1DAF5DD5AE73639B9DA7322441F5F5A",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/uBKffnwwHGIkQET18gVPsyeDdjC.jpg",
+    "type": "movie"
+    },
+    {
+    "id": "tt0283426",
+    "title": "The Jungle Book 2 (2003)",
+    "quality": "1080p | Bluray | AAC 5.1",
+    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+    "codec": "H.264",
+    "hash": "18ACA0E4CBBEE7AC8697107F97303D46273BDD2D",
+    "status": "aprobado",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg",
+    "type": "movie"
+    },
+    {
     "id": "tt0056172",
     "title": "Lawrence de Arabia (1962)",
     "quality": "4k | BLURAY | AAC 5.1",
@@ -3282,29 +3387,8 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w1280/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg",
     "type": "movie"
-    },
-    {
-    "id": "tt0482571",
-    "title": "El truco final (El prestigio) (2006)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-    "codec": "H.264",
-    "hash": "ECAB7B9A4830ED73B0339ABF662F82147EDFCBB1",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
-    "type": "movie"
-    },
-    {
-    "id": "tt1130884",
-    "title": "La isla siniestra (2010)",
-    "quality": "4k | BLURAY | AAC 5.1",
-    "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
-    "codec": "H.264",
-    "hash": "73E9670556B399A54A153C6087B4AF62322C027A",
-    "status": "aprobado",
-    "poster": "https://www.themoviedb.org/t/p/w1280/Ap0iZ0CRNCsrK6kUfWLA6HJwu2K.jpg",
-    "type": "movie"
     }
+    
   ]
 }
 
