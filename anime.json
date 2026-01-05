@@ -1,0 +1,13 @@
+{
+  "movies": [
+    {
+      "id": "tt",
+      "title": "NOMBRE DEL PELÍCULA ANIME",
+      "quality": "calidad",
+      "language": "idiona",
+      "hash": "",
+      "poster": "url_del_poster"
+    }
+    
+    ]
+}
