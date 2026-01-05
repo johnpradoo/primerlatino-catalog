@@ -1,13 +1,22 @@
 {
   "movies": [
     {
-      "id": "tt",
-      "title": "NOMBRE DEL PELÍCULA ANIME",
-      "quality": "calidad",
-      "language": "idiona",
-      "hash": "",
-      "poster": "url_del_poster"
+      "id": "tt0096283",
+      "title": "Mi Vecino Totoro (1988)",
+      "hash": "A942CD3796EE74FAC9CD4E36E1F1CE25930CC290",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/95U4rLY9b6In6SXgtmRtEEHLBKs.jpg"
+    },
+   {
+      "id": "tt7961060",
+      "t": "Dragon Ball Super: Broly (2018)",
+      "q": ["4K | HDR | DTS 5.1", "1080p | BluRayRemux | DTS 5.1", "1080p | BluRayRip | DTS 5.1"],
+      "l": "🇲🇽 LATINO | 🇯🇵 JAPON | 🌍 OTROS",
+      "c": "H.264",
+      "h": ["9F85416E18929CACC20DA4198E3F355324DD9F1B", "089C3736C50D3D476B56E524872AD14C1DC2FE03", "A33FEB0C63BD2729B59E24E1761F1970DCA805C3"],
+      "s": "aprobado",
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/6JilEC1SON8tWIRHcdJzf4uVBpX.jpg"
     }
-    
-    ]
+  ]
 }
