@@ -1511,7 +1511,15 @@
     },
 
     ["2022 MOVIES"],
-
+    
+    {
+      "id": "tt15296186",
+      "title": "12 horas para el fin del mundo (2022)",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "hash": "84F90168C0322DD2D3A717CC50ECA4515CB6EA2B",
+      "poster": "https://image.tmdb.org/t/p/w1280/uJ6UqxGxpG9SOs4yx9FnQ0bS9Me.jpg"
+    },
     {
       "id": "tt1877830",
       "t": "Batman (2022)",
