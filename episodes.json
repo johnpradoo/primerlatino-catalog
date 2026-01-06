@@ -1273,7 +1273,11 @@
     { "id": "tt0386176:1:38", "title": "Dave, el bárbaro", "season": 1, "episode": 38, "quality": "720p | HDTV | AAC 2.0", "language": "🇲🇽 LATINO", "codec": "H.264", "hash": "C6FB566CC1F4AD3CC3B7CA906F84F347C4878F74" },
     { "id": "tt0386176:1:39", "title": "Dave, el bárbaro", "season": 1, "episode": 39, "quality": "720p | HDTV | AAC 2.0", "language": "🇲🇽 LATINO", "codec": "H.264", "hash": "D8C31C22071D75A95FA70DDB58F19E1FA13D55EB" },
     { "id": "tt0386176:1:40", "title": "Dave, el bárbaro", "season": 1, "episode": 40, "quality": "720p | HDTV | AAC 2.0", "language": "🇲🇽 LATINO", "codec": "H.264", "hash": "E8585939101C3A64EA8F639F47C374901A8BD572" },
-    { "id": "tt0386176:1:41", "title": "Dave, el bárbaro", "season": 1, "episode": 41, "quality": "720p | HDTV | AAC 2.0", "language": "🇲🇽 LATINO", "codec": "H.264", "hash": "7F78122D9A7C9C5849E9F849E851B013FC5A0FF0" } 
+    { "id": "tt0386176:1:41", "title": "Dave, el bárbaro", "season": 1, "episode": 41, "quality": "720p | HDTV | AAC 2.0", "language": "🇲🇽 LATINO", "codec": "H.264", "hash": "7F78122D9A7C9C5849E9F849E851B013FC5A0FF0" } ,
+
+    { "id": "tt32146392:1:1", "title": "Dos tumbas (2025)", "season": 1, "episode": 1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "es SPANISH | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "582E3C8713EF4E60E1287976272B29F4FD041B47" },
+    { "id": "tt32146392:1:2", "title": "Dos tumbas (2025)", "season": 1, "episode": 2, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "es SPANISH | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "E5FEE71EDE90794B660C2AF06833271647696EBC" },
+    { "id": "tt32146392:1:3", "title": "Dos tumbas (2025)", "season": 1, "episode": 3, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "es SPANISH | 🇺🇸 ENGLISH", "codec": "H.264", "hash": "8A28DF3D4060ABD798F0A30CEC7FE3E643DF481B" }
   ]
 }
  
