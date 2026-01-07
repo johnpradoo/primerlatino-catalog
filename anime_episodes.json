@@ -18,7 +18,7 @@
 
     { "id": "tt3741634:2:1", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "2F0CF3648E8162CBA60E247B2C332434754F0115" },
     { "id": "tt3741634:2:2", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 2, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "2AB26696162D490A163D96B867F652A22AEFF16A" },
-    { "id": "tt3741634:2:3", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 3, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "8B329D3A109DF0995808BC0F29C597B31828273" },
+    { "id": "tt3741634:2:3", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 3, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "8B329D3A109DF0995808BC0F29C597B31828273D" },
     { "id": "tt3741634:2:4", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 4, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "91D80AC812D79B9DA1804CD2614C0A61DCC374B3" },
     { "id": "tt3741634:2:5", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 5, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "3191E2022B899A0CFCAFDAA482BA47D855950DBF" },
     { "id": "tt3741634:2:6", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 6, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "9F3548210A051B1CF6415F3E50B91E81ABFC9DE4" },
@@ -27,6 +27,19 @@
     { "id": "tt3741634:2:9", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 9, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "CA2D427B3743132DBFA717E001332C6B114482F8" },
     { "id": "tt3741634:2:10", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 10, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "E761D6D61959B61EE5403A11CED9E12F0FFD2661" },
     { "id": "tt3741634:2:11", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 11, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "B9105877440542560C0FFE29C286AB597E3DC996" },
-    { "id": "tt3741634:2:12", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 12, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "7E2CED3C66197615E3217738BA37FDC125CBD92A" }
+    { "id": "tt3741634:2:12", "title": "Tokyo Ghoul (2014)", "season": 2, "episode": 12, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "7E2CED3C66197615E3217738BA37FDC125CBD92A" },
+
+    { "id": "tt3741634:3:1", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 1, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "9CB6CAC2A9881D68D4FD7A667CDA74914C2F7690" },
+    { "id": "tt3741634:3:2", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 2, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "9EA341D38C256CC4D0BC2A139D76C5ADAD54E135" },
+    { "id": "tt3741634:3:3", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 3, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "E0CC8FBBB6DA9BAB05804A4FFCD9DE4B8DFB97CF" },
+    { "id": "tt3741634:3:4", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 4, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "FAFACDC263EC66DF5C7A04FEDE35847E0B8FAD5D" },
+    { "id": "tt3741634:3:5", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 5, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "C6DC11148489C3FC5BD448BAE49A824CC28CA909" },
+    { "id": "tt3741634:3:6", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 6, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "ACFF06D819AD320B3DAE676A0C52B49801AABD29" },
+    { "id": "tt3741634:3:7", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 7, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "8FB6C72310D99F9C4AB21FB529BEBD85B8379FC0" },
+    { "id": "tt3741634:3:8", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 8, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "6E2A78B64103AFC8FC3C193180D9ABBE10019B1D" },
+    { "id": "tt3741634:3:9", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 9, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "DCA401307A5D34E3F66D7C66B982461C2DCE2CD1" },
+    { "id": "tt3741634:3:10", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 10, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "CA84088244559E75E710943284BF8EB5FBE41D9D" },
+    { "id": "tt3741634:3:11", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 11, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "44AB6C576CEFF7F081119EF9178AB12748255400" },
+    { "id": "tt3741634:3:12", "title": "Tokyo Ghoul (2014)", "season": 3, "episode": 12, "quality": "1080p | WEB-DL | Dolby Atmos", "language": "🇲🇽 LATINO | 🇯🇵 JAPONÉS", "hash": "E4E434B354F58B84CCE1E6BCCEB5DFF31A69E182" }
   ]
 }
