@@ -1,10 +1,10 @@
 {
-    "progreso": [
-      {
+  "progreso": [
+    {
       "id": "tt2861424",
       "title": "Rick y Morty (2013)",
-        "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
-        "progreso": 80,
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
+      "progreso": 80,
       "descripcion": "Faltan 2 temporadas T7 y T8"
     },
     {
@@ -27,6 +27,13 @@
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ogH4r9HsimigseBNLzHn4uVNOxh.jpg",
       "progreso": 65,
       "descripcion": "Faltan 4 temporadas"
+    },
+    {
+      "id": "tt3741634",
+      "title": "Tokyo Ghoul (2014)",
+      "poster": "https://www.themoviedb.org/t/p/w1280/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+      "progreso": 33,
+      "descripcion": "Faltan 2 temporadas T2 y T3"
     }
   ]
 }
