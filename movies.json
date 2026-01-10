@@ -145,14 +145,11 @@
     },
     {
       "id": "tt23899310",
-      "title": "Sigue mi voz (2025)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇪🇸 ESPAÑOL | ORIGINAL",
-      "codec": "H.264",
-      "hash": "2535FA3C8E3B1A245E5B323E857E207C616E8E41",
-      "status": "aprobado",
-      "poster": "https://www.themoviedb.org/t/p/w1280/saNidIuqNyFSkCoW60cybQg3tL3.jpg",
-      "type": "movie"
+      "t": "Sigue mi voz (2025)",
+      "q": ["4K | WEB-DL | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇪🇸 ESPAÑOL | ORIGINAL",
+      "h": ["1E59EB0D2BD0C26B27AF9855FFB6B01C3E24A317", "2535FA3C8E3B1A245E5B323E857E207C616E8E41"],
+      "p": "https://www.themoviedb.org/t/p/w1280/saNidIuqNyFSkCoW60cybQg3tL3.jpg"
     },
     {
       "id": "tt10799690",
@@ -554,14 +551,11 @@
     },
     {
       "id": "tt31227572",
-      "title": "Depredador: Tierras salvajes (2025)",
-      "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
-      "codec": "H.264",
-      "hash": "A303794AD4033D6C12004DB6AE22C3936214E17E",
-      "status": "aprobado",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/8iKQNGDvV1lyF1TSsQ8xf5Notk.jpg",
-      "type": "movie"
+      "t": "Depredador: Tierras salvajes (2025)",
+      "q": ["4K | Dolby Vision | Dolby Atmos", "1080p | WEB-DL | Dolby Atmos"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["4AB6DC0462BD429E131037FD328211A471590D5C", "A303794AD4033D6C12004DB6AE22C3936214E17E"],
+      "p": "https://image.tmdb.org/t/p/w600_and_h900_face/8iKQNGDvV1lyF1TSsQ8xf5Notk.jpg"
     },
     {
       "id": "tt14107334",

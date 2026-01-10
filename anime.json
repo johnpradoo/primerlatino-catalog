@@ -1,6 +1,13 @@
 {
   "movies": [
-    
+    {
+      "id": "tt23572848",
+      "title": "Bob Esponja: Una aventura pirata (2025)",
+      "hash": "8FE3686EADABB229C36C21832A130CF32056877D",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/eAoe5NsdIFstr9Jxbeet5tpgH6r.jpg"
+    },
    {
       "id": "tt7961060",
       "t": "Dragon Ball Super: Broly (2018)",
