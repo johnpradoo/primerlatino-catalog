@@ -2666,12 +2666,76 @@
     "type": "movie"
     },
     {
+      "id": "tt0317219",
+      "t": "Cars (2006)",
+      "q": ["4K | HDR | TrueHD 7.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["4036488A265D07D338BE5C8773123C5C257198EF", "93B0ACF51F83ACE295BBE73CF4FCE6602D7269B7"],
+      "p": "https://www.themoviedb.org/t/p/w1280/lgBe9KD6DoLyQP28JZ6fSUGK8j0.jpg"
+    },
+    {
+      "id": "tt1216475",
+      "t": "Cars 2 (2011)",
+      "q": ["4K | BluRay | Dolby Atmos 7.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["3C5F6FBA2FE3B6AFE0585C18395CA8A0FE2A5311", "44650912164E7CD192E54E6049B999EF08D44A34"],
+      "p": "https://www.themoviedb.org/t/p/w1280/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg"
+    },
+    {
+      "id": "tt3606752",
+      "t": "Cars 3 (2017)",
+      "q": ["4K | BluRayRemux | Dolby Atmos 7.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["F3DB324F3C946ABB78A261B5895A0C568BE48D55", "3EB031A49C8A8CFEC1A6E80F2E46644C57A8904D"],
+      "p": "https://www.themoviedb.org/t/p/w1280/4tp9W3QAbQcpanBtBceZtHD10UT.jpg"
+    },
+    {
+      "id": "tt0198781",
+      "t": "Monsters, Inc. (2001)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRemux | DDP 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["F0F411ED2387C2DE138C1014257532DA4F6D552B", "E0C66633DFBB8B1D4FB9357E1691AA762F1B79C9"],
+      "p": "https://www.themoviedb.org/t/p/w1280/g3SgHEb5ej2MioGfYLrZVshF909.jpg"
+    },
+    {
+      "id": "tt1453405",
+      "t": "Monsters University (2013)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["11A0D8F2560D0438630823DB120FB4FF3635A438", "697EACA98D783E7211B230E37259D33F7778A870"],
+      "p": "https://www.themoviedb.org/t/p/w1280/fDwaVE6Ab1WGnzNEV4Irrtmbdsm.jpg"
+    },
+    {
+      "id": "tt2096673",
+      "t": "Intensa mente (2015)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["C13213F724B5CADBF3AEA724B042372B8069DB64", "80653219FEB75E40EB8A986CC05E8A91AFE28FFA"],
+      "p": "https://www.themoviedb.org/t/p/w1280/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg"
+    },
+    {
+      "id": "tt22022452",
+      "t": "Intensa mente 2 (2024)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | WEB-DL | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["D640FB594E8A0651B2B50E6F7ECB37BEA8ACACC0 ", "A69DD63B1AA65786EFEDD350DD0D5598EAF4E760"],
+      "p": "https://www.themoviedb.org/t/p/w1280/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg"
+    },
+    {
       "id": "tt0266543",
       "t": "Buscando a Nemo (2003)",
       "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRemux | DDP 5.1", "1080p | BluRayRip |  EAC3 5.1"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["5C861B078BAE4553846EECA34363DCFFA80CD6D8", "4AAF45E554FD279272DA5E34B8FC85A0D97B9792", "1EC1BB58451807A7082434FE5EABFC8231925B86"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/jPhak722pNGxQIXSEfeWIUqBrO5.jpg"
+    },
+    {
+      "id": "tt2277860",
+      "t": "Buscando a Dory (2016)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRemux | DDP 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["9D6A9A8A8EEA09803B96D43456E278C6A4D01A83", "2094AEFF668A5045C0E2A998B447F360B7A584EA"],
+      "p": "https://www.themoviedb.org/t/p/w1280/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg"
     },
     {
       "id": "tt0325980",
