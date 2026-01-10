@@ -92,6 +92,10 @@
 
     ["FIN TOP 10 MOVIES 2025"],
 
+    ["2026 MOVIES"],
+
+
+
     ["2025 MOVIES"],
    
     {
@@ -114,10 +118,18 @@
       "type": "movie"
     },
     {
+      "id": "tt23572848",
+      "title": "Bob Esponja: Una aventura pirata (2025)",
+      "hash": "8FE3686EADABB229C36C21832A130CF32056877D",
+      "quality": "1080p | WEB-DL | Dolby Atmos",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/eAoe5NsdIFstr9Jxbeet5tpgH6r.jpg"
+    },
+    {
       "id": "tt31495504",
       "title": "Tiger: tanque de guerra (2025)",
       "quality": "1080p | WEB-DL | Dolby Atmos",
-      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "language": "🇲🇽 LATINO | 🇩🇪 ALEMAN",
       "codec": "H.264",
       "hash": "256FAAC2B83704218478047253DC4F99887BD339",
       "status": "aprobado",
@@ -1716,6 +1728,14 @@
       "type": "movie"
     },
     {
+      "id": "tt7286456",
+      "t": "Guasón (2019)",
+      "q": ["4K | BluRayRemux | DDP 5.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | DD 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["E82BE3271B616246E945EFDA91BE18855CBED6E5", "E3A9734586B66AC82010CA21FAA82C24062E4A3D", "76BD651D73FAC6596AE8B2BDBEA322C543D679C5"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/2cta3k9kgsgweUTY2LvMSFjuB6e.jpg"
+    },
+    {
       "id": "tt8350360",
       "title": "Annabelle 3: Viene a casa (2019)",
       "quality": "4K | Dolby Vision | Dolby Atmos",
@@ -1829,6 +1849,14 @@
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "62EAB5C45D087B01B130DA3397125BBDEA463579",
       "poster": "https://www.themoviedb.org/t/p/w1280/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg"
+    },
+    {
+      "id": "tt2380307",
+      "t": "Coco (2017)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["3705F585D9E56E49DDF8562682BAB7E13CE17088", "35E2EBDE263C776FB16789E29C9102CEF8745228", "3672A59E91C45B645F40BB669ED39793DB759E6D"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/AtS2koDbS80k1uFOsD7gQoZl8RT.jpg"
     },
     {
     "id": "tt2283362",
@@ -1947,6 +1975,14 @@
       "poster": "https://www.themoviedb.org/t/p/w1280/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg"
     },
     {
+      "id": "tt1392190",
+      "t": "Mad Max: Furia en la carretera (2015)",
+      "q": ["4K | HDR10+ | Dolby Vision", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["8DA50227B242059D945FFEA1B09BB74013078352", "346180A655A7C8DA19A44D8E91A8EE3EA4288BD8"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/mnVZLdo9C4X80sJmgcGNpMNCbgk.jpg"
+    },
+    {
       "id": "tt2582802",
       "t": "Whiplash. Música y obsesión (2014)",
       "q": ["1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
@@ -2047,6 +2083,22 @@
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "hash": "85F0C7069CBE8F4DA5E715E848A6122CC928C5C1",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5uMWKEmegf5aTJnp1u98JF4QerP.jpg"
+    },
+    {
+      "id": "tt0993846",
+      "t": "El lobo de Wall Street (2013)",
+      "q": ["4K | BluRayRemux | DDP 5.1", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["A8BDC500D758DE7D63178DD0924A3CF2C4D31284", "76BD651D73FAC6596AE8B2BDBEA322C543D679C5"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg"
+    },
+    {
+      "id": "tt2024544",
+      "t": "12 años de esclavitud (2013)",
+      "q": ["1080p | BluRayRemux | DTS 5.1", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["0F1F29BEC2377163CB7CD252AAB9EE351A7CC50B", "0BD9782867C61F7295E0254D88E3AA7AAF77CB29"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg"
     },
     {
       "id": "tt1663662",
@@ -2222,6 +2274,14 @@
       "type": "movie"
     },
     {
+      "id": "tt1305806",
+      "t": "El secreto de sus ojos (2009)",
+      "q": ["1080p | BluRayRip | DTS", "1080p | WEB-DL | DTS"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["A2BF777CD798C7A31CE8961C6E44E4B1AFDE51AC", "A2324A920CACFA82437031515AC41423EF8069F5"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/sd6LML87wa9UPZgfuPnGwic82YH.jpg"
+    },
+    {
       "id": "tt1160368",
       "title": "12 trampas (2009)",
       "quality": "1080p | WEB-DL",
@@ -2294,6 +2354,17 @@
       "language": "🇲🇽 LATINO",
       "hash": "EBAA9344725A8F23C1657FEBEC493E7B10637566",
       "poster": "https://www.themoviedb.org/t/p/w1280/8RS1hnl4JI9ArfRSNroYBw8yHce.jpg"
+    },
+    {
+      "id": "tt1205489",
+      "title": "Gran Torino (2008)",
+      "quality": "1080p | WEB-DL | DDP 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "61CB9DBF5EA28EC362FDD5AFDF8CFAE1C97E509E",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg",
+      "type": "movie"
     },
     {
     "id": "tt0421715",
@@ -2372,7 +2443,7 @@
       "quality": "1080p | BluRayRip | E-AC3 5.1",
       "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
       "codec": "H.264",
-      "hash": "708224E9076029BE733F9FE3A2068F884D0B1291",
+      "hash": "765FAEA3620917123F5D0183A3E0CDAB36940483",
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/d9wHkwF9ttnNKuOoEIStve32jEk.jpg",
       "type": "movie"
@@ -2386,6 +2457,14 @@
     "hash": "AED0C67B93E7E5D41B4631D2BC64220438112AA5",
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/6ZMgrMK1Xq7tKDXypKuTBpiv5K.jpg"
+    },
+    {
+      "id": "tt0477348",
+      "t": "Sin lugar para los débiles (2007)",
+      "q": ["4K | Upscaled | DTS", "1080p | BluRayRip |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["B0D747111FD03508002C72CB9914DDECB5DE8E04", "1A7AA92874B95C80A63E25B934351E816E8125D0"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/gCuhfmfde3S37qlCjni5fjwDjp3.jpg"
     },
     {
       "id": "tt0790604",
@@ -2443,6 +2522,14 @@
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["D9F2A0ECE9ED90D3FF32B86B1D2B042941795506", "A1A680CE10B90DE5AAC0811FA46A49488FC94523"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/953ZprqPxXSfhHvjBVRiIv7fSP6.jpg"
+    },
+    {
+      "id": "tt0434409",
+      "t": "V de Vendetta (2005)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["59CC05D30C5669D6C0CF13074852DD513B46B4D3", "153BC582BD00A1C8CCB19E79DCD2598E731E42D7"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/94BrTMdVKqki2NS5rsXqOQi8joH.jpg"
     },
     {
       "id": "tt0399201",
@@ -2549,6 +2636,14 @@
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/l5yopdLguxJsJVmMK3RgMCW2JmJ.jpg"
     },
     {
+      "id": "tt0405159",
+      "t": "Golpes del destino (2004)",
+      "q": ["1080p | WEB-DL | DDP 5.1", "1080p | BluRayRip | EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH ",
+      "h": ["BD27473D088576A3A18B3FD40190A9D5DAA9B9BE ", "51CD47E417903E6DABC3350D8175A6EE85AAA204"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/tIw6uoxeFPxlbGjV9PSHTVJsA5F.jpg"
+    },
+    {
     "id": "tt0378194",
     "title": "Kill Bill: Vol. 2 (2004)",
     "quality": "1080p | BluRayRip x265 | AAC 5.1",
@@ -2569,6 +2664,14 @@
     "status": "aprobado",
     "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/lfj709InbmljVqAXgUk2qjnujNN.jpg",
     "type": "movie"
+    },
+    {
+      "id": "tt0266543",
+      "t": "Buscando a Nemo (2003)",
+      "q": ["4K | BluRayRemux | TrueHD 7.1", "1080p | BluRayRemux | DDP 5.1", "1080p | BluRayRip |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["5C861B078BAE4553846EECA34363DCFFA80CD6D8", "4AAF45E554FD279272DA5E34B8FC85A0D97B9792", "1EC1BB58451807A7082434FE5EABFC8231925B86"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/jPhak722pNGxQIXSEfeWIUqBrO5.jpg"
     },
     {
       "id": "tt0325980",
@@ -2641,6 +2744,14 @@
       "status": "aprobado",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iJrvkckDP7MKfimogB6lNUfQRx.jpg",
       "type": "movie"
+    },
+    {
+      "id": "tt0253474",
+      "t": "El pianista (2002)",
+      "q": ["4K WEB-DL | HDR10+ | Dolby Atmos", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "h": ["112F63D24FD3A1CED77EF30E79A9EA5FD68BFD16", "0D48D16010219BD19749BC0527E8E9FF6F1AD5FC"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/9vE3DpRwZi1QelzkpSxo5UfxP8M.jpg"
     },
     {
       "id": "tt0145487",
@@ -2957,6 +3068,14 @@
       "type": "movie"
     },
     {
+      "id": "tt0245712",
+      "t": "Amores perros (2000)",
+      "q": ["4K | BluRayRemux | DDP 5.1", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["4705083D49B4E36F9142C7F82212C282F71FCFE3", "BDA669E2CB4BFB32FEE5D17764912239031F9C4D"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/plwlVmGqQxdKUlFbOs2MJTztmXO.jpg"
+    },
+    {
       "id": "tt0209144",
       "t": "Memento (2000)",
       "q": ["4K | Upscaled | DDP 5.1", "1080p | BluRayRip |  EAC3 5.1"],
@@ -2976,12 +3095,72 @@
       "type": "movie"
     },
     {
+      "id": "tt0167404",
+      "t": "El sexto sentido (1999)",
+      "q": ["4K | HDR | Dolby Vision", "1080p | BluRayRemux | AAC 5.1", "1080p | WEB-DL | DDP 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["D3D31A617E9C445FD851DF6AFC44747DCC1A2023", "32CF1BB784728B8F0463B616EA6A2232DC30444A", "526F314633047977815B3A75D64F7A0E4107054F"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/wcnLlfQ2USwvyYbd6XgtNEOQfMT.jpg"
+    },
+    {
+      "id": "tt0129167",
+      "t": "El gigante de hierro (1999)",
+      "q": ["1080p | WEB-DL | DDP 5.1", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["78AC5B2C9BBFB7E425287587399C2506EC9DE0E3", "51CD47E417903E6DABC3350D8175A6EE85AAA204"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg"
+    },
+    {
       "id": "tt0120689",
       "t": "Milagros inesperados (1999)",
       "q": ["4K REMUX | HDR | Dolby Atmos 7.1", "1080p | BluRayRemux | TrueHD 7.1", "1080p | BluRayRip | AAC 5.1"],
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["99C2D60CE594692D570994C813F681B3F7DA8042", "C9D6D0B0A72589D671CACFB4E4F058413A442A86", "B313557327158AD7D01B5816237A653C97814B60"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/7ezlnHDn6clFku58TmFmpKUQUqf.jpg"
+    },
+    {
+      "id": "tt0163651",
+      "title": "American pie: tu primera vez (1999)",
+      "quality": "1080p | Bluray | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "F53A8117ECD1EE6BEFC0415163B2C1F5747609D9",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w1280/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0252866",
+      "title": "American pie 2: tu segunda vez (2001)",
+      "quality": "1080p | WEB-DL | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "EAA5DA1920A0B814D1E46DAD81DC1A79B37A0B39",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w1280/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt0328828",
+      "title": "American pie 3: la boda (2003)",
+      "quality": "1080p | WEB-DL | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "FE05E03CBA33F8C9780790B46453293DE4F963EC",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w1280/iQAHdYEQwHP5eTz2amOItX4WI5r.jpg",
+      "type": "movie"
+    },
+    {
+      "id": "tt1605630",
+      "title": "American pie: el reencuentro (2012)",
+      "quality": "1080p | WEB-DL | AAC 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "561AE2C4410FC134BB4BC17E95D03306B92F55E7",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w1280/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg",
+      "type": "movie"
     },
     {
       "id": "tt0137523",
@@ -3010,6 +3189,17 @@
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/aMij3XE0wSoLHWqP7qK0fPOReTb.jpg"
     },
     {
+      "id": "tt0120382",
+      "title": "The Truman Show: Historia de una vida (1998)",
+      "quality": "1080p | BluRayRip | E-AC3 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "9F065901653C7B679E085E6ED10FCC0318457598",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/mUrSVUGONlNQypCDHjfnRJJwPeO.jpg",
+      "type": "movie"
+    },
+    {
       "id": "tt0128853",
       "title": "Tienes un e-mail (1998)",
       "quality": "1080p | FullHD | AAC",
@@ -3027,6 +3217,14 @@
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["4CA19C1FF371ECBDC788FC0644A0069F049BCAF0", "4671CB6253CE1635155ACFC3027FDC238A805B35", "02A42DDC702B897ABBB6EBF5315A84DD3D76214F"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/EJFkJD9BH400jfzKz3W5xLYHQa.jpg"
+    },
+    {
+      "id": "tt0120338",
+      "t": "Titanic (1997)",
+      "q": ["4K | BluRayRemux | DTS 5.1", "1080p | WEB-DL | DDP 5.1", "1080p | BluRayRip |  AAC 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["BB8DEDAF002660EB5F9A9A7776B29FC18F54535B", "5AFD317558B285781EB96C2A50EA6A9E44FE73DC", "D0E224BB996A96B24DCA7F9B7695E37E4F424FA3"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/2tltWMvvTqscFtdujTXDsRFTqKQ.jpg"
     },
     {
       "id": "tt0119654",
@@ -3057,6 +3255,17 @@
       "h": ["3F31FB061B8D9D8A9D8758CAEDE7D4C419CBAEDF", ""],
       "s": "aprobado",
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/rcVJtZCGnp39obbDKYred2mT9sE.jpg"
+    },
+    {
+      "id": "tt0117951",
+      "title": "Trainspotting: La vida en el abismo (1996)",
+      "quality": "1080p | BluRayRip | E-AC3 5.1",
+      "language": "🇲🇽 LATINO | 🇺🇸 ENGLISH",
+      "codec": "H.264",
+      "hash": "463900156A1DBFE1785983794620A0FEC15D6F52",
+      "status": "aprobado",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/y0HmDV0bZDTtXWHqqYYbT9XoshB.jpg",
+      "type": "movie"
     },
     {
       "id": "tt0116705",
@@ -3585,6 +3794,14 @@
       "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
       "h": ["65472482440736DE4E25C90B054EE50DE9DCB221", "4CFA370B501D770BBDFAB6B7E3589CD6DA7B13AA"],
       "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/aFb4y84cmDGotn2BwVEtqr4q8m5.jpg"
+    },
+    {
+      "id": "tt0070047",
+      "t": "El exorcista (1973)",
+      "q": ["4K REMUX | HDR10+ | Dolby Vision", "1080p | WEB-DL | EAC3 5.1", "1080p | BluRayRip |  EAC3 5.1"],
+      "l": "🇲🇽 LATINO | 🇺🇸 ENGLISH | 🌍 OTROS",
+      "h": ["8735337A2B1A8C7F178FA95FE719FA9F5A2ABD6E", "F7C77E00A61940796FEE70E81ACDCE3D3249BCB6", "6BEBF23D437F52B91B641C4749EA2EC0F638FCC0"],
+      "p": "https://www.themoviedb.org/t/p/w600_and_h900_face/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg"
     },
     {
       "id": "tt0068646",
